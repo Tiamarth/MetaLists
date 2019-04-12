@@ -7,6 +7,7 @@ Generally, I will only list software that is still available for download from o
 
 ## Current Lists
 - [Email Clients](email_clients.md)
+- [Music Players](music_players.md)
 - [Office Suites](office_suites.md)
 - [Search Engines](search_engines.md)
 - [Text Editors](text_editors.md)
