@@ -41,6 +41,6 @@ I only stick to these definitions strictly in the case of web browsers and email
 Some lists may not even include the development status of the software in cases where it's not very relevant.
 
 #### Note
-This database is being moved from Reddit where it was a wiki, which was originally moved from my website where it was a poorly made webpage. I'm moving it to Github because I expect that, if anyone should want to contribute, Github will make it much easier for them to do so.
+This database was moved from Reddit where it was a wiki, which was originally moved from my website where it was a poorly made webpage. I'm moving it to Github because I expect that, if anyone should want to contribute, Github will make it much easier for them to do so.
 
 For now I'm putting the lists in their own markdown files in the top level of the repo, but it's not impossible that I'll eventually put them in a wiki here; or, make a github site for the project so that people who aren't familiar with Github can more easily peruse the lists.

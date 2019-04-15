@@ -83,4 +83,4 @@ Preemptive responses to likely FAQs:
 (Although, some people claim cli music players tend to play audio back more accurately.)
 
 **Why aren't VLC, WMP, or (insert some other popular media player) on this list?**  
-*This is a list of music players,* and those are media players. Media players are capable of playing video files as well as audio files. Music players are strictly capable of playing audio files. There will be a list for media players on this subreddit at some point in the future.
+*This is a list of music players,* and those are media players. Media players are capable of playing video files as well as audio files. Music players are strictly capable of playing audio files. There will be a list for media players in this repo at some point in the future.
