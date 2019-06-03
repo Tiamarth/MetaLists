@@ -50,6 +50,7 @@
 | [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | active               | no          | yes    | Blink         |
 | [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
 | [Comodo Dragon](https://browser.comodo.com/)                                                  | active               | no          | no     | Blink         |
+| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
 | [Liri](https://github.com/lirios/browser)                                                     | active^2             | yes         | yes    | QtWebEngine   |
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
 | [Falkon](https://www.falkon.org/)                                                             | active               | yes         | yes    | QtWebEngine   |
@@ -80,13 +81,10 @@
 | [Browzar](http://www.browzar.com/)                                                            | discontinued         | no          | soon   | Trident       |
 | [Slim Browser](http://www.slimbrowser.net/)                                                   | active               | no          | no     | Trident       |
 | [TheWorld Browser](http://www.theworld.cn/twen/)                                              | discontinued         | no          | no     | Trident       |
-| [360 Security Browser](https://browser.360.cn/se/en.html)                                     | unclear              | no          | no     | Trident       |
 | [Opera legacy](https://ftp.opera.com/pub/opera/)                                              | discontinued         | no          | yes    | Presto        |
 | [Konqueror](https://konqueror.org/)                                                           | discontinued         | yes         | yes    | KHTML         |
 | [gngr](https://gngr.info/)                                                                    | active               | yes         | yes    | Cobra         |
-| [Htmlviewer](http://tkhtml.tcl.tk/hv3.html)                                                   | discontinued         | yes         | yes    | Tkhtml        |
-| [Dillo](http://www.dillo.org/)                                                                | unclear              | yes         | yes    | Dillo         |
-| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | EdgeHTML      |
+| [Htmlviewer](http://tkhtml.tcl.tk/hv3.html)                                                   | discontinued         | yes         | yes    | Tkhtml3       |
 | [Google Ultron](http://ultronbrowser.io/)                                                     | active               | yes         | no     | Adobe Reader  |
 | [ELinks](http://elinks.cz/)                                                                   | discontinued         | yes         | yes    | Custom        |
 | [NetSurf](http://www.netsurf-browser.org/)                                                    | ongoing              | yes         | yes    | Custom        |
@@ -102,6 +100,8 @@
 | [IBrowse](http://www.ibrowse-dev.net/)                                                        | ongoing              | no          | no     | Unspecified   |
 | [OperAnk](http://operank-ankush.blogspot.com/)                                                | discontinued         | no          | no     | Unspecified   |
 | [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Unspecified^4 |
+| [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | unclear              | no          | no     | Unspecified   |
+| [360 Security Browser](https://browser.360.cn/se/en.html)                                     | unclear              | no          | no     | Unspecified   |
 
 ## Software with embedded web browsers
 | Name                                        | Development Status | Open Source | Linux | Engine      |
