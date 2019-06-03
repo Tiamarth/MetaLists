@@ -51,6 +51,7 @@
 | [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
 | [Comodo Dragon](https://browser.comodo.com/)                                                  | active               | no          | no     | Blink         |
 | [Liri](https://github.com/lirios/browser)                                                     | active^2             | yes         | yes    | QtWebEngine   |
+| [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
 | [Falkon](https://www.falkon.org/)                                                             | active               | yes         | yes    | QtWebEngine   |
 | [Safari](https://www.apple.com/safari/)                                                       | active               | no          | no     | WebKit        |
 | [Roccat](http://runecats.com/)                                                                | active               | no          | no     | WebKit        |
@@ -82,21 +83,20 @@
 | [360 Security Browser](https://browser.360.cn/se/en.html)                                     | unclear              | no          | no     | Trident       |
 | [Opera legacy](https://ftp.opera.com/pub/opera/)                                              | discontinued         | no          | yes    | Presto        |
 | [Konqueror](https://konqueror.org/)                                                           | discontinued         | yes         | yes    | KHTML         |
+| [gngr](https://gngr.info/)                                                                    | active               | yes         | yes    | Cobra         |
 | [Htmlviewer](http://tkhtml.tcl.tk/hv3.html)                                                   | discontinued         | yes         | yes    | Tkhtml        |
 | [Dillo](http://www.dillo.org/)                                                                | unclear              | yes         | yes    | Dillo         |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | EdgeHTML      |
 | [Google Ultron](http://ultronbrowser.io/)                                                     | active               | yes         | no     | Adobe Reader  |
 | [ELinks](http://elinks.cz/)                                                                   | discontinued         | yes         | yes    | Custom        |
 | [NetSurf](http://www.netsurf-browser.org/)                                                    | ongoing              | yes         | yes    | Custom        |
-| [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | Various       |
 | [Avant](http://avantbrowser.com/)                                                             | active               | no          | no     | Various       |
 | [Maxthon](http://www.maxthon.com/)                                                            | active               | no          | no^3   | Various       |
-| [Tungsten](http://en.tungsten-start.net/)                                                     | dormant              | no          | soon   | Various       |
-| [Lunascape](http://www.lunascape.tv/)                                                         | active               | no          | no     | Various       |
-| [UC Browser](http://www.ucweb.com/)                                                           | discontinued         | no          | soon   | Various       |
+| [Tungsten](http://en.tungsten-start.net/)                                                     | ongoing              | no          | no     | Various       |
+| [Lunascape](http://www.lunascape.tv/)                                                         | ongoing              | no          | no     | Various       |
+| [UC Browser](http://www.ucweb.com/)                                                           | active               | no          | no     | Various       |
 | [qutebrowser](https://qutebrowser.org/)                                                       | active               | yes         | yes    | Various       |
-| [gngr](https://gngr.info/)                                                                    | active               | yes         | yes    | Unspecified   |
-| [Alloy](http://alloy.simoncaminada.ch/)                                                       | unclear              | no          | soon   | Unspecified   |
+| [Alloy](http://alloy.simoncaminada.ch/)                                                       | discontinued         | no          | no     | Unspecified   |
 | [Links](http://links.twibright.com/)                                                          | unclear              | yes         | yes    | Unspecified   |
 | [Webby](https://launchpad.net/webby-browser)                                                  | discontinued         | yes         | yes    | Unspecified   |
 | [IBrowse](http://www.ibrowse-dev.net/)                                                        | ongoing              | no          | no     | Unspecified   |
