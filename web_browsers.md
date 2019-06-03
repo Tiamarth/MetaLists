@@ -73,13 +73,12 @@
 | [AOL Desktop](https://discover.aol.com/products-and-services/aol-desktop-for-windows)         | unclear              | no          | no     | WebKit        |
 | [Internet Surfboard](http://inetsurfboard.sourceforge.net/)                                   | discontinued         | yes         | no     | WebKit        |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | WebKit        |
-| [Lynx](http://lynx.browser.org/)                                                              | active               | no          | no     | WebKitGTK+    |
 | [surf](http://surf.suckless.org/)                                                             | active               | no          | no     | WebKitGTK+    |
 | [Eolie](https://wiki.gnome.org/Apps/Eolie)                                                    | active               | yes         | yes    | WebKitGTK+    |
 | [Microsoft Internet Explorer](https://support.microsoft.com/en-us/products/internet-explorer) | active               | no          | no     | Trident       |
 | [S-Web](http://theswaggmaster.weebly.com/s-web.html)                                          | discontinued         | no          | no     | Trident       |
-| [Browzar](http://www.browzar.com/)                                                            | discontinued         | no          | soon   | Trident       |
-| [Slim Browser](http://www.slimbrowser.net/)                                                   | active               | no          | no     | Trident       |
+| [Browzar](http://www.browzar.com/)                                                            | discontinued         | no          | no     | Trident       |
+| [Slim Browser](http://www.slimbrowser.net/)                                                   | dormant              | no          | no     | Trident       |
 | [TheWorld Browser](http://www.theworld.cn/twen/)                                              | discontinued         | no          | no     | Trident       |
 | [Opera legacy](https://ftp.opera.com/pub/opera/)                                              | discontinued         | no          | yes    | Presto        |
 | [Konqueror](https://konqueror.org/)                                                           | discontinued         | yes         | yes    | KHTML         |
@@ -94,6 +93,7 @@
 | [Lunascape](http://www.lunascape.tv/)                                                         | ongoing              | no          | no     | Various       |
 | [UC Browser](http://www.ucweb.com/)                                                           | active               | no          | no     | Various       |
 | [qutebrowser](https://qutebrowser.org/)                                                       | active               | yes         | yes    | Various       |
+| [Lynx](http://lynx.browser.org/)                                                              | unclear              | yes         | yes    | Unspecified   |
 | [Alloy](http://alloy.simoncaminada.ch/)                                                       | discontinued         | no          | no     | Unspecified   |
 | [Links](http://links.twibright.com/)                                                          | unclear              | yes         | yes    | Unspecified   |
 | [Webby](https://launchpad.net/webby-browser)                                                  | discontinued         | yes         | yes    | Unspecified   |
