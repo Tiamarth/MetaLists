@@ -50,6 +50,7 @@
 | [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | active               | no          | yes    | Blink         |
 | [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
 | [Comodo Dragon](https://browser.comodo.com/)                                                  | active               | no          | no     | Blink         |
+| [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink        |
 | [Liri](https://github.com/lirios/browser)                                                     | active^2             | yes         | yes    | QtWebEngine   |
@@ -70,7 +71,6 @@
 | [Stainless](https://github.com/mesadynamics/stainless)                                        | discontinued         | yes         | no     | WebKit        |
 | [WebPositive](https://www.haiku-os.org/docs/userguide/en/applications/webpositive.html)       | unclear              | yes         | no     | WebKit        |
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | WebKit        |
-| [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | WebKit        |
 | [AOL Desktop](https://discover.aol.com/products-and-services/aol-desktop-for-windows)         | unclear              | no          | no     | WebKit        |
 | [Internet Surfboard](http://inetsurfboard.sourceforge.net/)                                   | discontinued         | yes         | no     | WebKit        |
 | [surf](http://surf.suckless.org/)                                                             | active               | no          | no     | WebKitGTK+    |
