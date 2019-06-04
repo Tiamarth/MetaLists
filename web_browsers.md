@@ -9,14 +9,14 @@
 | [GNU IceCat](https://www.gnu.org/software/gnuzilla/)                                          | active               | yes         | yes    | Gecko         |
 | [Tor](https://www.torproject.org/)                                                            | active               | yes         | yes    | Gecko         |
 | [Cliqz](https://cliqz.com/en/)                                                                | active               | yes         | yes    | Gecko         |
-| [Galeon](http://galeon.sourceforge.net/)                                                      | discontinued         | yes         | yes    | Gecko         |
-| [Sandcat](http://www.syhunt.com/sandcat/)                                                     | active               | yes         | no     | Gecko         |
-| [Cyberfox](https://cyberfox.8pecxstudios.com/)                                                | active               | yes         | yes    | Gecko         |
-| [K-Meleon](http://kmeleonbrowser.org/)                                                        | active               | yes         | no     | Gecko         |
+| [Galeon](https://sourceforge.net/projects/galeon/)                                            | discontinued         | yes         | yes    | Gecko         |
+| [Sandcat](https://github.com/felipedaragon/sandcat)                                           | active               | yes         | no     | Gecko         |
+| [Cyberfox](https://sourceforge.net/projects/cyberfox/)                                        | discontinued         | yes         | yes    | Gecko         |
+| [K-Meleon](http://kmeleonbrowser.org/)                                                        | dormant              | yes         | no     | Gecko         |
 | [Waterfox](https://www.waterfoxproject.org/)                                                  | active               | yes         | yes    | Gecko         |
 | [CometBird](http://www.cometbird.com/)                                                        | discontinued         | yes         | no     | Gecko         |
-| [Iceweasel](https://wiki.debian.org/Iceweasel)                                                | active               | yes         | yes    | Gecko         |
-| [Light Firefox](https://sourceforge.net/projects/lightfirefox/)                               | discontinued         | yes         | no     | Gecko         |
+| [Iceweasel](https://wiki.debian.org/Iceweasel)                                                | deprecated           | yes         | yes    | Gecko         |
+| [Light](https://sourceforge.net/projects/lightfirefox/)                                       | discontinued         | yes         | no     | Gecko         |
 | [Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/icedragon-browser.php)       | active               | no          | no     | Gecko         |
 | [Pale Moon](https://www.palemoon.org/)                                                        | active               | yes         | yes    | Goanna        |
 | [Pale Moon Unstable](https://www.palemoon.org/unstable/)                                      | active               | yes         | yes    | Goanna        |
