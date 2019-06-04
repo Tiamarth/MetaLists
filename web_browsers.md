@@ -51,6 +51,7 @@
 | [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
 | [Comodo Dragon](https://browser.comodo.com/)                                                  | active               | no          | no     | Blink         |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
+| [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink        |
 | [Liri](https://github.com/lirios/browser)                                                     | active^2             | yes         | yes    | QtWebEngine   |
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
 | [Falkon](https://www.falkon.org/)                                                             | active               | yes         | yes    | QtWebEngine   |
@@ -72,7 +73,6 @@
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | WebKit        |
 | [AOL Desktop](https://discover.aol.com/products-and-services/aol-desktop-for-windows)         | unclear              | no          | no     | WebKit        |
 | [Internet Surfboard](http://inetsurfboard.sourceforge.net/)                                   | discontinued         | yes         | no     | WebKit        |
-| [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | WebKit        |
 | [surf](http://surf.suckless.org/)                                                             | active               | no          | no     | WebKitGTK+    |
 | [Eolie](https://wiki.gnome.org/Apps/Eolie)                                                    | active               | yes         | yes    | WebKitGTK+    |
 | [Microsoft Internet Explorer](https://support.microsoft.com/en-us/products/internet-explorer) | active               | no          | no     | Trident       |
