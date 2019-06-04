@@ -47,10 +47,10 @@
 | [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
 | [Polarity](http://polarityweb.weebly.com/)                                                    | active               | no          | no     | Blink         |
 | [CentBrowser](http://www.centbrowser.com/)                                                    | active               | no          | no     | Blink         |
-| [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | active               | no          | yes    | Blink         |
+| [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | discontinued         | no          | yes    | Blink         |
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | Blink        |
 | [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
-| [Comodo Dragon](https://browser.comodo.com/)                                                  | active               | no          | no     | Blink         |
+| [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)                    | active               | no          | no     | Blink         |
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink        |
@@ -58,19 +58,18 @@
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
 | [Falkon](https://www.falkon.org/)                                                             | active               | yes         | yes    | QtWebEngine   |
 | [Safari](https://www.apple.com/safari/)                                                       | active               | no          | no     | WebKit        |
-| [Roccat](http://runecats.com/)                                                                | active               | no          | no     | WebKit        |
+| [Roccat](http://runecats.com/roccat-browser-for-mac/)                                         | unclear              | no          | no     | WebKit        |
 | [iCab](http://www.icab.de/dl.php)                                                             | active               | no          | no     | WebKit        |
 | [uzbl](https://www.uzbl.org/)                                                                 | discontinued         | no          | no     | WebKit        |
 | [Arora](https://github.com/arora/arora)                                                       | discontinued         | yes         | yes    | WebKit        |
 | [QtWeb](http://qtweb.net/)                                                                    | discontinued         | yes         | yes    | WebKit        |
 | [Dooble](https://textbrowser.github.io/dooble/)                                               | active               | yes         | yes    | WebKit        |
 | [Midori](http://midori-browser.org/)                                                          | active               | yes         | yes    | WebKit        |
-| [Rekonq](https://rekonq.kde.org/)                                                             | active               | yes         | yes    | WebKit        |
+| [Rekonq](https://rekonq.kde.org/)                                                             | discontinued         | yes         | yes    | WebKit        |
 | [Odyssey](http://www.amigaos.net/software/78/odyssey)                                         | discontinued         | no          | no     | WebKit        |
-| [QupZilla](http://www.qupzilla.com/)                                                          | discontinued         | yes         | yes    | WebKit        |
 | [xombrero](https://github.com/conformal/xombrero)                                             | discontinued         | yes         | yes    | WebKit        |
 | [Stainless](https://github.com/mesadynamics/stainless)                                        | discontinued         | yes         | no     | WebKit        |
-| [WebPositive](https://www.haiku-os.org/docs/userguide/en/applications/webpositive.html)       | unclear              | yes         | no     | WebKit        |
+| [WebPositive](https://www.haiku-os.org/docs/userguide/en/applications/webpositive.html)       | discontinued         | yes         | no     | WebKit        |
 | [AOL Desktop](https://discover.aol.com/products-and-services/aol-desktop-for-windows)         | unclear              | no          | no     | WebKit        |
 | [Internet Surfboard](http://inetsurfboard.sourceforge.net/)                                   | discontinued         | yes         | no     | WebKit        |
 | [surf](http://surf.suckless.org/)                                                             | active               | no          | no     | WebKitGTK+    |
