@@ -85,6 +85,7 @@
 | [Opera legacy](https://ftp.opera.com/pub/opera/)                                              | discontinued         | no          | yes    | Presto        |
 | [Konqueror](https://konqueror.org/)                                                           | discontinued         | yes         | yes    | KHTML         |
 | [gngr](https://gngr.info/)                                                                    | active               | yes         | yes    | Cobra         |
+| [LoboBrowser](https://github.com/lobobrowser/LoboBrowser)                                     | discontinued         | yes         | yes    | Cobra         |
 | [Htmlviewer](http://tkhtml.tcl.tk/hv3.html)                                                   | discontinued         | yes         | yes    | Tkhtml3       |
 | [Google Ultron](http://ultronbrowser.io/)                                                     | active               | yes         | no     | Adobe Reader  |
 | [ELinks](http://elinks.cz/)                                                                   | discontinued         | yes         | yes    | Custom        |
