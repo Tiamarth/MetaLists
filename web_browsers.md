@@ -33,19 +33,20 @@
 | [Opera beta](http://www.opera.com/computer/beta)                                              | active               | no          | yes    | Blink         |
 | [Opera developer](http://www.opera.com/computer/beta)                                         | active               | no          | yes    | Blink         |
 | [Opera Neon](https://www.opera.com/computer/neon)                                             | discontinued^1       | no          | yes    | Blink         |
-| [Vivaldi](https://vivaldi.com/)                                                               | active               | yes         | yes    | Blink         |
-| [Vivaldi snapshot](https://vivaldi.com/blog/)                                                 | active               | yes         | yes    | Blink         |
+| [Vivaldi](https://vivaldi.com/)                                                               | active               | no^2        | yes    | Blink         |
+| [Vivaldi snapshot](https://vivaldi.com/blog/snapshots/)                                       | active               | no          | yes    | Blink         |
 | [GNOME Web](https://wiki.gnome.org/Apps/Web/)                                                 | active               | yes         | yes    | Blink         |
 | [Brave](https://brave.com/download/)                                                          | active               | yes         | yes    | Blink         |
 | [Brave Beta](https://brave.com/download-beta/)                                                | active               | yes         | yes    | Blink         |
 | [Brave Dev](https://brave.com/download-dev/)                                                  | active               | yes         | yes    | Blink         |
 | [Yandex](https://browser.yandex.com/desktop/main/)                                            | active               | no          | yes    | Blink         |
+| [Yandex Beta](https://browser.yandex.com/beta/)                                               | active               | no          | yes    | Blink         |
 | [Sleipnir](http://www.fenrir-inc.com/sleipnir/)                                               | unclear              | no          | no     | Blink         |
 | [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
 | [Citrio](http://citrio.com/)                                                                  | discontinued         | no          | no     | Blink         |
-| [OmniWeb](https://www.omnigroup.com/more)                                                     | unclear              | no          | no     | Blink         |
+| [OmniWeb](https://www.omnigroup.com/more)                                                     | discontinued         | no          | no     | Blink         |
 | [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
-| [Polarity](http://polarityweb.weebly.com/)                                                    | active               | no          | no     | Blink         |
+| [Polarity](http://polarityweb.weebly.com/)                                                    | unclear              | no          | no     | Blink         |
 | [CentBrowser](http://www.centbrowser.com/)                                                    | active               | no          | no     | Blink         |
 | [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | discontinued         | no          | yes    | Blink         |
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | Blink        |
@@ -54,7 +55,7 @@
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink        |
-| [Liri](https://github.com/lirios/browser)                                                     | active^2             | yes         | yes    | QtWebEngine   |
+| [Liri](https://github.com/lirios/browser)                                                     | active^3             | yes         | yes    | QtWebEngine   |
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
 | [Falkon](https://www.falkon.org/)                                                             | active               | yes         | yes    | QtWebEngine   |
 | [Safari](https://www.apple.com/safari/)                                                       | active               | no          | no     | WebKit        |
@@ -87,7 +88,7 @@
 | [ELinks](http://elinks.cz/)                                                                   | discontinued         | yes         | yes    | Custom        |
 | [NetSurf](http://www.netsurf-browser.org/)                                                    | ongoing              | yes         | yes    | Custom        |
 | [Avant](http://avantbrowser.com/)                                                             | active               | no          | no     | Various       |
-| [Maxthon](http://www.maxthon.com/)                                                            | active               | no          | no^3   | Various       |
+| [Maxthon](http://www.maxthon.com/)                                                            | active               | no          | no^4   | Various       |
 | [Tungsten](http://en.tungsten-start.net/)                                                     | ongoing              | no          | no     | Various       |
 | [Lunascape](http://www.lunascape.tv/)                                                         | ongoing              | no          | no     | Various       |
 | [UC Browser](http://www.ucweb.com/)                                                           | active               | no          | no     | Various       |
@@ -98,7 +99,7 @@
 | [Webby](https://launchpad.net/webby-browser)                                                  | discontinued         | yes         | yes    | Unspecified   |
 | [IBrowse](http://www.ibrowse-dev.net/)                                                        | ongoing              | no          | no     | Unspecified   |
 | [OperAnk](http://operank-ankush.blogspot.com/)                                                | discontinued         | no          | no     | Unspecified   |
-| [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Unspecified^4 |
+| [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Unspecified^5 |
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | unclear              | no          | no     | Unspecified   |
 | [360 Security Browser](https://browser.360.cn/se/en.html)                                     | unclear              | no          | no     | Unspecified   |
 
@@ -112,16 +113,17 @@
 ## Software that can be modified to act like web browsers
 | Name                                                                                                                                                                                           | Development Status | Open Source | Linux | Engine      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------- | ----- | ----------- |
-| [Minecraft](https://minecraft.net/) - [(WebDisplays)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2889765-webdisplays-1-0-browse-on-the-internet-in) | ongoing^5          | no          | yes   | Awesomium   |
-| [Atom](https://atom.io/) - [(browserplus)](https://atom.io/packages/browser-plus)                                                                                                              | discontinued^6     | yes         | yes   | Unspecified |
+| [Minecraft](https://minecraft.net/) - [(WebDisplays)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2889765-webdisplays-1-0-browse-on-the-internet-in) | ongoing^6          | no          | yes   | Awesomium   |
+| [Atom](https://atom.io/) - [(browserplus)](https://atom.io/packages/browser-plus)                                                                                                              | discontinued^7     | yes         | yes   | Unspecified |
 
 ## Footnotes
 1. Neon was an experiment to illustrate a possible future for web browsing. It is not and never was receiving updates. It's a little buggy but still available for download.  
-2. The Liri browser is currently being rewritten. The devs are also now working on what appears to be a Linux distro. I recommend you keep an eye on this project.  
-3. The Maxthon client for Linux has been officially discontinued.  
-4. I couldn't find a source for Webian Shell's engine, but its developer works for Mozilla and iirc the project was originally being developed for Firefox OS, so it probably uses Gecko.  
-5. Minecraft development is active, but the WebDisplays mod is not.  
-6. Atom development is active, but the browserplus extension is not.  
+2. Vivaldi's changes to the Chromium code is open source under a BSD license, but the rest of the browser is proprietary.  
+3. The Liri browser is currently being rewritten. The devs are also now working on what appears to be a Linux distro. I recommend you keep an eye on this project.  
+4. The Maxthon client for Linux has been officially discontinued.  
+5. I couldn't find a source for Webian Shell's engine, but its developer works for Mozilla and iirc the project was originally being developed for Firefox OS, so it probably uses Gecko.  
+6. Minecraft development is active, but the WebDisplays mod is not.  
+7. Atom development is active, but the browserplus extension is not.  
 
 ## See also
 1. See how well your browser handles html5 [here.](http://html5test.com/) For more thorough benchmarking, see: [browserbench.org](http://browserbench.org/)
