@@ -5,6 +5,7 @@
 | [Firefox Beta](https://beta.mozilla.org/)                                                     | active               | yes         | yes    | Gecko         |
 | [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) | active               | yes         | yes    | Gecko         |
 | [Firefox Nightly](https://nightly.mozilla.org/)                                               | active               | yes         | yes    | Gecko         |
+| [Librefox](https://github.com/intika/Librefox)                                                | active               | yes         | yes    | Gecko         |
 | [Seamonkey](http://www.seamonkey-project.org/)                                                | active               | yes         | yes    | Gecko         |
 | [GNU IceCat](https://www.gnu.org/software/gnuzilla/)                                          | active               | yes         | yes    | Gecko         |
 | [Tor](https://www.torproject.org/)                                                            | active               | yes         | yes    | Gecko         |
@@ -54,6 +55,7 @@
 | [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)                    | active               | no          | no     | Blink         |
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
+| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink        |
 | [Liri](https://github.com/lirios/browser)                                                     | active^3             | yes         | yes    | QtWebEngine   |
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
