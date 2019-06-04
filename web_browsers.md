@@ -24,37 +24,39 @@
 | [Basilisk](http://www.basilisk-browser.org/)                                                  | active               | yes         | yes    | Goanna        |
 | [Min](https://minbrowser.github.io/min/)                                                      | active               | yes         | yes    | Blink         |
 | [Blisk](https://blisk.io/)                                                                    | active               | no          | soon   | Blink         |
+| [Brave](https://brave.com/download/)                                                          | active               | yes         | yes    | Blink         |
+| [Brave Beta](https://brave.com/download-beta/)                                                | active               | yes         | yes    | Blink         |
+| [Brave Dev](https://brave.com/download-dev/)                                                  | active               | yes         | yes    | Blink         |
 | [Ghost](https://ghostbrowser.com/)                                                            | unclear              | no          | no     | Blink         |
+| [Opera](http://www.opera.com/)                                                                | active               | no          | yes    | Blink         |
+| [Opera beta](http://www.opera.com/computer/beta)                                              | active               | no          | yes    | Blink         |
+| [Opera developer](http://www.opera.com/computer/beta)                                         | active               | no          | yes    | Blink         |
+| [Sushi](https://sushib.me/)                                                                   | active               | yes         | no     | Blink         |
+| [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
+| [Citrio](http://citrio.com/)                                                                  | discontinued         | no          | no     | Blink         |
+| [Yandex](https://browser.yandex.com/desktop/main/)                                            | active               | no          | yes    | Blink         |
+| [Yandex Beta](https://browser.yandex.com/beta/)                                               | active               | no          | yes    | Blink         |
+| [OmniWeb](https://www.omnigroup.com/more)                                                     | discontinued         | no          | no     | Blink         |
+| [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
+| [Vivaldi](https://vivaldi.com/)                                                               | active               | no^1        | yes    | Blink         |
+| [Vivaldi snapshot](https://vivaldi.com/blog/snapshots/)                                       | active               | no          | yes    | Blink         |
 | [Chromium](https://www.chromium.org/Home)                                                     | active               | yes         | yes    | Blink         |
+| [Polarity](http://polarityweb.weebly.com/)                                                    | unclear              | no          | no     | Blink         |
+| [Sleipnir](http://www.fenrir-inc.com/sleipnir/)                                               | unclear              | no          | no     | Blink         |
+| [GNOME Web](https://wiki.gnome.org/Apps/Web/)                                                 | active               | yes         | yes    | Blink         |
+| [Opera Neon](https://www.opera.com/computer/neon)                                             | discontinued^2       | no          | yes    | Blink         |
+| [Kinza](https://www.kinza.jp/en/)                                                             | active               | no          | no     | Blink         |
+| [CentBrowser](http://www.centbrowser.com/)                                                    | active               | no          | no     | Blink         |
+| [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | discontinued         | no          | yes    | Blink         |
+| [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)                    | active               | no          | no     | Blink         |
 | [Google Chrome](https://www.google.com/chrome/)                                               | active               | no          | yes    | Blink         |
 | [Google Chrome Beta](https://www.google.com/chrome/beta/)                                     | active               | no          | yes    | Blink         |
 | [Google Chrome Dev](https://www.google.com/chrome/dev/)                                       | active               | no          | yes    | Blink         |
 | [Google Chrome Canary](https://www.google.com/chrome/canary/)                                 | active               | no          | no     | Blink         |
-| [Opera](http://www.opera.com/)                                                                | active               | no          | yes    | Blink         |
-| [Opera beta](http://www.opera.com/computer/beta)                                              | active               | no          | yes    | Blink         |
-| [Opera developer](http://www.opera.com/computer/beta)                                         | active               | no          | yes    | Blink         |
-| [Opera Neon](https://www.opera.com/computer/neon)                                             | discontinued^1       | no          | yes    | Blink         |
-| [Vivaldi](https://vivaldi.com/)                                                               | active               | no^2        | yes    | Blink         |
-| [Vivaldi snapshot](https://vivaldi.com/blog/snapshots/)                                       | active               | no          | yes    | Blink         |
-| [GNOME Web](https://wiki.gnome.org/Apps/Web/)                                                 | active               | yes         | yes    | Blink         |
-| [Brave](https://brave.com/download/)                                                          | active               | yes         | yes    | Blink         |
-| [Brave Beta](https://brave.com/download-beta/)                                                | active               | yes         | yes    | Blink         |
-| [Brave Dev](https://brave.com/download-dev/)                                                  | active               | yes         | yes    | Blink         |
-| [Yandex](https://browser.yandex.com/desktop/main/)                                            | active               | no          | yes    | Blink         |
-| [Yandex Beta](https://browser.yandex.com/beta/)                                               | active               | no          | yes    | Blink         |
-| [Sleipnir](http://www.fenrir-inc.com/sleipnir/)                                               | unclear              | no          | no     | Blink         |
-| [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
-| [Citrio](http://citrio.com/)                                                                  | discontinued         | no          | no     | Blink         |
-| [OmniWeb](https://www.omnigroup.com/more)                                                     | discontinued         | no          | no     | Blink         |
-| [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
-| [Polarity](http://polarityweb.weebly.com/)                                                    | unclear              | no          | no     | Blink         |
-| [CentBrowser](http://www.centbrowser.com/)                                                    | active               | no          | no     | Blink         |
-| [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | discontinued         | no          | yes    | Blink         |
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | Blink        |
-| [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
-| [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)                    | active               | no          | no     | Blink         |
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
+| [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink        |
 | [Liri](https://github.com/lirios/browser)                                                     | active^3             | yes         | yes    | QtWebEngine   |
@@ -120,8 +122,8 @@
 | [Atom](https://atom.io/) - [(browserplus)](https://atom.io/packages/browser-plus)                                                                                                              | discontinued^7     | yes         | yes   | Unspecified |
 
 ## Footnotes
-1. Opera Neon was an experiment to illustrate a possible future for web browsing. It is not and never was receiving updates. It's a little buggy but still available for download.  
-2. Vivaldi's changes to the Chromium code is open source under a BSD license, but the rest of the browser is proprietary.  
+1. Vivaldi's changes to the Chromium code is open source under a BSD license, but the rest of the browser is proprietary.  
+2. Opera Neon was an experiment to illustrate a possible future for web browsing. It is not and never was receiving updates. It's a little buggy but still available for download.  
 3. The Liri browser is currently being rewritten. The devs are also now working on what appears to be a Linux distro. I recommend you keep an eye on this project.  
 4. The Maxthon client for Linux has been officially discontinued.  
 5. I couldn't find a source for Webian Shell's engine, but its developer works for Mozilla and iirc the project was originally being developed for Firefox OS, so it probably uses Gecko.  
@@ -141,7 +143,7 @@ Preemptive responses to likely FAQs:
 *Not here.* This list is currently being maintained by hand, as are all the other lists in this repo, and there's already a pretty daunting amount of browsers available for desktop PCs. Including all the mobile browsers would at least double the length of this list and the primary point of MetaLists is to help Linux users find alternative software that runs on Linux. So including mobile browsers here seems unnecessary. That being said, I'm not strictly against including them (there are, after all, already some browsers on this list that do not run on desktop PCs at all) so if you have the time and want to do it, feel free to make the list and pull request.  
 
 ## Data
-browsers: 106
+browsers: 109
 
 **License**  
 open source: 55  
