@@ -17,13 +17,13 @@
 | [CometBird](http://www.cometbird.com/)                                                        | discontinued         | yes         | no     | Gecko         |
 | [Iceweasel](https://wiki.debian.org/Iceweasel)                                                | active               | yes         | yes    | Gecko         |
 | [Light Firefox](https://sourceforge.net/projects/lightfirefox/)                               | discontinued         | yes         | no     | Gecko         |
-| [Comodo IceDragon](https://browser.comodo.com/)                                               | active               | no          | no     | Gecko         |
+| [Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/icedragon-browser.php)       | active               | no          | no     | Gecko         |
 | [Pale Moon](https://www.palemoon.org/)                                                        | active               | yes         | yes    | Goanna        |
 | [Pale Moon Unstable](https://www.palemoon.org/unstable/)                                      | active               | yes         | yes    | Goanna        |
 | [Basilisk](http://www.basilisk-browser.org/)                                                  | active               | yes         | yes    | Goanna        |
 | [Min](https://minbrowser.github.io/min/)                                                      | active               | yes         | yes    | Blink         |
-| [Blisk](https://blisk.io/)                                                                    | active               | no          | no     | Blink         |
-| [Ghost](https://ghostbrowser.com/)                                                            | active               | no          | soon   | Blink         |
+| [Blisk](https://blisk.io/)                                                                    | active               | no          | soon   | Blink         |
+| [Ghost](https://ghostbrowser.com/)                                                            | unclear              | no          | no     | Blink         |
 | [Chromium](https://www.chromium.org/Home)                                                     | active               | yes         | yes    | Blink         |
 | [Google Chrome](https://www.google.com/chrome/)                                               | active               | no          | yes    | Blink         |
 | [Google Chrome Beta](https://www.google.com/chrome/beta/)                                     | active               | no          | yes    | Blink         |
@@ -117,7 +117,7 @@
 | [Atom](https://atom.io/) - [(browserplus)](https://atom.io/packages/browser-plus)                                                                                                              | discontinued^7     | yes         | yes   | Unspecified |
 
 ## Footnotes
-1. Neon was an experiment to illustrate a possible future for web browsing. It is not and never was receiving updates. It's a little buggy but still available for download.  
+1. Opera Neon was an experiment to illustrate a possible future for web browsing. It is not and never was receiving updates. It's a little buggy but still available for download.  
 2. Vivaldi's changes to the Chromium code is open source under a BSD license, but the rest of the browser is proprietary.  
 3. The Liri browser is currently being rewritten. The devs are also now working on what appears to be a Linux distro. I recommend you keep an eye on this project.  
 4. The Maxthon client for Linux has been officially discontinued.  
