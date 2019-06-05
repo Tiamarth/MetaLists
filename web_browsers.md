@@ -132,7 +132,7 @@
 4. The Maxthon client for Linux has been officially discontinued.  
 5. I couldn't find a source for Webian Shell's engine, but its developer works for Mozilla and iirc the project was originally being developed for Firefox OS, so it probably uses Gecko.  
 6. Minecraft development is active, but the WebDisplays mod is not.  
-7. Everquest II's embedded browser, as far as I know, is only accessible via an easter egg. It's not intended to be used as a dedicated browser, and since Everquest II is a game, there's no realistic use case where someone would want to use it as a dedicated browser. It's inteded to be used as an in-game help center, but there's an easter egg which lets you open it to a Google search page. To do this, type `/pizza` in chat.  
+7. Everquest II's embedded browser, as far as I know, is only accessible via an easter egg. It's not intended to be used as a dedicated browser, and since Everquest II is a game, there's no realistic use case where someone would want to use it as a dedicated browser, so don't. It's inteded to be used as an in-game help center, but the easter egg lets you open it to a Google search page, and therefore to browse the broader internet. To do this, type `/pizza` in chat.  
 8. Atom development is active, but the browserplus extension is not.  
 
 ## See also
