@@ -1,24 +1,24 @@
 # Web Browsers
 | Name                                                                                          | Development Status   | Open Source | Linux  | Engine        |
 | --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
-| [Firefox](https://www.mozilla.org/en-US/firefox/)                                             | active               | yes         | yes    | Gecko         |
-| [Firefox Beta](https://beta.mozilla.org/)                                                     | active               | yes         | yes    | Gecko         |
-| [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) | active               | yes         | yes    | Gecko         |
-| [Firefox Nightly](https://nightly.mozilla.org/)                                               | active               | yes         | yes    | Gecko         |
-| [Librefox](https://github.com/intika/Librefox)                                                | active               | yes         | yes    | Gecko         |
-| [Seamonkey](http://www.seamonkey-project.org/)                                                | active               | yes         | yes    | Gecko         |
-| [GNU IceCat](https://www.gnu.org/software/gnuzilla/)                                          | active               | yes         | yes    | Gecko         |
 | [Tor](https://www.torproject.org/)                                                            | active               | yes         | yes    | Gecko         |
 | [Cliqz](https://cliqz.com/en/)                                                                | active               | yes         | yes    | Gecko         |
+| [Light](https://sourceforge.net/projects/lightfirefox/)                                       | discontinued         | yes         | no     | Gecko         |
 | [Galeon](https://sourceforge.net/projects/galeon/)                                            | discontinued         | yes         | yes    | Gecko         |
+| [Firefox](https://www.mozilla.org/en-US/firefox/)                                             | active               | yes         | yes    | Gecko         |
+| [Firefox Beta](https://beta.mozilla.org/)                                                     | active               | yes         | yes    | Gecko         |
+| [Firefox Nightly](https://nightly.mozilla.org/)                                               | active               | yes         | yes    | Gecko         |
 | [Sandcat](https://github.com/felipedaragon/sandcat)                                           | active               | yes         | no     | Gecko         |
 | [Cyberfox](https://sourceforge.net/projects/cyberfox/)                                        | discontinued         | yes         | yes    | Gecko         |
 | [K-Meleon](http://kmeleonbrowser.org/)                                                        | dormant              | yes         | no     | Gecko         |
+| [Librefox](https://github.com/intika/Librefox)                                                | active               | yes         | yes    | Gecko         |
 | [Waterfox](https://www.waterfoxproject.org/)                                                  | active               | yes         | yes    | Gecko         |
 | [CometBird](http://www.cometbird.com/)                                                        | discontinued         | yes         | no     | Gecko         |
 | [Iceweasel](https://wiki.debian.org/Iceweasel)                                                | deprecated           | yes         | yes    | Gecko         |
-| [Light](https://sourceforge.net/projects/lightfirefox/)                                       | discontinued         | yes         | no     | Gecko         |
+| [Seamonkey](http://www.seamonkey-project.org/)                                                | active               | yes         | yes    | Gecko         |
+| [GNU IceCat](https://www.gnu.org/software/gnuzilla/)                                          | active               | yes         | yes    | Gecko         |
 | [Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/icedragon-browser.php)       | active               | no          | no     | Gecko         |
+| [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) | active               | yes         | yes    | Gecko         |
 | [Pale Moon](https://www.palemoon.org/)                                                        | active               | yes         | yes    | Goanna        |
 | [Pale Moon Unstable](https://www.palemoon.org/unstable/)                                      | active               | yes         | yes    | Goanna        |
 | [Basilisk](http://www.basilisk-browser.org/)                                                  | active               | yes         | yes    | Goanna        |
