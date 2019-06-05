@@ -115,9 +115,9 @@
 ## Software with embedded web browsers
 | Name                                        | Development Status | Open Source | Linux | Engine      |
 | ------------------------------------------- | ------------------ | ----------- | ----- | ----------- |
+| [Everquest II](https://www.everquest2.com/) | active             | no          | no    | WebKit      |
 | [Steam](http://store.steampowered.com/)     | active             | no          | yes   | WebKit      |
 | [Overwolf](http://www.overwolf.com/)        | active             | no          | no    | Unspecified |
-| [Everquest II](https://www.everquest2.com/) | active             | no          | no    | Unspecified |
 
 ## Software that can be modified to act like web browsers
 | Name                                                                                                                                                                                           | Development Status | Open Source | Linux | Engine      |
