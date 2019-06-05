@@ -33,9 +33,12 @@
 | [Opera developer](http://www.opera.com/computer/beta)                                         | active               | no          | yes    | Blink         |
 | [Sushi](https://sushib.me/)                                                                   | active               | yes         | no     | Blink         |
 | [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
+| [Whale](https://whale.naver.com/en/)                                                          | active               | no          | yes    | Blink         |
 | [Citrio](http://citrio.com/)                                                                  | discontinued         | no          | no     | Blink         |
+| [Puffin](https://www.puffin.com/secure-browser/)                                              | active               | no          | no     | Blink         |
 | [Yandex](https://browser.yandex.com/desktop/main/)                                            | active               | no          | yes    | Blink         |
 | [Yandex Beta](https://browser.yandex.com/beta/)                                               | active               | no          | yes    | Blink         |
+| [Colibri](https://colibri.opqr.co/)                                                           | dormant              | no          | yes    | Blink         |
 | [OmniWeb](https://www.omnigroup.com/more)                                                     | discontinued         | no          | no     | Blink         |
 | [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
 | [Vivaldi](https://vivaldi.com/)                                                               | active               | no^1        | yes    | Blink         |
@@ -56,6 +59,7 @@
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | Blink        |
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
+| [CryptoTab Browser](https://cryptobrowser.site/cryptotab/)                                    | active               | no          | no     | Blink         |
 | [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink        |
