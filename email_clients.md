@@ -22,12 +22,10 @@
 | [Thunderbird](https://www.mozilla.org/en-US/thunderbird/)                                          | active             | yes         | yes   |
 | [Zimbra Desktop](https://www.zimbra.com/zimbra-desktop/)                                           | active             | yes         | yes   |
 | [Nylas Mail Lives](https://github.com/nylas-mail-lives/nylas-mail)                                 | discontinued       | yes         | yes   |
-| [Inky](http://inky.com/)                                                                           | active             | no          | no    |
 | [Spark](https://sparkmailapp.com/)                                                                 | active             | no          | no    |
 | [nPOPuk](http://npopuk.org.uk/3.03/)                                                               | discontinued       | yes         | no    |
 | [Airmail](http://airmailapp.com/)                                                                  | active             | no          | no    |
-| [Foxmail](http://foxmail.com/)                                                                     | dormant            | no          | no    |
-| [Outlook](https://products.office.com/en-US/outlook/email-and-calendar-software-microsoft-outlook) | active             | no          | no    |
+| [Foxmail](http://foxmail.com/)                                                                     | active             | no          | no    |
 | [Postbox](https://postbox-inc.com/)                                                                | active             | yes         | no    |
 | [TypeApp](http://www.typeapp.com/)                                                                 | active             | no          | no    |
 | [GyazMail](http://www.gyazsquare.com/gyazmail/)                                                    | active             | no          | no    |
@@ -43,6 +41,8 @@
 | [Forté Agent](http://www.forteinc.com/main/homepage.php)                                           | discontinued       | no          | no    |
 | [Newton Mail](https://cloudmagic.com/k/newton)                                                     | unclear            | no          | no    |
 | [Pegasus Mail](http://www.pmail.com/)                                                              | active             | no          | no    |
+| [Windows Mail](https://www.microsoft.com/en-us/p/mail-and-calendar/9wzdncrfhvqm?activetab=pivot:overviewtab) | active             | no          | no    |
+| [Microsoft Outlook](https://products.office.com/en-US/outlook/email-and-calendar-software-microsoft-outlook) | active             | no          | no    |
 
 ## Data
 email clients: 42
