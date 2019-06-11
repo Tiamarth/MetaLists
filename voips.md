@@ -26,6 +26,7 @@
 | [Net Meeting](https://www.tutorialspoint.com/netmeeting.php)                             | unclear            | no          | no    | yes | workplace  |
 | [Amazon Chime](https://aws.amazon.com/chime/)                                            | active             | no          | no    | yes | workplace  |
 | [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) | active             | no          | no    | no  | workplace  |
+| [Imo](https://imo.im/)                                                                   | unclear            | no          | no    | no  | social     |
 | [Tox](https://tox.chat/)                                                                 | active             | yes         | yes   | no  | social     |
 | [Jami](https://jami.net/)                                                                | active             | yes         | yes   | no  | social     |
 | [Riot](https://about.riot.im/)                                                           | active             | yes         | yes   | yes | social     |
@@ -59,7 +60,7 @@
 (Preemptive responses to likely FAQs)
 
 **What's a VoIP?**  
-*VoIP stands for Voice Over IP.* Basically, a VoIP is software that lets you call people from your computer. Messaging apps which do not support voice chat, such as Telegram, will not be included in this list. Apps which only support voice chat when accompanied by video through web cam, such as Camfrog, will not be included either.
+*VoIP stands for Voice Over IP.* Basically, a VoIP is software that lets you call people from your computer. Messaging apps which do not support voice chat, such as Telegram, will not be included in this list. Apps which only support voice chat when accompanied by video through web cam, such as Camfrog, will not be included either. Virtual telephone services and infrastructure will not be included either as they are not technically VoIPs. Apps and services which *requires* you to sign into Facebook or Google will not be included either.
 
 **What does the "market" data mean?**  
 *That's the target demographic of the app.* Obviously any of these apps can be used by anyone, but the people who make them target specific groups of people in design and marketing. For now I'll be categorizing this list with five obvious marketbases, those being "gamers," "podcasters,", "developers," "workplace," and "social." "Gamers" refers to people who play video games and are looking for a voice solution to communicate with other players; "podcasters" refers to people who host podcasts with remote guests; "developers" refers to software developers; "workplace" refers to businesses and students; and "social" refers to apps which are either marketed to the general populace as a way to stay in contact with friends and family, or apps which aren't clearly marketed to any specific demographic.
