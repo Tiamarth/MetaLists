@@ -10,14 +10,11 @@ Generally, I will only list software that is still available for download from o
 - [Music Players](music_players.md)
 - [Office Suites](office_suites.md)
 - [Search Engines](search_engines.md)
+- [Software Lists](software_lists.md)
 - [Text Editors](text_editors.md)
 - [Video Editors](video_editors.md)
 - [VoIPs](voips.md)
 - [Web Browsers](web_browsers.md)
-
-## Currently Incomplete Lists
-
-- [Software Lists](software_lists.md)
 
 ## Planned Lists
 - Ambient Sound Generators
