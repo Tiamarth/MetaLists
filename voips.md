@@ -25,7 +25,9 @@
 | [Globalmeet](https://www.pgi.com/products/globalmeet/)                                   | active             | no          | no    | no  | workplace  |
 | [Net Meeting](https://www.tutorialspoint.com/netmeeting.php)                             | unclear            | no          | no    | yes | workplace  |
 | [Amazon Chime](https://aws.amazon.com/chime/)                                            | active             | no          | no    | yes | workplace  |
+| [UberConference](https://www.uberconference.com/)                                        | active             | no          | no    | yes | workplace  |
 | [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) | active             | no          | no    | no  | workplace  |
+| [Thirdlane Connect](https://www.thirdlane.com/products/thirdlane-connect)                | active             | no          | yes   | yes | workplace  |
 | [Imo](https://imo.im/)                                                                   | unclear            | no          | no    | no  | social     |
 | [Tox](https://tox.chat/)                                                                 | active             | yes         | yes   | no  | social     |
 | [Jami](https://jami.net/)                                                                | active             | yes         | yes   | no  | social     |
@@ -36,7 +38,6 @@
 | [Viber](https://www.viber.com/en/)                                                       | active             | no          | yes   | no  | social     |
 | [Signal](https://signal.org/)                                                            | active             | yes         | yes   | no  | social     |
 | [Voptop](https://www.voptop.com/)                                                        | unclear            | no          | yes   | no  | social     |
-| [Empathy](https://wiki.gnome.org/Apps/Empathy)                                           | active             | yes         | yes   | no  | social     |
 | [Paltalk](https://www.paltalk.com/)                                                      | active             | no          | no    | no  | social     |
 | [We-Talk](https://www.we-talk.co/)                                                       | discontinued       | no          | no    | no  | social     |
 | [WebRoom](https://webroom.net/)                                                          | unclear            | no          | no    | yes | social     |
@@ -49,9 +50,10 @@
 | [FreeConferenceCall.com](https://www.freeconferencecall.com/)                            | active             | no          | no    | yes | social     |
 
 ## Other software with voice call functionality
-| Name                                          | Development Status | Open Source | Linux | Web | Market |
-| --------------------------------------------- | ------------------ | ----------- | ----- | --- | ------ |
-| [Steam](http://store.steampowered.com/about/) | active             | no          | yes   | yes | gamers |
+| Name                                                                 | Development Status | Open Source | Linux | Web | Market |
+| -------------------------------------------------------------------- | ------------------ | ----------- | ----- | --- | ------ |
+| [Steam](http://store.steampowered.com/about/)                        | active             | no          | yes   | no  | gamers |
+| [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) | active             | no          | no    | no  | gamers |
 
 ## See also
 1. [YakYak](https://github.com/yakyak/yakyak) is a desktop client for Google Hangouts, supports Linux, and is open source
