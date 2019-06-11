@@ -46,8 +46,8 @@ Some lists may not even include the development status of the software in cases 
 ## FAQ
 (preemptive responses to likely FAQ)
 
-**Why does this exist?**
-For one reason or another I was unhappy with existing solutions for the categorization and listing of software. For example, some sites group vaguely related apps together in ways I don't agree with. Zoho isn't a web browser, it's an office suite. And yet, on some alternative software lists, you can find it listed as an alternative to popular web browsers. Some sites also list media players and music players together, which is something I personally dislike, although I also understand why some people don't care about the differences between those types of software.
+**Why does this exist?**  
+For one reason or another I was unhappy with existing solutions for the categorization and listing of software. For example, some sites group vaguely related apps together in ways I don't agree with: Zoho isn't a web browser, it's an office suite with web-based and web-friendly features. And yet, on some alternative software lists, you can find it listed as an alternative to popular web browsers. Some sites also list media players and music players together, which is something I personally dislike, although I also understand why some people don't care about the differences between those types of software.
 
 I'm also compiling these lists because some existing solutions were short and, I felt, very incomplete, but I had no power to change most of them.
 
