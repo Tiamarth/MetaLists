@@ -61,18 +61,20 @@
 *That's the target demographic of the app.* Obviously any of these apps can be used by anyone, but the people who make them target specific groups of people in design and marketing. For now I'll be categorizing this list with five obvious marketbases, those being "gamers," "podcasters,", "developers," "workplace," and "social." "Gamers" refers to people who play video games and are looking for a voice solution to communicate with other players; "podcasters" refers to people who host podcasts and are looking for a voice solution to communicate with long distance guests; "developers" refers to software developers who are looking for a voice solution to communicate with their coworkers; "workplace" refers to businesses and students who are looking for a voice solution to communicate with employees, customers, and classmates; and "social" refers to apps which are either marketed to the general populace as a way to stay in contact with friends and family, or apps which aren't clearly marketed to any specific demographic.
 
 ## Data
-VoIPs: 25  
-can be used in a web browser: 10
+VoIPs: 42  
+web clients: 18
 
 **License**  
-open source: 9  
-proprietary: 16
+open source: 14  
+proprietary: 28
 
 **Linux support**  
-no linux support: 10  
-linux support: 15
+no linux support: 20  
+linux support: 22
 
 **Target demographic**  
-workplace: 4  
+podcasters: 1  
+developers: 4  
 gamers: 8  
-social: 13
+workplace: 10  
+social: 19
