@@ -8,7 +8,9 @@
 | [Teamspeak](https://www.teamspeak.com/)                                                  | unclear            | no          | yes   | no  | gamers     |
 | [Ventrillo](http://www.ventrilo.com/)                                                    | discontinued       | no          | no    | no  | gamers     |
 | [Ringr](http://www.ringr.com/)                                                           | dormant            | no          | no    | yes | podcasters |
-| [Slack](https://slack.com/)                                                              | active             | no          | yes   | no  | workplace  |
+| [Slack](https://slack.com/)                                                              | active             | no          | yes   | no  | developers |
+| [Mattermost](https://www.mattermost.org/)                                                | active             | yes         | yes   | no  | developers |
+| [Rocket.Chat](https://rocket.chat/)                                                      | active             | yes         | yes   | yes | developers |
 | [WebEx](https://www.webex.com/)                                                          | active             | no          | no    | yes | workplace  |
 | [Zulip](https://zulipchat.com/)                                                          | active             | yes         | yes   | no  | workplace  |
 | [Chanty](https://www.chanty.com/)                                                        | active             | no          | yes   | yes | workplace  |
@@ -20,11 +22,12 @@
 | [RingOver](https://www.ringover.com/en/)                                                 | active             | no          | no    | yes | workplace  |
 | [Collabify](https://collabify.app/)                                                      | active             | no          | no    | yes | workplace  |
 | [Globalmeet](https://www.pgi.com/products/globalmeet/)                                   | active             | no          | no    | no  | workplace  |
-| [Rocket.Chat](https://rocket.chat/)                                                      | active             | yes         | yes   | yes | workplace  |
+| [Net Meeting](https://www.tutorialspoint.com/netmeeting.php)                             | unclear            | no          | no    | yes | workplace  |
 | [Amazon Chime](https://aws.amazon.com/chime/)                                            | active             | no          | no    | yes | workplace  |
 | [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) | active             | no          | no    | no  | workplace  |
 | [Tox](https://tox.chat/)                                                                 | active             | yes         | yes   | no  | social     |
 | [Jami](https://jami.net/)                                                                | active             | yes         | yes   | no  | social     |
+| [Riot](https://about.riot.im/)                                                           | active             | yes         | yes   | yes | social     |
 | [Ekiga](http://www.ekiga.org/)                                                           | discontinued       | yes         | yes   | no  | social     |
 | [Jitsi](https://jitsi.org/)                                                              | active             | yes         | yes   | yes | social     |
 | [Skype](https://www.skype.com/en/)                                                       | active             | no          | yes   | yes | social     |
@@ -34,12 +37,14 @@
 | [Empathy](https://wiki.gnome.org/Apps/Empathy)                                           | active             | yes         | yes   | no  | social     |
 | [Paltalk](https://www.paltalk.com/)                                                      | active             | no          | no    | no  | social     |
 | [We-Talk](https://www.we-talk.co/)                                                       | discontinued       | no          | no    | no  | social     |
+| [WebRoom](https://webroom.net/)                                                          | unclear            | no          | no    | yes | social     |
 | [Whistle](https://www.whistlephone.com/)                                                 | unclear            | no          | no    | no  | social     |
 | [Linkello](https://linkello.com/)                                                        | unclear            | no          | no    | yes | social     |
 | [WhatsApp](https://www.whatsapp.com/)                                                    | active             | no          | no    | yes | social     |
 | [Q-municate](http://q-municate.com/)                                                     | active             | yes         | no    | yes | social     |
 | [Google Hangouts](https://hangouts.google.com/)                                          | active             | no          | no    | yes | social     |
 | [Facebook Messenger](https://www.messenger.com/)                                         | active             | no          | no    | yes | social     |
+| [FreeConferenceCall.com](https://www.freeconferencecall.com/)                            | active             | no          | no    | yes | social     |
 
 ## Other software with voice call functionality
 | Name                                          | Development Status | Open Source | Linux | Web | Market |
@@ -53,10 +58,12 @@
 (Preemptive responses to likely FAQs)
 
 **What's a VoIP?**  
-*VoIP stands for Voice Over IP.* Basically, a VoIP is software that lets you call people from your computer. Messaging apps which do not support voice chat, such as Telegram, will not be included in this list. Apps which only support voice chat when accompanied by video through web cam will not be included either.
+*VoIP stands for Voice Over IP.* Basically, a VoIP is software that lets you call people from your computer. Messaging apps which do not support voice chat, such as Telegram, will not be included in this list. Apps which only support voice chat when accompanied by video through web cam, such as Camfrog, will not be included either.
 
-**What does the "market" data mean?**
-*That's the target demographic of the app.* Obviously any of these apps can be used by anyone, but the people who make them target certain specific people in design and marketing. For now I'll be categorizing this list with four obvious marketbases, those being "gamers," "podcasters," "workplace," and "social." "Gamers" refers to people who play video games and are looking for a voice solution to communicate with other players; "podcasters" refers to people who host podcasts with remote guests; "workplace" refers to businesses; and "social" refers to apps which are either marketed to the general populace as a way to stay in contact with friends and family, or apps which aren't clearly marketed to any specific demographic.
+**What does the "market" data mean?**  
+*That's the target demographic of the app.* Obviously any of these apps can be used by anyone, but the people who make them target specific groups of people in design and marketing. For now I'll be categorizing this list with five obvious marketbases, those being "gamers," "podcasters,", "developers," "workplace," and "social." "Gamers" refers to people who play video games and are looking for a voice solution to communicate with other players; "podcasters" refers to people who host podcasts with remote guests; "developers" refers to software developers; "workplace" refers to businesses and students; and "social" refers to apps which are either marketed to the general populace as a way to stay in contact with friends and family, or apps which aren't clearly marketed to any specific demographic.
+
+That being said, the market any specific app is targeted toward isn't very important. You should use what's most popular, regardless of target demographic, because whatever's most popular is likely to be fairly high quality and easy to use. Skype, Discord, and Slack - to the best of my knowledge - are, by far, the most popular VoIP applications. And Riot is the most popular open source VoIP application.
 
 ## Data
 VoIPs: 25  
