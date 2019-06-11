@@ -1,10 +1,10 @@
 # Web Browsers
 | Name                                                                                          | Development Status   | Open Source | Linux  | Engine        |
 | --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
-| [Firefox](https://www.mozilla.org/en-US/firefox/)                                             | active               | yes         | yes    | Gecko         |
-| [Firefox Beta](https://beta.mozilla.org/)                                                     | active               | yes         | yes    | Gecko         |
-| [Firefox Nightly](https://nightly.mozilla.org/)                                               | active               | yes         | yes    | Gecko         |
-| [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) | active               | yes         | yes    | Gecko         |
+| [Firefox](https://www.mozilla.org/en-US/firefox/)                                             | active               | yes         | yes    | Quantum       |
+| [Firefox Beta](https://beta.mozilla.org/)                                                     | active               | yes         | yes    | Quantum       |
+| [Firefox Nightly](https://nightly.mozilla.org/)                                               | active               | yes         | yes    | Quantum       |
+| [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) | active               | yes         | yes    | Quantum       |
 | [Cliqz](https://cliqz.com/en/)                                                                | active               | yes         | yes    | Gecko         |
 | [CometBird](http://www.cometbird.com/)                                                        | discontinued         | yes         | no     | Gecko         |
 | [Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/icedragon-browser.php)       | active               | no          | no     | Gecko         |
@@ -51,6 +51,8 @@
 | [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
 | [Kinza](https://www.kinza.jp/en/)                                                             | active               | no          | no     | Blink         |
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | Blink         |
+| [Metacert](https://family-safety.metacert.com/)                                               | discontinued         | no          | no     | Blink         |
+| [Metalyfe](https://www.metalyfe.com/)                                                         | unclear              | no          | yes    | Blink         |
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
 | [Min](https://minbrowser.github.io/min/)                                                      | active               | yes         | yes    | Blink         |
 | [OmniWeb](https://www.omnigroup.com/more)                                                     | discontinued         | no          | no     | Blink         |
@@ -148,39 +150,41 @@ Preemptive responses to likely FAQs:
 *Not here.* This list is currently being maintained by hand, as are all the other lists in this repo, and there's already a pretty daunting amount of browsers available for desktop PCs. Including all the mobile browsers would at least double the length of this list and the primary point of MetaLists is to help Linux users find alternative software that runs on Linux. So including mobile browsers here seems unnecessary. That being said, I'm not strictly against including them (there are, after all, already some browsers on this list that do not run on desktop PCs at all) so if you have the time and want to do it, feel free to make the list and pull request.  
 
 ## Data
-browsers: 109
+browsers: 117
 
 **License**  
-open source: 55  
-proprietary: 51
+open source: 54  
+proprietary: 63
 
 **Linux support**  
-linux support: 59  
-no linux support: 42  
-will eventually have linux support: 5
+linux support: 63  
+no linux support: 53  
+will eventually have linux support: 1
 
 **Dev status**  
-ongoing: 1  
-dormant: 1  
+deprecated: 1  
+dormant: 3  
+ongoing: 6  
 unclear: 10  
-discontinued: 24  
-active: 70
+discontinued: 31  
+active: 64
 
 **Engines**  
 KHTML: 1  
 Dillo: 1  
-Custom: 1  
 Presto: 1  
-Tkhtml: 1  
+Tkhtml3: 1  
 EdgeHTML: 1  
 Awesomium: 1  
 Adobe Reader: 1  
-QtWebEngine: 2  
+Cobra: 2  
+Custom: 2  
+WebKitGTK+: 2  
 Goanna: 3  
-WebKitGTK+: 3  
-Trident: 6  
-Various: 7  
+QtWebEngine: 3  
+Trident: 5  
+Various: 6  
 Unspecified: 11  
-Gecko: 17  
-WebKit: 20  
-Blink: 29
+WebKit: 17  
+Gecko: 18  
+Blink: 41
