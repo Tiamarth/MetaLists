@@ -12,7 +12,6 @@
 | [Zulip](https://zulipchat.com/)                  | active             | yes         | yes   | no  | workplace |
 | [Brosix](https://www.brosix.com/)                | active             | no          | yes   | yes | workplace |
 | [VIPole](https://www.vipole.com/)                | active             | no          | yes   | no  | workplace |
-| [Voptop](https://www.voptop.com/)                | unclear            | yes         | yes   | no  | workplace |
 | [Tox](https://tox.chat/)                         | active             | yes         | yes   | no  | social    |
 | [Jami](https://jami.net/)                        | active             | yes         | yes   | no  | social    |
 | [Ekiga](http://www.ekiga.org/)                   | discontinued       | yes         | yes   | no  | social    |
@@ -20,6 +19,7 @@
 | [Skype](https://www.skype.com/en/)               | active             | no          | yes   | yes | social    |
 | [Viber](https://www.viber.com/en/)               | active             | no          | yes   | no  | social    |
 | [Signal](https://signal.org/)                    | active             | yes         | yes   | no  | social    |
+| [Voptop](https://www.voptop.com/)                | unclear            | no          | yes   | no  | social    |
 | [Empathy](https://wiki.gnome.org/Apps/Empathy)   | active             | yes         | yes   | no  | social    |
 | [WhatsApp](https://www.whatsapp.com/)            | active             | no          | no    | yes | social    |
 | [Google Hangouts](https://hangouts.google.com/)  | active             | no          | no    | yes | social    |
