@@ -25,6 +25,7 @@
 | [Globalmeet](https://www.pgi.com/products/globalmeet/)                                   | active             | no          | no    | no  | workplace  |
 | [Net Meeting](https://www.tutorialspoint.com/netmeeting.php)                             | unclear            | no          | no    | yes | workplace  |
 | [Amazon Chime](https://aws.amazon.com/chime/)                                            | active             | no          | no    | yes | workplace  |
+| [Nextcloud Talk](https://www.thirdlane.com/products/thirdlane-connect)                   | active             | yes         | no    | yes | workplace  |
 | [UberConference](https://www.uberconference.com/)                                        | active             | no          | no    | yes | workplace  |
 | [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) | active             | no          | no    | no  | workplace  |
 | [Thirdlane Connect](https://www.thirdlane.com/products/thirdlane-connect)                | active             | no          | yes   | yes | workplace  |
@@ -38,11 +39,14 @@
 | [Viber](https://www.viber.com/en/)                                                       | active             | no          | yes   | no  | social     |
 | [Signal](https://signal.org/)                                                            | active             | yes         | yes   | no  | social     |
 | [Voptop](https://www.voptop.com/)                                                        | unclear            | no          | yes   | no  | social     |
+| [WowApp](https://www.wowapp.com/)                                                        | unclear            | no          | no    | no  | social     |
 | [Paltalk](https://www.paltalk.com/)                                                      | active             | no          | no    | no  | social     |
 | [We-Talk](https://www.we-talk.co/)                                                       | discontinued       | no          | no    | no  | social     |
 | [WebRoom](https://webroom.net/)                                                          | unclear            | no          | no    | yes | social     |
 | [Whistle](https://www.whistlephone.com/)                                                 | unclear            | no          | no    | no  | social     |
 | [Linkello](https://linkello.com/)                                                        | unclear            | no          | no    | yes | social     |
+| [Linphone](http://www.linphone.org/)                                                     | active             | yes         | yes   | no  | social     |
+| [Psi Plus](https://psi-plus.com/)                                                        | active             | yes         | yes   | no  | social     |
 | [WhatsApp](https://www.whatsapp.com/)                                                    | active             | no          | no    | yes | social     |
 | [Q-municate](http://q-municate.com/)                                                     | active             | yes         | no    | yes | social     |
 | [Google Hangouts](https://hangouts.google.com/)                                          | active             | no          | no    | yes | social     |
