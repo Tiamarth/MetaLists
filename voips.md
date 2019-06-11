@@ -8,13 +8,15 @@
 | [Teamspeak](https://www.teamspeak.com/)                | unclear            | no          | yes   | no  | gamers    |
 | [Ventrillo](http://www.ventrilo.com/)                  | discontinued       | no          | no    | no  | gamers    |
 | [Slack](https://slack.com/)                            | active             | no          | yes   | no  | workplace |
-| [Rocket.Chat](https://rocket.chat/)                    | active             | yes         | yes   | yes | workplace |
+| [WebEx](https://www.webex.com/)                        | active             | no          | no    | yes | workplace |
 | [Zulip](https://zulipchat.com/)                        | active             | yes         | yes   | no  | workplace |
 | [Sococo](https://www.sococo.com/)                      | active             | no          | no    | yes | workplace |
 | [VIPole](https://www.vipole.com/)                      | dormant            | no          | yes   | no  | workplace |
 | [ezTalks](https://www.eztalks.com/)                    | active             | no          | no    | no  | workplace |
 | [Collabify](https://collabify.app/)                    | active             | no          | no    | yes | workplace |
-| [Globalmeet](https://www.pgi.com/products/globalmeet/) | active             | no          | no    | no | workplace |
+| [Globalmeet](https://www.pgi.com/products/globalmeet/) | active             | no          | no    | no  | workplace |
+| [Rocket.Chat](https://rocket.chat/)                    | active             | yes         | yes   | yes | workplace |
+| [Amazon Chime](https://aws.amazon.com/chime/)          | active             | no          | no    | yes | workplace |
 | [Tox](https://tox.chat/)                               | active             | yes         | yes   | no  | social    |
 | [Jami](https://jami.net/)                              | active             | yes         | yes   | no  | social    |
 | [Ekiga](http://www.ekiga.org/)                         | discontinued       | yes         | yes   | no  | social    |
@@ -27,6 +29,7 @@
 | [Whistle](https://www.whistlephone.com/)               | unclear            | no          | no    | no  | social    |
 | [Linkello](https://linkello.com/)                      | unclear            | no          | no    | yes | social    |
 | [WhatsApp](https://www.whatsapp.com/)                  | active             | no          | no    | yes | social    |
+| [Q-municate](http://q-municate.com/)                   | active             | yes         | no    | yes | social    |
 | [Google Hangouts](https://hangouts.google.com/)        | active             | no          | no    | yes | social    |
 | [Facebook Messenger](https://www.messenger.com/)       | active             | no          | no    | yes | social    |
 
