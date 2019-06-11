@@ -27,7 +27,6 @@
 | [Jami](https://jami.net/)                                                                | active             | yes         | yes   | no         | social     |
 | [Riot](https://about.riot.im/)                                                           | active             | yes         | yes   | yes        | social     |
 | [Ekiga](http://www.ekiga.org/)                                                           | discontinued       | yes         | yes   | no         | social     |
-| [Jitsi](https://jitsi.org/)                                                              | active             | yes         | yes   | yes        | social     |
 | [Skype](https://www.skype.com/en/)                                                       | active             | no          | yes   | yes        | social     |
 | [Viber](https://www.viber.com/en/)                                                       | active             | no          | yes   | no         | social     |
 | [Signal](https://signal.org/)                                                            | active             | yes         | yes   | no         | social     |
@@ -35,8 +34,6 @@
 | [WowApp](https://www.wowapp.com/)                                                        | unclear            | no          | no    | no         | social     |
 | [Paltalk](https://www.paltalk.com/)                                                      | active             | no          | no    | no         | social     |
 | [We-Talk](https://www.we-talk.co/)                                                       | discontinued       | no          | no    | no         | social     |
-| [WebRoom](https://webroom.net/)                                                          | unclear            | no          | no    | yes        | social     |
-| [Whistle](https://www.whistlephone.com/)                                                 | unclear            | no          | no    | no         | social     |
 | [Linkello](https://linkello.com/)                                                        | unclear            | no          | no    | yes        | social     |
 | [Linphone](http://www.linphone.org/)                                                     | active             | yes         | yes   | no         | social     |
 | [Psi Plus](https://psi-plus.com/)                                                        | active             | yes         | yes   | no         | social     |
@@ -44,7 +41,6 @@
 | [Q-municate](http://q-municate.com/)                                                     | active             | yes         | no    | yes        | social     |
 | [Google Hangouts](https://hangouts.google.com/)                                          | active             | no          | no    | yes        | social     |
 | [Facebook Messenger](https://www.messenger.com/)                                         | active             | no          | no    | yes        | social     |
-| [FreeConferenceCall.com](https://www.freeconferencecall.com/)                            | active             | no          | no    | yes        | social     |
 
 ## Other software with voice call functionality
 | Name                                                                 | Development Status | Open Source | Linux | Web Client | Market |
