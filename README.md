@@ -15,6 +15,10 @@ Generally, I will only list software that is still available for download from o
 - [VoIPs](voips.md)
 - [Web Browsers](web_browsers.md)
 
+## Currently Incomplete Lists
+
+- [Software Lists](software_lists.md)
+
 ## Planned Lists
 - Ambient Sound Generators
 - Audio Editors
@@ -23,10 +27,12 @@ Generally, I will only list software that is still available for download from o
 - Game Library Managers
 - Media Players
 - Music Library Managers
+- Music Sharing Platforms
 - Music Tag Editors
+- Podcast Sharing Platforms
 - Random Generators
 - Social Networks
-- Software Lists
+- Video Sharing Platforms
 
 ## Definitions of dev status terms
 - **unclear** : last release was not dated
