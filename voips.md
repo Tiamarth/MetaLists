@@ -7,7 +7,6 @@
 | [Overtone](https://overtone.app/)                | active             | no          | no    | yes | gamers    |
 | [Teamspeak](https://www.teamspeak.com/)          | unclear            | no          | yes   | no  | gamers    |
 | [Ventrillo](http://www.ventrilo.com/)            | discontinued       | no          | no    | no  | gamers    |
-| [Twitch Desktop App](https://app.twitch.tv/)     | active             | no          | no    | no  | gamers    |
 | [Slack](https://slack.com/)                      | active             | no          | yes   | no  | workplace |
 | [Brosix](https://www.brosix.com/)                | active             | no          | yes   | yes | workplace |
 | [VIPole](https://www.vipole.com/)                | active             | no          | yes   | no  | workplace |
