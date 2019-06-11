@@ -14,14 +14,13 @@
 | [VIPole](https://www.vipole.com/)                | active             | no          | yes   | no  | workplace |
 | [Voptop](https://www.voptop.com/)                | unclear            | yes         | yes   | no  | workplace |
 | [Tox](https://tox.chat/)                         | active             | yes         | yes   | no  | social    |
-| [Ring](https://ring.cx/en)                       | active             | yes         | yes   | no  | social    |
+| [Jami](https://jami.net/)                        | active             | yes         | yes   | no  | social    |
 | [Ekiga](http://www.ekiga.org/)                   | discontinued       | yes         | yes   | no  | social    |
-| [Jitsi](https://jitsi.org/)                      | active             | yes         | no    | yes | social    |
+| [Jitsi](https://jitsi.org/)                      | active             | yes         | yes   | yes | social    |
 | [Skype](https://www.skype.com/en/)               | active             | no          | yes   | yes | social    |
 | [Viber](https://www.viber.com/en/)               | active             | no          | yes   | no  | social    |
 | [Signal](https://signal.org/)                    | active             | yes         | yes   | no  | social    |
 | [Empathy](https://wiki.gnome.org/Apps/Empathy)   | active             | yes         | yes   | no  | social    |
-| [Raidcall](http://www.raidcall.com/index.html)   | active             | no          | no    | no  | social    |
 | [WhatsApp](https://www.whatsapp.com/)            | active             | no          | no    | yes | social    |
 | [Google Hangouts](https://hangouts.google.com/)  | active             | no          | no    | yes | social    |
 | [Facebook Messenger](https://www.messenger.com/) | active             | no          | no    | yes | social    |
@@ -32,7 +31,7 @@
 | [Steam](http://store.steampowered.com/about/) | active             | no          | yes   | yes | gamers |
 
 ## See also
-1. [YakYak](https://github.com/yakyak/yakyak) is a desktop client for Google Hangouts, supports linux, and is open source
+1. [YakYak](https://github.com/yakyak/yakyak) is a desktop client for Google Hangouts, supports Linux, and is open source
 
 ## FAQ
 Preemptive responses to likely FAQs:
