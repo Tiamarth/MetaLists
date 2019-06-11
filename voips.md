@@ -11,7 +11,7 @@
 | [Rocket.Chat](https://rocket.chat/)              | active             | yes         | yes   | yes | workplace |
 | [Zulip](https://zulipchat.com/)                  | active             | yes         | yes   | no  | workplace |
 | [Brosix](https://www.brosix.com/)                | active             | no          | yes   | yes | workplace |
-| [VIPole](https://www.vipole.com/)                | active             | no          | yes   | no  | workplace |
+| [VIPole](https://www.vipole.com/)                | dormant            | no          | yes   | no  | workplace |
 | [Tox](https://tox.chat/)                         | active             | yes         | yes   | no  | social    |
 | [Jami](https://jami.net/)                        | active             | yes         | yes   | no  | social    |
 | [Ekiga](http://www.ekiga.org/)                   | discontinued       | yes         | yes   | no  | social    |
