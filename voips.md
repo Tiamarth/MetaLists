@@ -1,63 +1,63 @@
 # VoIPs
-| Name                                                                                     | Development Status | Open Source | Linux | Web | Market     |
-| ---------------------------------------------------------------------------------------- | ------------------ | ----------- | ----- | --- | ---------- |
-| [Garena](https://www.garena.sg/gpc)                                                      | unclear            | no          | no    | no  | gamers     |
-| [Mumble](http://www.mumble.com/)                                                         | active             | yes         | yes   | no  | gamers     |
-| [Discord](https://discordapp.com/)                                                       | active             | no          | yes   | yes | gamers     |
-| [Overtone](https://overtone.app/)                                                        | active             | no          | no    | yes | gamers     |
-| [Teamspeak](https://www.teamspeak.com/)                                                  | unclear            | no          | yes   | no  | gamers     |
-| [Ventrillo](http://www.ventrilo.com/)                                                    | discontinued       | no          | no    | no  | gamers     |
-| [Ringr](http://www.ringr.com/)                                                           | dormant            | no          | no    | yes | podcasters |
-| [Slack](https://slack.com/)                                                              | active             | no          | yes   | no  | developers |
-| [Let's Chat](https://sdelements.github.io/lets-chat/)                                    | discontinued       | no          | no    | yes | developers |
-| [Mattermost](https://www.mattermost.org/)                                                | active             | yes         | yes   | no  | developers |
-| [Rocket.Chat](https://rocket.chat/)                                                      | active             | yes         | yes   | yes | developers |
-| [WebEx](https://www.webex.com/)                                                          | active             | no          | no    | yes | workplace  |
-| [Zulip](https://zulipchat.com/)                                                          | active             | yes         | yes   | no  | workplace  |
-| [Chanty](https://www.chanty.com/)                                                        | active             | no          | yes   | yes | workplace  |
-| [Dialog](https://dlg.im/en/)                                                             | dormant            | yes         | yes   | no  | workplace  |
-| [Sococo](https://www.sococo.com/)                                                        | active             | no          | no    | yes | workplace  |
-| [VIPole](https://www.vipole.com/)                                                        | dormant            | no          | yes   | no  | workplace  |
-| [ezTalks](https://www.eztalks.com/)                                                      | active             | no          | no    | no  | workplace  |
-| [sipXcom](http://sipxcom.org/)                                                           | active             | yes         | yes   | no  | workplace  |
-| [RingOver](https://www.ringover.com/en/)                                                 | active             | no          | no    | yes | workplace  |
-| [Collabify](https://collabify.app/)                                                      | active             | no          | no    | yes | workplace  |
-| [Globalmeet](https://www.pgi.com/products/globalmeet/)                                   | active             | no          | no    | no  | workplace  |
-| [Net Meeting](https://www.tutorialspoint.com/netmeeting.php)                             | unclear            | no          | no    | yes | workplace  |
-| [Amazon Chime](https://aws.amazon.com/chime/)                                            | active             | no          | no    | yes | workplace  |
-| [Nextcloud Talk](https://www.thirdlane.com/products/thirdlane-connect)                   | active             | yes         | no    | yes | workplace  |
-| [UberConference](https://www.uberconference.com/)                                        | active             | no          | no    | yes | workplace  |
-| [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) | active             | no          | no    | no  | workplace  |
-| [Thirdlane Connect](https://www.thirdlane.com/products/thirdlane-connect)                | active             | no          | yes   | yes | workplace  |
-| [Imo](https://imo.im/)                                                                   | unclear            | no          | no    | no  | social     |
-| [Tox](https://tox.chat/)                                                                 | active             | yes         | yes   | no  | social     |
-| [Jami](https://jami.net/)                                                                | active             | yes         | yes   | no  | social     |
-| [Riot](https://about.riot.im/)                                                           | active             | yes         | yes   | yes | social     |
-| [Ekiga](http://www.ekiga.org/)                                                           | discontinued       | yes         | yes   | no  | social     |
-| [Jitsi](https://jitsi.org/)                                                              | active             | yes         | yes   | yes | social     |
-| [Skype](https://www.skype.com/en/)                                                       | active             | no          | yes   | yes | social     |
-| [Viber](https://www.viber.com/en/)                                                       | active             | no          | yes   | no  | social     |
-| [Signal](https://signal.org/)                                                            | active             | yes         | yes   | no  | social     |
-| [Voptop](https://www.voptop.com/)                                                        | unclear            | no          | yes   | no  | social     |
-| [WowApp](https://www.wowapp.com/)                                                        | unclear            | no          | no    | no  | social     |
-| [Paltalk](https://www.paltalk.com/)                                                      | active             | no          | no    | no  | social     |
-| [We-Talk](https://www.we-talk.co/)                                                       | discontinued       | no          | no    | no  | social     |
-| [WebRoom](https://webroom.net/)                                                          | unclear            | no          | no    | yes | social     |
-| [Whistle](https://www.whistlephone.com/)                                                 | unclear            | no          | no    | no  | social     |
-| [Linkello](https://linkello.com/)                                                        | unclear            | no          | no    | yes | social     |
-| [Linphone](http://www.linphone.org/)                                                     | active             | yes         | yes   | no  | social     |
-| [Psi Plus](https://psi-plus.com/)                                                        | active             | yes         | yes   | no  | social     |
-| [WhatsApp](https://www.whatsapp.com/)                                                    | active             | no          | no    | yes | social     |
-| [Q-municate](http://q-municate.com/)                                                     | active             | yes         | no    | yes | social     |
-| [Google Hangouts](https://hangouts.google.com/)                                          | active             | no          | no    | yes | social     |
-| [Facebook Messenger](https://www.messenger.com/)                                         | active             | no          | no    | yes | social     |
-| [FreeConferenceCall.com](https://www.freeconferencecall.com/)                            | active             | no          | no    | yes | social     |
+| Name                                                                                     | Development Status | Open Source | Linux | Web Client | Market     |
+| ---------------------------------------------------------------------------------------- | ------------------ | ----------- | ----- | ---------- | ---------- |
+| [Garena](https://www.garena.sg/gpc)                                                      | unclear            | no          | no    | no         | gamers     |
+| [Mumble](http://www.mumble.com/)                                                         | active             | yes         | yes   | no         | gamers     |
+| [Discord](https://discordapp.com/)                                                       | active             | no          | yes   | yes        | gamers     |
+| [Overtone](https://overtone.app/)                                                        | active             | no          | no    | yes        | gamers     |
+| [Teamspeak](https://www.teamspeak.com/)                                                  | unclear            | no          | yes   | no         | gamers     |
+| [Ventrillo](http://www.ventrilo.com/)                                                    | discontinued       | no          | no    | no         | gamers     |
+| [Ringr](http://www.ringr.com/)                                                           | dormant            | no          | no    | yes        | podcasters |
+| [Slack](https://slack.com/)                                                              | active             | no          | yes   | no         | developers |
+| [Let's Chat](https://sdelements.github.io/lets-chat/)                                    | discontinued       | no          | no    | yes        | developers |
+| [Mattermost](https://www.mattermost.org/)                                                | active             | yes         | yes   | no         | developers |
+| [Rocket.Chat](https://rocket.chat/)                                                      | active             | yes         | yes   | yes        | developers |
+| [WebEx](https://www.webex.com/)                                                          | active             | no          | no    | yes        | workplace  |
+| [Zulip](https://zulipchat.com/)                                                          | active             | yes         | yes   | no         | workplace  |
+| [Chanty](https://www.chanty.com/)                                                        | active             | no          | yes   | yes        | workplace  |
+| [Dialog](https://dlg.im/en/)                                                             | dormant            | yes         | yes   | no         | workplace  |
+| [Sococo](https://www.sococo.com/)                                                        | active             | no          | no    | yes        | workplace  |
+| [VIPole](https://www.vipole.com/)                                                        | dormant            | no          | yes   | no         | workplace  |
+| [ezTalks](https://www.eztalks.com/)                                                      | active             | no          | no    | no         | workplace  |
+| [sipXcom](http://sipxcom.org/)                                                           | active             | yes         | yes   | no         | workplace  |
+| [RingOver](https://www.ringover.com/en/)                                                 | active             | no          | no    | yes        | workplace  |
+| [Collabify](https://collabify.app/)                                                      | active             | no          | no    | yes        | workplace  |
+| [Globalmeet](https://www.pgi.com/products/globalmeet/)                                   | active             | no          | no    | no         | workplace  |
+| [Net Meeting](https://www.tutorialspoint.com/netmeeting.php)                             | unclear            | no          | no    | yes        | workplace  |
+| [Amazon Chime](https://aws.amazon.com/chime/)                                            | active             | no          | no    | yes        | workplace  |
+| [Nextcloud Talk](https://www.thirdlane.com/products/thirdlane-connect)                   | active             | yes         | no    | yes        | workplace  |
+| [UberConference](https://www.uberconference.com/)                                        | active             | no          | no    | yes        | workplace  |
+| [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) | active             | no          | no    | no         | workplace  |
+| [Thirdlane Connect](https://www.thirdlane.com/products/thirdlane-connect)                | active             | no          | yes   | yes        | workplace  |
+| [Imo](https://imo.im/)                                                                   | unclear            | no          | no    | no         | social     |
+| [Tox](https://tox.chat/)                                                                 | active             | yes         | yes   | no         | social     |
+| [Jami](https://jami.net/)                                                                | active             | yes         | yes   | no         | social     |
+| [Riot](https://about.riot.im/)                                                           | active             | yes         | yes   | yes        | social     |
+| [Ekiga](http://www.ekiga.org/)                                                           | discontinued       | yes         | yes   | no         | social     |
+| [Jitsi](https://jitsi.org/)                                                              | active             | yes         | yes   | yes        | social     |
+| [Skype](https://www.skype.com/en/)                                                       | active             | no          | yes   | yes        | social     |
+| [Viber](https://www.viber.com/en/)                                                       | active             | no          | yes   | no         | social     |
+| [Signal](https://signal.org/)                                                            | active             | yes         | yes   | no         | social     |
+| [Voptop](https://www.voptop.com/)                                                        | unclear            | no          | yes   | no         | social     |
+| [WowApp](https://www.wowapp.com/)                                                        | unclear            | no          | no    | no         | social     |
+| [Paltalk](https://www.paltalk.com/)                                                      | active             | no          | no    | no         | social     |
+| [We-Talk](https://www.we-talk.co/)                                                       | discontinued       | no          | no    | no         | social     |
+| [WebRoom](https://webroom.net/)                                                          | unclear            | no          | no    | yes        | social     |
+| [Whistle](https://www.whistlephone.com/)                                                 | unclear            | no          | no    | no         | social     |
+| [Linkello](https://linkello.com/)                                                        | unclear            | no          | no    | yes        | social     |
+| [Linphone](http://www.linphone.org/)                                                     | active             | yes         | yes   | no         | social     |
+| [Psi Plus](https://psi-plus.com/)                                                        | active             | yes         | yes   | no         | social     |
+| [WhatsApp](https://www.whatsapp.com/)                                                    | active             | no          | no    | yes        | social     |
+| [Q-municate](http://q-municate.com/)                                                     | active             | yes         | no    | yes        | social     |
+| [Google Hangouts](https://hangouts.google.com/)                                          | active             | no          | no    | yes        | social     |
+| [Facebook Messenger](https://www.messenger.com/)                                         | active             | no          | no    | yes        | social     |
+| [FreeConferenceCall.com](https://www.freeconferencecall.com/)                            | active             | no          | no    | yes        | social     |
 
 ## Other software with voice call functionality
-| Name                                                                 | Development Status | Open Source | Linux | Web | Market |
-| -------------------------------------------------------------------- | ------------------ | ----------- | ----- | --- | ------ |
-| [Steam](http://store.steampowered.com/about/)                        | active             | no          | yes   | no  | gamers |
-| [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) | active             | no          | no    | no  | gamers |
+| Name                                                                 | Development Status | Open Source | Linux | Web Client | Market |
+| -------------------------------------------------------------------- | ------------------ | ----------- | ----- | ---------- | ------ |
+| [Steam](http://store.steampowered.com/about/)                        | active             | no          | yes   | no         | gamers |
+| [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/desktop) | active             | no          | no    | no         | gamers |
 
 ## See also
 1. [YakYak](https://github.com/yakyak/yakyak) is a desktop client for Google Hangouts, supports Linux, and is open source
