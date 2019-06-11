@@ -48,7 +48,7 @@
 *VoIP stands for Voice Over IP.* Basically, a VoIP is software that lets you call people from your computer. Messaging apps which do not support voice chat, such as Telegram, will not be included in this list. Apps which only support voice chat when accompanied by video through web cam will not be included either.
 
 **What does the "market" data mean?**
-*That's the target demographic of the app.* Obviously any of these apps can be used by anyone, but the people who make them target certain specific people in design and marketing. For I'll be categorizing this list with three obvious marketbases, those being "gamers," "workplace," and "social." "Gamers" refers to people who play video games and are looking for a voice solution to communicate with other players; "workplace" refers to businesses; and social refers to apps which are either marketed to the general populace as a way to stay in contact with friends and family, or apps which aren't clearly marketed to any specific demographic.
+*That's the target demographic of the app.* Obviously any of these apps can be used by anyone, but the people who make them target certain specific people in design and marketing. For now I'll be categorizing this list with four obvious marketbases, those being "gamers," "podcasters," "workplace," and "social." "Gamers" refers to people who play video games and are looking for a voice solution to communicate with other players; "podcasters" refers to people who host podcasts with remote guests; "workplace" refers to businesses; and social refers to apps which are either marketed to the general populace as a way to stay in contact with friends and family, or apps which aren't clearly marketed to any specific demographic.
 
 ## Data
 VoIPs: 25  
