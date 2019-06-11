@@ -12,19 +12,12 @@
 | [Let's Chat](https://sdelements.github.io/lets-chat/)                                    | discontinued       | no          | no    | yes        | developers |
 | [Mattermost](https://www.mattermost.org/)                                                | active             | yes         | yes   | no         | developers |
 | [Rocket.Chat](https://rocket.chat/)                                                      | active             | yes         | yes   | yes        | developers |
-| [WebEx](https://www.webex.com/)                                                          | active             | no          | no    | yes        | workplace  |
 | [Zulip](https://zulipchat.com/)                                                          | active             | yes         | yes   | no         | workplace  |
 | [Chanty](https://www.chanty.com/)                                                        | active             | no          | yes   | yes        | workplace  |
 | [Dialog](https://dlg.im/en/)                                                             | dormant            | yes         | yes   | no         | workplace  |
 | [Sococo](https://www.sococo.com/)                                                        | active             | no          | no    | yes        | workplace  |
 | [VIPole](https://www.vipole.com/)                                                        | dormant            | no          | yes   | no         | workplace  |
-| [ezTalks](https://www.eztalks.com/)                                                      | active             | no          | no    | no         | workplace  |
-| [sipXcom](http://sipxcom.org/)                                                           | active             | yes         | yes   | no         | workplace  |
-| [RingOver](https://www.ringover.com/en/)                                                 | active             | no          | no    | yes        | workplace  |
 | [Collabify](https://collabify.app/)                                                      | active             | no          | no    | yes        | workplace  |
-| [Globalmeet](https://www.pgi.com/products/globalmeet/)                                   | active             | no          | no    | no         | workplace  |
-| [Net Meeting](https://www.tutorialspoint.com/netmeeting.php)                             | unclear            | no          | no    | yes        | workplace  |
-| [Amazon Chime](https://aws.amazon.com/chime/)                                            | active             | no          | no    | yes        | workplace  |
 | [Nextcloud Talk](https://www.thirdlane.com/products/thirdlane-connect)                   | active             | yes         | no    | yes        | workplace  |
 | [UberConference](https://www.uberconference.com/)                                        | active             | no          | no    | yes        | workplace  |
 | [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/group-chat-software) | active             | no          | no    | no         | workplace  |
