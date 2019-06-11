@@ -5,17 +5,17 @@
 | [Hiri](https://www.hiri.com/)                                                                                | active             | no          | yes   |
 | [Kube](https://kube.kde.org/)                                                                                | active             | yes         | yes   |
 | [Mutt](http://www.mutt.org/)                                                                                 | active             | yes         | yes   |
-| [Balsa](https://pawsa.fedorapeople.org/balsa/)                                                               | active             | yes         | yes   |
+| [Balsa](https://pawsa.fedorapeople.org/balsa/)                                                               | ongoing            | yes         | yes   |
 | [Geary](https://wiki.gnome.org/Apps/Geary)                                                                   | active             | yes         | yes   |
 | [Kmail](https://www.kde.org/applications/internet/kmail/)                                                    | active             | yes         | yes   |
 | [Columba](https://sourceforge.net/projects/columba/)                                                         | discontinued       | yes         | yes   |
 | [Notmuch](https://notmuchmail.org/)                                                                          | active             | yes         | yes   |
 | [Trojitá](http://trojita.flaska.net/)                                                                        | active             | yes         | yes   |
 | [Mulberry](http://www.mulberrymail.com/)                                                                     | discontinued       | yes         | yes   |
-| [Sylpheed](http://sylpheed.sraoss.jp/en/)                                                                    | active             | yes         | yes   |
+| [Sylpheed](http://sylpheed.sraoss.jp/en/)                                                                    | ongoing            | yes         | yes   |
 | [Evolution](https://wiki.gnome.org/Apps/Evolution)                                                           | active             | yes         | yes   |
 | [Fossamail](http://www.fossamail.org/)                                                                       | discontinued       | yes         | yes   |
-| [Claws Mail](http://www.claws-mail.org/)                                                                     | active             | yes         | yes   |
+| [Claws Mail](http://www.claws-mail.org/)                                                                     | ongoing            | yes         | yes   |
 | [Mailspring](https://getmailspring.com/)                                                                     | active             | yes         | yes   |
 | [Nylas Mail](https://www.nylas.com/nylas-mail/)                                                              | discontinued       | yes         | yes   |
 | [SimpleMail](http://simplemail.sourceforge.net/)                                                             | ongoing            | no          | yes   |
@@ -39,7 +39,7 @@
 | [Canary Mail](http://canarymail.io/)                                                                         | active             | no          | no    |
 | [Forté Agent](http://www.forteinc.com/main/homepage.php)                                                     | discontinued       | no          | no    |
 | [Newton Mail](https://newtonhq.com/)                                                                         | active             | no          | no    |
-| [Pegasus Mail](http://www.pmail.com/)                                                                        | active             | no          | no    |
+| [Pegasus Mail](http://www.pmail.com/)                                                                        | ongoing            | no          | no    |
 | [Windows Mail](https://www.microsoft.com/en-us/p/mail-and-calendar/9wzdncrfhvqm?activetab=pivot:overviewtab) | active             | no          | no    |
 | [Microsoft Outlook](https://products.office.com/en-US/outlook/email-and-calendar-software-microsoft-outlook) | active             | no          | no    |
 
