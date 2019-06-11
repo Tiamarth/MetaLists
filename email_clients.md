@@ -44,18 +44,18 @@
 | [Microsoft Outlook](https://products.office.com/en-US/outlook/email-and-calendar-software-microsoft-outlook) | active             | no          | no    |
 
 ## Data
-email clients: 42
+email clients: 41
 
 **License**  
-open source: 21  
+open source: 20  
 proprietary: 21
 
 **Linux support**  
 linux support: 21  
-no linux support: 21
+no linux support: 20
 
 **Dev status**  
-unclear: 1  
-dormant: 2  
-discontinued: 10  
-active: 29
+dormant: 1  
+ongoing: 7  
+discontinued: 9  
+active: 24
