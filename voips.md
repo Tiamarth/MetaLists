@@ -11,9 +11,12 @@
 | [Slack](https://slack.com/)                            | active             | no          | yes   | no  | workplace  |
 | [WebEx](https://www.webex.com/)                        | active             | no          | no    | yes | workplace  |
 | [Zulip](https://zulipchat.com/)                        | active             | yes         | yes   | no  | workplace  |
+| [Chanty](https://www.chanty.com/)                      | active             | no          | yes   | yes | workplace  |
 | [Sococo](https://www.sococo.com/)                      | active             | no          | no    | yes | workplace  |
 | [VIPole](https://www.vipole.com/)                      | dormant            | no          | yes   | no  | workplace  |
 | [ezTalks](https://www.eztalks.com/)                    | active             | no          | no    | no  | workplace  |
+| [sipXcom](http://sipxcom.org/)                         | active             | yes         | yes   | no  | workplace  |
+| [RingOver](https://www.ringover.com/en/)               | active             | no          | no    | yes | workplace  |
 | [Collabify](https://collabify.app/)                    | active             | no          | no    | yes | workplace  |
 | [Globalmeet](https://www.pgi.com/products/globalmeet/) | active             | no          | no    | no  | workplace  |
 | [Rocket.Chat](https://rocket.chat/)                    | active             | yes         | yes   | yes | workplace  |
@@ -27,6 +30,8 @@
 | [Signal](https://signal.org/)                          | active             | yes         | yes   | no  | social     |
 | [Voptop](https://www.voptop.com/)                      | unclear            | no          | yes   | no  | social     |
 | [Empathy](https://wiki.gnome.org/Apps/Empathy)         | active             | yes         | yes   | no  | social     |
+| [Paltalk](https://www.paltalk.com/)                    | active             | no          | no    | no  | social     |
+| [We-Talk](https://www.we-talk.co/)                     | discontinued       | no          | no    | no  | social     |
 | [Whistle](https://www.whistlephone.com/)               | unclear            | no          | no    | no  | social     |
 | [Linkello](https://linkello.com/)                      | unclear            | no          | no    | yes | social     |
 | [WhatsApp](https://www.whatsapp.com/)                  | active             | no          | no    | yes | social     |
