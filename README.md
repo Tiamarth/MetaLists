@@ -6,30 +6,30 @@ It is both possible and likely that I've made some mistakes in the details of th
 Generally, I will only list software that is still available for download from official sources. The point of this is to reduce linking to potential malware or adware. If there is software listed for which you cannot find a download, it is probably only still available via the repos of a Linux distribution. I'm on Manjaro.
 
 ## Current Lists
-- [Email Clients](email_clients.md)
-- [Music Players](music_players.md)
-- [Office Suites](office_suites.md)
-- [Search Engines](search_engines.md)
-- [Software Lists](software_lists.md)
-- [Text Editors](text_editors.md)
-- [Video Editors](video_editors.md)
-- [VoIPs](voips.md)
-- [Web Browsers](web_browsers.md)
+- [Email Clients](email_clients.md) (Thunderbird)
+- [Music Players](music_players.md) (Groove)
+- [Office Suites](office_suites.md) (Microsoft Office)
+- [Search Engines](search_engines.md) (Google)
+- [Software Lists](software_lists.md) (AlternativeTo)
+- [Text Editors](text_editors.md) (Notepad)
+- [Video Editors](video_editors.md) (Adobe Premiere)
+- [VoIPs](voips.md) (Skype)
+- [Web Browsers](web_browsers.md) (Google Chrome)
 
 ## Planned Lists
 - Ambient Sound Generators
-- Audio Editors
+- Audio Editors (Audacity)
 - Dictionaries
-- Game Distribution Platforms
-- Game Library Managers
+- Game Distribution Platforms (Steam)
+- Game Library Managers (Steam)
 - Media Players
 - Music Library Managers
-- Music Sharing Platforms
-- Music Tag Editors
+- Music Sharing Platforms (Soundcloud)
+- Music Tag Editors (MP3Tag)
 - Podcast Sharing Platforms
 - Random Generators
-- Social Networks
-- Video Sharing Platforms
+- Social Networks (Facebook and Twitter)
+- Video Sharing Platforms (Youtube)
 
 ## Definitions of dev status terms
 - **unclear** : last release was not dated
