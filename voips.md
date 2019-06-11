@@ -63,8 +63,6 @@
 **What does the "market" data mean?**  
 *That's the target demographic of the app.* Obviously any of these apps can be used by anyone, but the people who make them target specific groups of people in design and marketing. For now I'll be categorizing this list with five obvious marketbases, those being "gamers," "podcasters,", "developers," "workplace," and "social." "Gamers" refers to people who play video games and are looking for a voice solution to communicate with other players; "podcasters" refers to people who host podcasts with remote guests; "developers" refers to software developers; "workplace" refers to businesses and students; and "social" refers to apps which are either marketed to the general populace as a way to stay in contact with friends and family, or apps which aren't clearly marketed to any specific demographic.
 
-That being said, the market any specific app is targeted toward isn't very important. You should use what's most popular, regardless of target demographic, because whatever's most popular is likely to be fairly high quality and easy to use. Skype, Discord, and Slack - to the best of my knowledge - are, by far, the most popular VoIP applications. And Riot is the most popular open source VoIP application.
-
 ## Data
 VoIPs: 25  
 can be used in a web browser: 10
