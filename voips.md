@@ -8,6 +8,8 @@
 | [Teamspeak](https://www.teamspeak.com/)          | unclear            | no          | yes   | no  | gamers    |
 | [Ventrillo](http://www.ventrilo.com/)            | discontinued       | no          | no    | no  | gamers    |
 | [Slack](https://slack.com/)                      | active             | no          | yes   | no  | workplace |
+| [Rocket.Chat](https://rocket.chat/)              | active             | yes         | yes   | yes | workplace |
+| [Zulip](https://zulipchat.com/)                  | active             | yes         | yes   | no  | workplace |
 | [Brosix](https://www.brosix.com/)                | active             | no          | yes   | yes | workplace |
 | [VIPole](https://www.vipole.com/)                | active             | no          | yes   | no  | workplace |
 | [Voptop](https://www.voptop.com/)                | unclear            | yes         | yes   | no  | workplace |
@@ -18,7 +20,6 @@
 | [Skype](https://www.skype.com/en/)               | active             | no          | yes   | yes | social    |
 | [Viber](https://www.viber.com/en/)               | active             | no          | yes   | no  | social    |
 | [Signal](https://signal.org/)                    | active             | yes         | yes   | no  | social    |
-| [Hubl.in](https://hubl.in/)                      | active             | yes         | no    | yes | social    |
 | [Empathy](https://wiki.gnome.org/Apps/Empathy)   | active             | yes         | yes   | no  | social    |
 | [Raidcall](http://www.raidcall.com/index.html)   | active             | no          | no    | no  | social    |
 | [WhatsApp](https://www.whatsapp.com/)            | active             | no          | no    | yes | social    |
