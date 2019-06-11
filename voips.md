@@ -9,6 +9,7 @@
 | [Ventrillo](http://www.ventrilo.com/)                                                    | discontinued       | no          | no    | no  | gamers     |
 | [Ringr](http://www.ringr.com/)                                                           | dormant            | no          | no    | yes | podcasters |
 | [Slack](https://slack.com/)                                                              | active             | no          | yes   | no  | developers |
+| [Let's Chat](https://sdelements.github.io/lets-chat/)                                    | discontinued       | no          | no    | yes | developers |
 | [Mattermost](https://www.mattermost.org/)                                                | active             | yes         | yes   | no  | developers |
 | [Rocket.Chat](https://rocket.chat/)                                                      | active             | yes         | yes   | yes | developers |
 | [WebEx](https://www.webex.com/)                                                          | active             | no          | no    | yes | workplace  |
