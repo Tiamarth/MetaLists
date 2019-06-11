@@ -10,8 +10,9 @@
 | [Slack](https://slack.com/)                      | active             | no          | yes   | no  | workplace |
 | [Rocket.Chat](https://rocket.chat/)              | active             | yes         | yes   | yes | workplace |
 | [Zulip](https://zulipchat.com/)                  | active             | yes         | yes   | no  | workplace |
-| [Brosix](https://www.brosix.com/)                | active             | no          | yes   | yes | workplace |
+| [Sococo](https://www.sococo.com/)                | active             | no          | no    | yes | workplace |
 | [VIPole](https://www.vipole.com/)                | dormant            | no          | yes   | no  | workplace |
+| [Collabify](https://collabify.app/)              | active             | no          | no    | yes | workplace |
 | [Tox](https://tox.chat/)                         | active             | yes         | yes   | no  | social    |
 | [Jami](https://jami.net/)                        | active             | yes         | yes   | no  | social    |
 | [Ekiga](http://www.ekiga.org/)                   | discontinued       | yes         | yes   | no  | social    |
@@ -21,6 +22,7 @@
 | [Signal](https://signal.org/)                    | active             | yes         | yes   | no  | social    |
 | [Voptop](https://www.voptop.com/)                | unclear            | no          | yes   | no  | social    |
 | [Empathy](https://wiki.gnome.org/Apps/Empathy)   | active             | yes         | yes   | no  | social    |
+| [Whistle](https://www.whistlephone.com/)         | unclear            | no          | no    | no  | social    |
 | [WhatsApp](https://www.whatsapp.com/)            | active             | no          | no    | yes | social    |
 | [Google Hangouts](https://hangouts.google.com/)  | active             | no          | no    | yes | social    |
 | [Facebook Messenger](https://www.messenger.com/) | active             | no          | no    | yes | social    |
@@ -34,10 +36,10 @@
 1. [YakYak](https://github.com/yakyak/yakyak) is a desktop client for Google Hangouts, supports Linux, and is open source
 
 ## FAQ
-Preemptive responses to likely FAQs:
+(Preemptive responses to likely FAQs)
 
 **What's a VoIP?**  
-*VoIP stands for Voice Over IP.* Basically, a VoIP is software that lets you call people from your computer.
+*VoIP stands for Voice Over IP.* Basically, a VoIP is software that lets you call people from your computer. Messaging apps which do not support voice chat, such as Telegram, will not be included in this list. Apps which only support voice chat when accompanied by video through web cam will not be included either.
 
 ## Data
 VoIPs: 25  
