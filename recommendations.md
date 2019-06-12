@@ -47,7 +47,7 @@ These are all programs, apps, and servicess that I personally use and recommend.
 | [Adobe Premiere Elements](http://www.adobe.com/products/premiere-elements.html) | no    | no          |
 
 # VoIPs
-| Name                                            | Development Status | Open Source | Linux | Web Client | Market     |
+| Name / Link                                     | Development Status | Open Source | Linux | Web Client | Market     |
 | ----------------------------------------------- | ------------------ | ----------- | ----- | ---------- | ---------- |
 | [Discord](https://discordapp.com/)              | active             | no          | yes   | yes        | gamers     |
 | [Teamspeak](https://www.teamspeak.com/)         | unclear            | no          | yes   | no         | gamers     |
@@ -58,7 +58,7 @@ These are all programs, apps, and servicess that I personally use and recommend.
 | [Google Hangouts](https://hangouts.google.com/) | active             | no          | no    | yes        | social     |
 
 # Web Browsers
-| Name                                                                                          | Development Status   | Open Source | Linux  | Engine        |
+| Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
 | --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
 | [Firefox](https://www.mozilla.org/en-US/firefox/)                                             | active               | yes         | yes    | Quantum       |
 | [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) | active               | yes         | yes    | Quantum       |
