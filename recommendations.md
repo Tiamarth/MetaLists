@@ -69,6 +69,6 @@ These are all programs, apps, and servicess that I personally use and recommend.
 | [Min](https://minbrowser.github.io/min/)                                                      | active               | yes         | yes    | Blink         |
 | [Opera](http://www.opera.com/)                                                                | active               | no          | yes    | Blink         |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
-| [Vivaldi](https://vivaldi.com/)                                                               | active               | no^1        | yes    | Blink         |
+| [Vivaldi](https://vivaldi.com/)                                                               | active               | no          | yes    | Blink         |
 | [Yandex](https://browser.yandex.com/desktop/main/)                                            | active               | no          | yes    | Blink         |
 | [Eolie](https://wiki.gnome.org/Apps/Eolie)                                                    | active               | yes         | yes    | WebKitGTK+    |
