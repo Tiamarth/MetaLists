@@ -1,5 +1,5 @@
 # Text Editors
-| Name                                                             | Open Source | Linux |
+| Name / Link                                                      | Open Source | Linux |
 | ---------------------------------------------------------------- | ----------- | ----- |
 | [Vim](http://www.vim.org/)                                       | yes         | yes   |
 | [Zim](http://zim-wiki.org/)                                      | yes         | yes   |

@@ -1,5 +1,5 @@
 # VoIPs
-| Name                                                                                     | Development Status | Open Source | Linux | Web Client | Market     |
+| Name / Link                                                                              | Development Status | Open Source | Linux | Web Client | Market     |
 | ---------------------------------------------------------------------------------------- | ------------------ | ----------- | ----- | ---------- | ---------- |
 | [Garena](https://www.garena.sg/gpc)                                                      | unclear            | no          | no    | no         | gamers     |
 | [Mumble](http://www.mumble.com/)                                                         | active             | yes         | yes   | no         | gamers     |

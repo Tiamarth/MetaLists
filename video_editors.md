@@ -1,5 +1,5 @@
 # Video Editors
-| Name                                                                                                | Linux | Open Source |
+| Name / Link                                                                                         | Linux | Open Source |
 | --------------------------------------------------------------------------------------------------- | ----- | ----------- |
 | [Auteur](https://launchpad.net/auteur)                                                              | yes   | yes         |
 | [PiTiVi](http://www.pitivi.org/)                                                                    | yes   | yes         |

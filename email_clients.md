@@ -1,5 +1,5 @@
 # Email Clients
-| Name                                                                                                         | Development Status | Open Source | Linux |
+| Name / Link                                                                                                  | Development Status | Open Source | Linux |
 | ------------------------------------------------------------------------------------------------------------ | ------------------ | ----------- | ----- |
 | [sup](https://github.com/sup-heliotrope/sup)                                                                 | discontinued       | yes         | yes   |
 | [Hiri](https://www.hiri.com/)                                                                                | active             | no          | yes   |

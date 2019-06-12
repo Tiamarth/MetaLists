@@ -1,5 +1,5 @@
 # Music Players
-| Music Player                                                                                             | Development Status | Open Source | Linux                                                  | mpris | Interface Style |
+| Name / Link                                                                                              | Development Status | Open Source | Linux                                                  | mpris | Interface Style |
 | -------------------------------------------------------------------------------------------------------- | ------------------ | ----------- | ------------------------------------------------------ | ----- | --------------- |
 | [JuK](https://juk.kde.org/)                                                                              | active             | yes         | yes                                                    | yes   | gui             |
 | [Eina](https://github.com/ldotlopez/eina)                                                                | discontinued       | yes         | yes                                                    | yes   | gui             |

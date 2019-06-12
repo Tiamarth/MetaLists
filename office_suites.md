@@ -1,5 +1,5 @@
 # Office Suites
-| Name                                                                                             | Open Source | Linux                                                                      | Web Client |
+| Name / Link                                                                                      | Open Source | Linux                                                                      | Web Client |
 | ------------------------------------------------------------------------------------------------ | ----------- | -------------------------------------------------------------------------- | ---------- |
 | [OnlyOffice](http://www.onlyoffice.com/)                                                         | yes         | yes                                                                        | yes        |
 | [WPS Office](https://www.wps.com/)                                                               | no          | yes                                                                        | no         |

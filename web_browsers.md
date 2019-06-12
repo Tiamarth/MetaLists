@@ -1,5 +1,5 @@
 # Web Browsers
-| Name                                                                                          | Development Status   | Open Source | Linux  | Engine        |
+| Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
 | --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
 | [Firefox](https://www.mozilla.org/en-US/firefox/)                                             | active               | yes         | yes    | Quantum       |
 | [Firefox Beta](https://beta.mozilla.org/)                                                     | active               | yes         | yes    | Quantum       |

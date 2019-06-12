@@ -1,5 +1,5 @@
 # Software Lists
-| Name                                                                       |
+| Name / Link                                                                |
 | -------------------------------------------------------------------------- |
 | [Osalt](https://www.osalt.com/)                                            |
 | [Capterra](https://www.capterra.com/#categories)                           |

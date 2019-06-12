@@ -1,5 +1,5 @@
 # Search engines
-| Name                                          |
+| Name / Link                                   |
 | --------------------------------------------- |
 | [Ask](http://www.ask.com/)                    |
 | [Bing](https://www.bing.com/)                 |
