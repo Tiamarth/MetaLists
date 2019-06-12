@@ -22,12 +22,12 @@
 | [Notepad++](https://notepad-plus-plus.org/)                      | yes         |  no   |
 
 ## Data
-text editors: 20  
+text editors: 19  
 
 **License**  
 proprietary: 2  
-open Source: 18
+open Source: 17
 
 **Linux support**  
-no linux support: 2  
+no linux support: 1  
 linux support: 18
