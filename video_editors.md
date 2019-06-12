@@ -38,9 +38,9 @@
 video editors: 32  
 
 **License**  
-open source: 11  
-proprietary: 26
+open source: 10  
+proprietary: 22
 
 **Linux support**  
 linux support: 16  
-no linux support: 21
+no linux support: 14
