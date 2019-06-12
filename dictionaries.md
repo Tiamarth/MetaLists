@@ -18,6 +18,15 @@
 | [Glosbe](https://glosbe.com/)                                                                                              | yes        | yes  | no          |
 | [Cambridge Dictionary](https://dictionary.cambridge.org/)                                                                  | yes        | yes  | no          |
 | [The Sage](https://www.sequencepublishing.com/1/thesage/thesage.html)                                                      | no         | yes  | no          |
+| [Visuwords](https://visuwords.com/)                                                                                        | yes        | yes  | no          |
+| [Gnome Dictionary](https://gitlab.gnome.org/GNOME/gnome-dictionary/)                                                       | no         | yes  | yes         |
+| [Apple Dictionary](https://support.apple.com/en-us/HT2496)                                                                 | no         | yes  | no          |
+| [Lexico](https://www.lexico.com/)                                                                                          | yes        | yes  | no          |
+| [Collins](https://www.collinsdictionary.com/)                                                                              | yes        | yes  | no          |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
+| []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
