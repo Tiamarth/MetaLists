@@ -13,12 +13,12 @@
 | [Hipstersound](https://hipstersound.com/)                                           | no    | yes        | yes  | no          |
 | [Taptanium](http://taptanium.com/)                                                  | no    | no         | no   | no          |
 | [Noizio.Net](https://sourceforge.net/projects/noizio-net/)                          | no    | no         | yes  | yes         |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Noises Online](https://noises.online/)                                             | no    | yes        | yes  | no          |
+| [Exhale](https://exhale.soundgrail.com/)                                            | no    | yes        | yes  | no          |
+| [Ambicular](http://www.ambicular.com/)                                              | no    | yes        | yes  | no          |
+| [Ambiance](https://www.microsoft.com/en-us/p/ambiance/9p9bngqtdgrt)                 | no    | no         | yes  | no          |
+| [Rainy Mood](https://www.rainymood.com/)                                            | no    | yes        | yes  | no          |
+| [Moszen](https://www.moszen.com/)                                                   | no    | yes        | yes  | no          |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
