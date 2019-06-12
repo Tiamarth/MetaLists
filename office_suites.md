@@ -12,7 +12,6 @@
 | [Zoho](https://www.zoho.com/)                                                                    | yes         | no                                                                         | yes |
 | [G Suite](https://gsuite.google.com/)                                                            | no          | no                                                                         | yes |
 | [NeoOffice](https://www.neooffice.org/neojava/en/index.php)                                      | yes         | no                                                                         | yes |
-| [Nevron Office](https://www.nevronoffice.com/)                                                   | no          | no                                                                         | no  |
 | [Ashampoo Office](https://www.ashampoo.com/en/usd/pin/0638/office-software/Ashampoo-Office-2016) | no          | no                                                                         | no  |
 
 ## Footnotes
