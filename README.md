@@ -3,35 +3,35 @@ These are lists of software, focusing on those that are Linux-compatible. Use th
 
 It is both possible and likely that I've made some mistakes in the details of these lists, as I have been compiling them by hand. It's also likely that a lot of the data in these lists, such as software's current development status, is out of date. I can't keep track of all this information efficiently enough to constantly keep all the lists updated. If you notice a mistake, feel free to make a pull request or create an issue with details such as which list the correction is for, the name of the software, what needs to be corrected, and any relevant links.
 
-Generally, I will only list software that is still available for download from official sources. The point of this is to reduce linking to potential malware or adware. If there is software listed for which you cannot find a download, it is probably only still available via the repos of a Linux distribution. I'm on Manjaro.
+Generally, I will only list software that is still available for download from official sources. The point of this is to reduce linking to potential malware or adware. If there is software listed for which you cannot find a download, it is probably only still available via the repos of a Linux distribution. I'm on Manjaro. Some of these lists are not for software downloads, but primarily for online services you use in your web browser, these lists will not include whether or not the services support Linux.
 
 ## Current Lists
-- [Email Clients](email_clients.md) (Thunderbird)
-- [Music Players](music_players.md) (Groove)
-- [Office Suites](office_suites.md) (Microsoft Office)
-- [Search Engines](search_engines.md) (Google)
-- [Software Lists](software_lists.md) (AlternativeTo)
-- [Text Editors](text_editors.md) (Notepad)
-- [Video Editors](video_editors.md) (Adobe Premiere)
-- [VoIPs](voips.md) (Skype)
-- [Web Browsers](web_browsers.md) (Google Chrome)
+- [Email Clients](email_clients.md) (alternatives to Thunderbird)
+- [Music Players](music_players.md) (alternatives to Groove)
+- [Office Suites](office_suites.md) (alternatives to Microsoft Office)
+- [Search Engines](search_engines.md) (alternatives to Google)
+- [Software Lists](software_lists.md) (alternatives to AlternativeTo)
+- [Text Editors](text_editors.md) (alternatives to Notepad)
+- [Video Editors](video_editors.md) (alternatives to Adobe Premiere)
+- [VoIPs](voips.md) (alternatives to Skype)
+- [Web Browsers](web_browsers.md) (alternatives to Google Chrome)
 
 ## In-Progress Lists
+- [Dictionaries](dictionaries.md) (alternatives to Dictionary.com)
 - [Sound Generators](sound_gens.md)
 
 ## Planned Lists
-- Audio Editors (Audacity)
-- Dictionaries
-- Game Distribution Platforms (Steam)
-- Game Library Managers (Steam)
+- Audio Editors (alternatives to Audacity)
+- Game Distribution Platforms (alternatives to Steam)
+- Game Library Managers (alternatives to Steam)
 - Media Players
 - Music Library Managers
-- Music Sharing Platforms (Soundcloud)
-- Music Tag Editors (MP3Tag)
+- Music Sharing Platforms (alternatives to Soundcloud)
+- Music Tag Editors (alternatives to MP3Tag)
 - Podcast Sharing Platforms
 - Random Generators
-- Social Networks (Facebook and Twitter)
-- Video Sharing Platforms (Youtube)
+- Social Networks (alternatives to Facebook and Twitter)
+- Video Sharing Platforms (alternatives to Youtube)
 
 ## Definitions of dev status terms
 - **unclear** : last release was not dated
