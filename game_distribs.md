@@ -41,6 +41,6 @@ desktop client runs on linux: 4
 desktop client does not run on linux: 8  
 desktop client will eventually run on linux: 1
 
-**Web store**
+**Web store**  
 store can be used in a web browser: 12  
 store can't be used in a web broweser: 1
