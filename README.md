@@ -23,20 +23,20 @@ Generally, I will only list software that is still available for download from o
 | [Web Browsers](web_browsers.md)                 | Google Chrome    |
 
 ## In-Progress Lists
-| Name / Link                                     | Alternatives to |
-| ----------------------------------------------- | --------------- |
-| [Social Media](social_media.md)                 | Facebook        |
+| Name / Link                                     | Alternatives to  |
+| ----------------------------------------------- | ---------------- |
+| [Music Library Managers](music_libraries.md)    | MediaMonkey      |
+| [Social Media](social_media.md)                 | Facebook         |
+| [Video Sharing Platforms](video_sharing.md)     | Youtube          |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
 | ------------------------- | --------------------- |
 | Audio Editors             | Audacity              |
 | Media Players             | Windows Media Player  |
-| Music Library Managers    | MediaMonkey           |
 | Music Sharing Platforms   | Soundcloud            |
 | Music Tag Editors         | MP3Tag                |
 | Podcast Sharing Platforms | iTunes/Apple Podcasts |
-| Video Sharing Platforms   | Youtube               |
 
 ## Definitions of dev status terms
 - **unclear** : last release was not dated
