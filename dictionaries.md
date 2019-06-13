@@ -22,11 +22,11 @@
 | [Apple Dictionary](https://support.apple.com/en-us/HT2496)                                                                 | no         | yes  | no          |
 | [Lexico](https://www.lexico.com/)                                                                                          | yes        | yes  | no          |
 | [Collins](https://www.collinsdictionary.com/)                                                                              | yes        | yes  | no          |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
+| [gKamus](http://gkamus.sourceforge.net/)                                                                                   | no         | yes  | yes         |
+| [Treegle](http://treegle.xyz/)                                                                                             | yes        | yes  | no          |
+| [Dictionary .NET](https://fishcodelib.com/Dictionary.htm)                                                                  | no         | yes  | no          |
+| [Lingo](https://launchpad.net/lingo-dictionary)                                                                            | no         | yes  | yes         |
+| [Babiloo](https://code.google.com/archive/p/babiloo/)                                                                      | no         | yes  | yes         |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
