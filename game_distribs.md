@@ -33,4 +33,5 @@ has a desktop client: 7
 does not have a desktop client: 5
 
 desktop client runs on linux: 3  
-desktop client does not run on linux: 9
+desktop client does not run on linux: 8
+desktop client will eventually run on linux: 1
