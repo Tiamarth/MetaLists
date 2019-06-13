@@ -27,3 +27,15 @@
 | [Vectormedia Soundmasker](http://www.vectormediasoftware.com/soundmaskerhome.htm)   | no         | no   |
 | [Vectormedia Tinnitus Masker](http://www.vectormediasoftware.com/tinmaskerhome.htm) | no         | no   |
 | [TMSoft Binaural Beats Generator](https://www.tmsoft.com/binaural-beats-generator/) | no         | yes  |
+
+
+## Data
+sound generators: 26
+
+**Client type**  
+web client: 13  
+desktop client: 13
+
+**Price**
+free: 21  
+not free: 5
