@@ -1,5 +1,4 @@
 # Dictionaries
-
 | Name / Link                                                                                                                | Web Client | Free | Open Source |
 | -------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- | ----------- |
 | [Dictionary.com](https://www.dictionary.com/)                                                                              | yes        | yes  | no          |
