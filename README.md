@@ -29,14 +29,14 @@ Generally, I will only list software that is still available for download from o
 ## Planned Lists
 | Name / Link               | Alternatives to       |
 | ------------------------- | --------------------- |
-- Audio Editors             | Audacity              |
-- Media Players             | Windows Media Player  |
-- Music Library Managers    | MediaMonkey           |
-- Music Sharing Platforms   | Soundcloud            |
-- Music Tag Editors         | MP3Tag                |
-- Podcast Sharing Platforms | iTunes/Apple Podcasts |
-- Social Networks           | Facebook and Twitter  |
-- Video Sharing Platforms   | Youtube               |
+| Audio Editors             | Audacity              |
+| Media Players             | Windows Media Player  |
+| Music Library Managers    | MediaMonkey           |
+| Music Sharing Platforms   | Soundcloud            |
+| Music Tag Editors         | MP3Tag                |
+| Podcast Sharing Platforms | iTunes/Apple Podcasts |
+| Social Networks           | Facebook and Twitter  |
+| Video Sharing Platforms   | Youtube               |
 
 ## Definitions of dev status terms
 - **unclear** : last release was not dated
