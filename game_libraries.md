@@ -1,34 +1,21 @@
 # Game Library Managers
 | Name / Link                                                   | Linux | Open Source |
 | ------------------------------------------------------------- | ----- | ----------- |
-| [Steam](https://store.steampowered.com/)                      | yes   | no          |
-| [GOG](https://www.gog.com/)                                   | soon  | no          |
-| [itch.io](https://itch.io/)                                   | yes   | no          |
-| [Origin](https://www.origin.com/)                             | no    | no          |
-| [Lutris](https://lutris.net/)                                 | yes   | yes         |
-| [Playnite](https://playnite.link/)                            | no    | yes         |
-| [Game Jolt](https://gamejolt.com/)                            | yes   | yes         |
-| [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/) | no    | no          |
-| [Epic Games Store](https://www.epicgames.com/store/en-US/)    | no    | no          |
-| [Overwolf](https://www.overwolf.com/)                         | no    | no          |
-| [Photon Game Manager](https://photongamemanager.com/)         | yes   | no          |
-| [Spark Console](https://www.sparkconsole.com/gamelauncher)    | no    | no          |
-| [GameRoom](https://gameroom.me/)                              | no    | no          |
 | [DJL](https://launchpad.net/djl)                              | yes   | yes         |
+| [Steam](https://store.steampowered.com/)                      | yes   | no          |
+| [Lutris](https://lutris.net/)                                 | yes   | yes         |
+| [itch.io](https://itch.io/)                                   | yes   | no          |
+| [Game Jolt](https://gamejolt.com/)                            | yes   | yes         |
 | [GNOME Games](https://wiki.gnome.org/Apps/Games/)             | yes   | yes         |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+| [Photon Game Manager](https://photongamemanager.com/)         | yes   | no          |
+| [GOG](https://www.gog.com/)                                   | soon  | no          |
+| [Origin](https://www.origin.com/)                             | no    | no          |
+| [GameRoom](https://gameroom.me/)                              | no    | no          |
+| [Overwolf](https://www.overwolf.com/)                         | no    | no          |
+| [Playnite](https://playnite.link/)                            | no    | yes         |
+| [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/) | no    | no          |
+| [Spark Console](https://www.sparkconsole.com/gamelauncher)    | no    | no          |
+| [Epic Games Store](https://www.epicgames.com/store/en-US/)    | no    | no          |
 
 ## FAQ
 Preemptive responses to likely FAQs:

@@ -1,57 +1,18 @@
 # Game Distribution Platforms
 | Name / Link                                                   | Sells Games for Linux | Desktop Client | Desktop Client runs on Linux | Open Source | Web Store  |
 | ------------------------------------------------------------- | --------------------- | -------------- | ---------------------------- | ----------- | ---------- |
-| [Steam](https://store.steampowered.com/)                      | yes                   | yes            | yes                          | no          | yes        |
 | [GOG](https://www.gog.com/)                                   | yes                   | yes            | soon                         | no          | yes        |
+| [Steam](https://store.steampowered.com/)                      | yes                   | yes            | yes                          | no          | yes        |
 | [itch.io](https://itch.io/)                                   | yes                   | yes            | yes                          | no          | yes        |
-| [Humble Bundle](https://www.humblebundle.com/)                | yes                   | no             | no                           | no          | yes        |
-| [Origin](https://www.origin.com/)                             | no                    | yes            | no                           | no          | yes        |
+| [Fanatical](https://www.fanatical.com/)                       | yes                   | no             | no                           | no          | yes        |
 | [Game Jolt](https://gamejolt.com/)                            | yes                   | yes            | yes                          | yes         | yes        |
+| [GamersGate](https://www.gamersgate.com/)                     | yes                   | no             | no                           | no          | yes        |
+| [Humble Bundle](https://www.humblebundle.com/)                | yes                   | no             | no                           | no          | yes        |
+| [FireFlower Games](https://fireflowergames.com/)              | yes                   | no             | no                           | no          | yes        |
+| [Origin](https://www.origin.com/)                             | no                    | yes            | no                           | no          | yes        |
 | [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/) | no                    | yes            | no                           | no          | yes        |
 | [Epic Games Store](https://www.epicgames.com/store/en-US/)    | no                    | yes            | no                           | no          | yes        |
-| [Fanatical](https://www.fanatical.com/)                       | yes                   | no             | no                           | no          | yes        |
 | [Green Man Gaming](https://www.greenmangaming.com/)           | no                    | no             | no                           | no          | yes        |
-| [GamersGate](https://www.gamersgate.com/)                     | yes                   | no             | no                           | no          | yes        |
-| [FireFlower Games](https://fireflowergames.com/)              | yes                   | no             | no                           | no          | yes        |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
 
 ## FAQ
 Preemptive responses to likely FAQs:
