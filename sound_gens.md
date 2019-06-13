@@ -23,26 +23,7 @@
 | [TMSoft Tone Generator](https://www.tmsoft.com/tone-generator/)                     | no         | yes  |
 | [Szynalski Online Tone Generator](https://www.szynalski.com/tone-generator/)        | yes        | yes  |
 | [Online Tone Generator](http://onlinetonegenerator.com/)                            | yes        | yes  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+| [ANoise](http://anoise.tuxfamily.org/)                                              | no         | yes  |
+| [Rain.today](https://rain.today/)                                                   | yes        | yes  |
+| [Aire Freshener](http://www.peterhirschberg.com/mysoftware.html)                    | no         | yes  |
+| [Relax Sounds](https://apps.apple.com/us/app/relax-sounds/id1053008700)             | no         | no   |
