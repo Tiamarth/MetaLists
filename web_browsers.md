@@ -37,6 +37,7 @@
 | [Brave Dev](https://brave.com/download-dev/)                                                  | active               | yes         | yes    | Blink         |
 | [Yandex](https://browser.yandex.com/desktop/main/)                                            | active               | no          | yes    | Blink         |
 | [Yandex Beta](https://browser.yandex.com/beta/)                                               | active               | no          | yes    | Blink         |
+| [Sielo](https://sielo.app/)                                                                   | active               | yes         | yes    | Blink         |
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Blisk](https://blisk.io/)                                                                    | active               | no          | soon   | Blink         |
 | [CentBrowser](http://www.centbrowser.com/)                                                    | active               | no          | no     | Blink         |
@@ -111,6 +112,7 @@
 | [Links](http://links.twibright.com/)                                                          | unclear              | yes         | yes    | Unspecified   |
 | [Lynx](http://lynx.browser.org/)                                                              | unclear              | yes         | yes    | Unspecified   |
 | [OperAnk](http://operank-ankush.blogspot.com/)                                                | discontinued         | no          | no     | Unspecified   |
+| [Stratus](http://stratusbrowser.com/)                                                         | active               | yes         | no     | Unspecified   |
 | [Webby](https://launchpad.net/webby-browser)                                                  | discontinued         | yes         | yes    | Unspecified   |
 | [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Unspecified^5 |
 
@@ -150,15 +152,15 @@ Preemptive responses to likely FAQs:
 *Not here.* This list is currently being maintained by hand, as are all the other lists in this repo, and there's already a pretty daunting amount of browsers available for desktop PCs. Including all the mobile browsers would at least double the length of this list and the primary point of MetaLists is to help Linux users find alternative software that runs on Linux. So including mobile browsers here seems unnecessary. That being said, I'm not strictly against including them (there are, after all, already some browsers on this list that do not run on desktop PCs at all) so if you have the time and want to do it, feel free to make the list and pull request.  
 
 ## Data
-browsers: 117
+browsers: 119
 
 **License**  
-open source: 54  
+open source: 56  
 proprietary: 63
 
 **Linux support**  
-linux support: 63  
-no linux support: 53  
+linux support: 64  
+no linux support: 54  
 will eventually have linux support: 1
 
 **Dev status**  
@@ -167,7 +169,7 @@ dormant: 3
 ongoing: 6  
 unclear: 10  
 discontinued: 31  
-active: 64
+active: 66
 
 **Engines**  
 KHTML: 1  
@@ -184,7 +186,7 @@ Goanna: 3
 QtWebEngine: 3  
 Trident: 5  
 Various: 6  
-Unspecified: 11  
+Unspecified: 12  
 WebKit: 17  
 Gecko: 18  
-Blink: 41
+Blink: 42
