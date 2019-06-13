@@ -1,13 +1,24 @@
 # Music Library Managers
-| Name / Link                                      | Linux | Open Source |
-| ------------------------------------------------ | ----- | ----------- |
-| [MediaMonkey](https://www.mediamonkey.com/)      | no    | no          |
-| [Clementine](https://www.clementine-player.org/) | yes   | yes         |
-| [AIMP](http://www.aimp.ru/)                      | no    | no          |
-| [Winamp](http://www.winamp.com/)                 | no    | no          |
-| [MusicBee](https://www.getmusicbee.com/)         | no    | no          |
-| [Audacious](https://audacious-media-player.org/) | yes   | yes         |
-| [Strawberry](https://www.strawbs.org/)           | yes   | yes         |
+| Name / Link                                                      | Linux | Open Source |
+| ---------------------------------------------------------------- | ----- | ----------- |
+| [MediaMonkey](https://www.mediamonkey.com/)                      | no    | no          |
+| [Clementine](https://www.clementine-player.org/)                 | yes   | yes         |
+| [AIMP](http://www.aimp.ru/)                                      | no    | no          |
+| [Winamp](http://www.winamp.com/)                                 | no    | no          |
+| [MusicBee](https://www.getmusicbee.com/)                         | no    | no          |
+| [Audacious](https://audacious-media-player.org/)                 | yes   | yes         |
+| [Strawberry](https://www.strawbs.org/)                           | yes   | yes         |
+| [Helium](https://www.imploded.com/helium)                        | no    | no          |
+| [foobar2000](http://www.foobar2000.org/)                         | no    | no          |
+| [Noise](https://launchpad.net/noise)                             | yes   | yes         |
+| [Media Jukebox](https://jriver.com/mj/)                          | no    | no          |
+| [Kitten Player](https://sourceforge.net/projects/kitten-player/) | no    | yes         |
+| [Roon](https://roonlabs.com/)                                    | yes   | no          |
+| [Knowthelist](http://knowthelist.github.io/knowthelist/)         | yes   | yes         |
+| [Waf Music Manager](http://jbe2277.github.io/musicmanager/)      | no    | yes         |
+| [Kaseto](https://kaseto.com/)                                    | no    | no          |
+| [Song Director](http://songdirector.com/)                        | no    | no          |
+| []() |  |  |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
