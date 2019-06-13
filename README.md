@@ -12,6 +12,7 @@ Generally, I will only list software that is still available for download from o
 | [Email Clients](email_clients.md)               | Thunderbird      |
 | [Game Distribution Platforms](game_distribs.md) | Steam            |
 | [Game Library Managers](game_libraries.md)      | Steam            |
+| [Music Library Managers](music_libraries.md)    | MediaMonkey      |
 | [Music Players](music_players.md)               | Groove           |
 | [Office Suites](office_suites.md)               | Microsoft Office |
 | [Search Engines](search_engines.md)             | Google           |
@@ -25,7 +26,6 @@ Generally, I will only list software that is still available for download from o
 ## In-Progress Lists
 | Name / Link                                     | Alternatives to  |
 | ----------------------------------------------- | ---------------- |
-| [Music Library Managers](music_libraries.md)    | MediaMonkey      |
 | [Social Media](social_media.md)                 | Facebook         |
 | [Video Sharing Platforms](video_sharing.md)     | Youtube          |
 
