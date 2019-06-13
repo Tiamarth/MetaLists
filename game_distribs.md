@@ -8,7 +8,7 @@
 | [Origin](https://www.origin.com/)                             | no    | no          | yes        | no       |
 | [Game Jolt](https://gamejolt.com/)                            | yes   | yes         | yes        | yes      |
 | [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/) | no    | no          | yes        | no       |
-| []() |  |  |  |  |
+| [Epic Games Store](https://www.epicgames.com/store/en-US/)    | no    | no          | yes        | no       |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
