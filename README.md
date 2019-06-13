@@ -6,28 +6,28 @@ It is both possible and likely that I've made some mistakes in the details of th
 Generally, I will only list software that is still available for download from official sources. The point of this is to reduce linking to potential malware or adware. If there is software listed for which you cannot find a download, it is probably only still available via the repos of a Linux distribution. I'm on Manjaro. Some of these lists are not for software downloads, but primarily for online services you use in your web browser, these lists will not include whether or not the services support Linux.
 
 ## Current Lists
-| Name / Link                                     | Alternatives to  |
-| ----------------------------------------------- | ---------------- |
-| [Dictionaries](dictionaries.md)                 | Dictionary.com   |
-| [Email Clients](email_clients.md)               | Thunderbird      |
-| [Game Distribution Platforms](game_distribs.md) | Steam            |
-| [Game Library Managers](game_libraries.md)      | Steam            |
-| [Music Library Managers](music_libraries.md)    | MediaMonkey      |
-| [Music Players](music_players.md)               | Groove           |
-| [Office Suites](office_suites.md)               | Microsoft Office |
-| [Search Engines](search_engines.md)             | Google           |
-| [Software Lists](software_lists.md)             | AlternativeTo    |
-| [Sound Generators](sound_gens.md)               | myNoise          |
-| [Text Editors](text_editors.md)                 | Notepad          |
-| [Video Editors](video_editors.md)               | Adobe Premiere   |
-| [VoIPs](voips.md)                               | Skype            |
-| [Web Browsers](web_browsers.md)                 | Google Chrome    |
+| Name / Link                                           | Alternatives to  |
+| ----------------------------------------------------- | ---------------- |
+| [Dictionaries](lists/dictionaries.md)                 | Dictionary.com   |
+| [Email Clients](lists/email_clients.md)               | Thunderbird      |
+| [Game Distribution Platforms](lists/game_distribs.md) | Steam            |
+| [Game Library Managers](lists/game_libraries.md)      | Steam            |
+| [Music Library Managers](lists/music_libraries.md)    | MediaMonkey      |
+| [Music Players](lists/music_players.md)               | Groove           |
+| [Office Suites](lists/office_suites.md)               | Microsoft Office |
+| [Search Engines](lists/search_engines.md)             | Google           |
+| [Software Lists](lists/software_lists.md)             | AlternativeTo    |
+| [Sound Generators](lists/sound_gens.md)               | myNoise          |
+| [Text Editors](lists/text_editors.md)                 | Notepad          |
+| [Video Editors](lists/video_editors.md)               | Adobe Premiere   |
+| [VoIPs](lists/voips.md)                               | Skype            |
+| [Web Browsers](lists/web_browsers.md)                 | Google Chrome    |
 
 ## In-Progress Lists
-| Name / Link                                     | Alternatives to  |
-| ----------------------------------------------- | ---------------- |
-| [Social Media](social_media.md)                 | Facebook         |
-| [Video Sharing Platforms](video_sharing.md)     | Youtube          |
+| Name / Link                                           | Alternatives to  |
+| ----------------------------------------------------- | ---------------- |
+| [Social Media](lists/social_media.md)                 | Facebook         |
+| [Video Sharing Platforms](lists/video_sharing.md)     | Youtube          |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
