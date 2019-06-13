@@ -23,7 +23,7 @@ These are all programs, apps, and servicess that I personally use and recommend.
 | ------------------------------------------------------ | ------------------ | ----------- | -------------------------------------------------------------------------- | --- |
 | [OnlyOffice](http://www.onlyoffice.com/)               | active             | yes         |  yes                                                                       | yes |
 | [LibreOffice](https://www.libreoffice.org/)            | active             | yes         |  yes                                                                       | yes |
-| [Microsoft Office](https://products.office.com/en-US/) | active             |  no         | [yes^1](https://gitlab.manjaro.org/applications/ms-office-online-launcher) | yes |
+| [Microsoft Office](https://products.office.com/en-US/) | active             |  no         | [yes](https://gitlab.manjaro.org/applications/ms-office-online-launcher) | yes |
 
 ## Search Engines
 | Name / Link                             |
