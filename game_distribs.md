@@ -10,6 +10,7 @@
 | [Humble Bundle](https://www.humblebundle.com/)                | yes                   | no             | no           | no          | yes       |
 | [FireFlower Games](https://fireflowergames.com/)              | yes                   | no             | no           | no          | yes       |
 | [Origin](https://www.origin.com/)                             | no                    | yes            | no           | no          | yes       |
+| [Discord](https://discordapp.com/)                            | no                    | yes            | yes          | no          | no        |
 | [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/) | no                    | yes            | no           | no          | yes       |
 | [Epic Games Store](https://www.epicgames.com/store/en-US/)    | no                    | yes            | no           | no          | yes       |
 | [Green Man Gaming](https://www.greenmangaming.com/)           | no                    | no             | no           | no          | yes       |
