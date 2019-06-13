@@ -22,21 +22,25 @@ Preemptive responses to likely FAQs:
 *A game library manager provides a convenient way to organize, manage, and launch your games.* A game distribution platform is a service which provides a way for game developers to easily sell their products to gamers. Often, game distribution platforms provide a desktop client which also acts as a library manager. A popular example of a game distribution platform and library manager is Steam. An unpopular but no less well known example of a game distribution platform and library manager is Epic.
 
 ## Data
-game distributors: 12
+game distributors: 13
 
 **License**  
 open source: 1  
-proprietary: 11
+proprietary: 12
 
 **Linux support**  
 sells games for linux: 8  
-does not sell games for linux: 4
+does not sell games for linux: 5
 
 **Desktop clients**  
-has a desktop client: 7  
+has a desktop client: 8  
 does not have a desktop client: 5
 
 **Desktop client Linux support**  
-desktop client runs on linux: 3  
+desktop client runs on linux: 4  
 desktop client does not run on linux: 8  
 desktop client will eventually run on linux: 1
+
+**Web store**
+store can be used in a web browser: 12  
+store can't be used in a web broweser: 1
