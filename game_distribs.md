@@ -37,5 +37,5 @@ does not have a desktop client: 5
 
 **Desktop client Linux support**  
 desktop client runs on linux: 3  
-desktop client does not run on linux: 8
+desktop client does not run on linux: 8  
 desktop client will eventually run on linux: 1
