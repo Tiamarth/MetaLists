@@ -11,11 +11,11 @@
 | [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/) | no    | no          |
 | [Epic Games Store](https://www.epicgames.com/store/en-US/)    | no    | no          |
 | [Overwolf](https://www.overwolf.com/)                         | no    | no          |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+| [Photon Game Manager](https://photongamemanager.com/)         | yes   | no          |
+| [Spark Console](https://www.sparkconsole.com/gamelauncher)    | no    | no          |
+| [GameRoom](https://gameroom.me/)                              | no    | no          |
+| [DJL](https://launchpad.net/djl)                              | yes   | yes         |
+| [GNOME Games](https://wiki.gnome.org/Apps/Games/)             | yes   | yes         |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
