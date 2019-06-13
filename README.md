@@ -18,12 +18,12 @@ Generally, I will only list software that is still available for download from o
 
 ## In-Progress Lists
 - [Dictionaries](dictionaries.md) (alternatives to Dictionary.com)
+- [Game Distribution Platforms](game_distribs.md) (alternatives to Steam)
+- [Game Library Managers](game_libraries.md) (alternatives to Steam)
 - [Sound Generators](sound_gens.md)
 
 ## Planned Lists
 - Audio Editors (alternatives to Audacity)
-- Game Distribution Platforms (alternatives to Steam)
-- Game Library Managers (alternatives to Steam)
 - Media Players
 - Music Library Managers
 - Music Sharing Platforms (alternatives to Soundcloud)
