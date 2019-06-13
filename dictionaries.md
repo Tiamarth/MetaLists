@@ -27,10 +27,10 @@
 | [Dictionary .NET](https://fishcodelib.com/Dictionary.htm)                                                                  | no         | yes  | no          |
 | [Lingo](https://launchpad.net/lingo-dictionary)                                                                            | no         | yes  | yes         |
 | [Babiloo](https://code.google.com/archive/p/babiloo/)                                                                      | no         | yes  | yes         |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
-| []() |  |  |  |
+| [Longman](https://www.ldoceonline.com/)                                                                                    | yes        | yes  | no          |
+| [Macmillan Dictionary](https://www.macmillandictionary.com/)                                                               | yes        | yes  | no          |
+| [Etymonline](https://www.etymonline.com/)                                                                                  | yes        | yes  | no          |
+| [Urban Dictionary](https://www.urbandictionary.com/)                                                                       | yes        | yes  | no          |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
