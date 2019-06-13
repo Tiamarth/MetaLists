@@ -18,6 +18,17 @@
 | [Waf Music Manager](http://jbe2277.github.io/musicmanager/)      | no    | yes         |
 | [Kaseto](https://kaseto.com/)                                    | no    | no          |
 | [Song Director](http://songdirector.com/)                        | no    | no          |
+| [Museeks](https://museeks.io/)                                   | yes   | yes         |
+| [Rhythmbox](https://wiki.gnome.org/Apps/Rhythmbox)               | yes   | yes         |
+| [Amarok](https://amarok.kde.org/)                                | yes   | yes         |
+| [Quod Libet](https://quodlibet.readthedocs.io/en/latest/)        | yes   | yes         |
+| [Jajuk](http://www.jajuk.info/)                                  | yes   | yes         |
+| [JuK](https://juk.kde.org/)                                      | yes   | yes         |
+| [Elisa](https://community.kde.org/Elisa)                         | yes   | yes         |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
