@@ -19,7 +19,7 @@
 | [CumulusClips](http://cumulusclips.org/)                  | yes           | yes         |
 | [Onlystream.tv](https://onlystream.tv/)                   | no            | yes         |
 | [Rumble](https://rumble.com/)                             | no            | no          |
-| []() |  |  |
+| [BitView](http://www.bitview.net/)                        | no            | no          |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
