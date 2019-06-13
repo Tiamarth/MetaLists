@@ -64,3 +64,8 @@ I'm also compiling these lists because some existing solutions were short and, I
 This database was moved from Reddit where it was a wiki, which was originally moved from my website where it was a poorly made webpage. I'm moving it to Github because I expect that, if anyone should want to contribute, Github will make it much easier for them to do so.
 
 For now I'm putting the lists in their own markdown files in the top level of the repo, but it's not impossible that I'll eventually put them in a wiki here; or, make a github site for the project so that people who aren't familiar with Github can more easily peruse the lists.
+
+**Need to contact me directly? Feel free to get in touch.**  
+- join my [Discord server](https://discord.gg/NqqU2fV)
+- [Email me](mailto:jontiamac@gmail.com)
+- Otherwise [here's](https://tiamarth.com/card.php) a list of all the places I'm most active.
