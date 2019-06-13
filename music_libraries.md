@@ -25,20 +25,7 @@
 | [Jajuk](http://www.jajuk.info/)                                  | yes   | yes         |
 | [JuK](https://juk.kde.org/)                                      | yes   | yes         |
 | [Elisa](https://community.kde.org/Elisa)                         | yes   | yes         |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+| [Jaangle](https://www.jaangle.com/)                              | no    | yes         |
 
 ## FAQ
 preemptive responses to likely faq:
