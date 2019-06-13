@@ -10,6 +10,8 @@ Generally, I will only list software that is still available for download from o
 | ----------------------------------------------- | ---------------- |
 | [Dictionaries](dictionaries.md)                 | Dictionary.com   |
 | [Email Clients](email_clients.md)               | Thunderbird      |
+| [Game Distribution Platforms](game_distribs.md) | Steam            |
+| [Game Library Managers](game_libraries.md)      | Steam            |
 | [Music Players](music_players.md)               | Groove           |
 | [Office Suites](office_suites.md)               | Microsoft Office |
 | [Search Engines](search_engines.md)             | Google           |
@@ -22,8 +24,6 @@ Generally, I will only list software that is still available for download from o
 ## In-Progress Lists
 | Name / Link                                     | Alternatives to |
 | ----------------------------------------------- | --------------- |
-| [Game Distribution Platforms](game_distribs.md) | Steam           |
-| [Game Library Managers](game_libraries.md)      | Steam           |
 | [Social Media](social_media.md)                 | Facebook        |
 | [Sound Generators](sound_gens.md)               | myNoise         |
 
