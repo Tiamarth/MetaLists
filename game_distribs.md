@@ -22,3 +22,15 @@ Preemptive responses to likely FAQs:
 
 ## Data
 game distributors: 12
+
+open source: 1
+proprietary: 11
+
+sells games for linux: 8  
+does not sell games for linux: 4
+
+has a desktop client: 7  
+does not have a desktop client: 5
+
+desktop client runs on linux: 3  
+desktop client does not run on linux: 9
