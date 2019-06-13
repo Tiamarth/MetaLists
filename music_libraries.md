@@ -36,4 +36,10 @@ preemptive responses to likely faq:
 ## Data
 music library managers: 25
 
-**License:**  
+**License**  
+open source: 15  
+proprietary: 10
+
+**Linux support**  
+linux support: 13  
+no linux support: 12
