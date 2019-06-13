@@ -9,7 +9,8 @@
 | [Playnite](https://playnite.link/)                            | no    | yes         |
 | [Game Jolt](https://gamejolt.com/)                            | yes   | yes         |
 | [Battle.net](https://www.blizzard.com/en-us/apps/battle.net/) | no    | no          |
-| [Overwolf]() |  |  |
+| [Epic Games Store](https://www.epicgames.com/store/en-US/)    | no    | no          |
+| [Overwolf](https://www.overwolf.com/)                         | no    | no          |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
