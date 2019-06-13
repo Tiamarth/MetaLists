@@ -16,6 +16,7 @@ Generally, I will only list software that is still available for download from o
 | [Office Suites](office_suites.md)               | Microsoft Office |
 | [Search Engines](search_engines.md)             | Google           |
 | [Software Lists](software_lists.md)             | AlternativeTo    |
+| [Sound Generators](sound_gens.md)               | myNoise          |
 | [Text Editors](text_editors.md)                 | Notepad          |
 | [Video Editors](video_editors.md)               | Adobe Premiere   |
 | [VoIPs](voips.md)                               | Skype            |
@@ -25,7 +26,6 @@ Generally, I will only list software that is still available for download from o
 | Name / Link                                     | Alternatives to |
 | ----------------------------------------------- | --------------- |
 | [Social Media](social_media.md)                 | Facebook        |
-| [Sound Generators](sound_gens.md)               | myNoise         |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
