@@ -19,12 +19,13 @@ Generally, I will only list software that is still available for download from o
 | [Web Browsers](web_browsers.md)     | Google Chrome    |
 
 ## In-Progress Lists
-| Name / Link                                     | Alternatives to  |
-| ----------------------------------------------- | ---------------- |
-| [Dictionaries](dictionaries.md)                 | Dictionary.com   |
-| [Game Distribution Platforms](game_distribs.md) | Steam            |
-| [Game Library Managers](game_libraries.md)      | Steam            |
-| [Sound Generators](sound_gens.md)               | myNoise          |
+| Name / Link                                     | Alternatives to      |
+| ----------------------------------------------- | -------------------- |
+| [Dictionaries](dictionaries.md)                 | Dictionary.com       |
+| [Game Distribution Platforms](game_distribs.md) | Steam                |
+| [Game Library Managers](game_libraries.md)      | Steam                |
+| [Social Media](social_media.md)                 | Facebook and Twitter |
+| [Sound Generators](sound_gens.md)               | myNoise              |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
@@ -35,7 +36,6 @@ Generally, I will only list software that is still available for download from o
 | Music Sharing Platforms   | Soundcloud            |
 | Music Tag Editors         | MP3Tag                |
 | Podcast Sharing Platforms | iTunes/Apple Podcasts |
-| Social Networks           | Facebook and Twitter  |
 | Video Sharing Platforms   | Youtube               |
 
 ## Definitions of dev status terms
