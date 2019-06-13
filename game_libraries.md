@@ -26,11 +26,11 @@ Preemptive responses to likely FAQs:
 ## Data
 game libraries: 15
 
-*License*  
+**License**  
 open source: 5  
 proprietary: 10
 
-*Linux support*  
+**Linux support**  
 linux support: 7  
 no linux support: 7  
 will eventually have linux support: 1
