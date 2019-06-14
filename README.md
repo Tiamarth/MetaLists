@@ -26,6 +26,8 @@ Generally, I will only list software that is still available for download from o
 ## In-Progress Lists
 | Name / Link                                           | Alternatives to  |
 | ----------------------------------------------------- | ---------------- |
+| [Cloud Storage Services](lists/clouds.md)             | Google Drive     |
+| [Music Tag Editors](music_taggers.md)                 | MP3Tag           |
 | [Social Media](lists/social_media.md)                 | Facebook         |
 | [Video Sharing Platforms](lists/video_sharing.md)     | Youtube          |
 
@@ -33,10 +35,8 @@ Generally, I will only list software that is still available for download from o
 | Name / Link               | Alternatives to       |
 | ------------------------- | --------------------- |
 | Audio Editors             | Audacity              |
-| Cloud Storage Services    | Google Drive          |
 | Media Players             | Windows Media Player  |
 | Music Sharing Platforms   | Soundcloud            |
-| Music Tag Editors         | MP3Tag                |
 | Online Stores             | Amazon                |
 | Podcast Sharing Platforms | iTunes/Apple Podcasts |
 
