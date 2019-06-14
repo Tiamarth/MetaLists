@@ -20,6 +20,7 @@ Generally, I will only list software that is still available for download from o
 | [Sound Generators](lists/sound_gens.md)               | myNoise          |
 | [Text Editors](lists/text_editors.md)                 | Notepad          |
 | [Video Editors](lists/video_editors.md)               | Adobe Premiere   |
+| [Video Sharing Platforms](lists/video_sharing.md)     | Youtube          |
 | [VoIPs](lists/voips.md)                               | Skype            |
 | [Web Browsers](lists/web_browsers.md)                 | Google Chrome    |
 
@@ -29,7 +30,6 @@ Generally, I will only list software that is still available for download from o
 | [Cloud Storage Services](lists/clouds.md)             | Google Drive     |
 | [Music Tag Editors](lists/music_taggers.md)                 | MP3Tag           |
 | [Social Media](lists/social_media.md)                 | Facebook         |
-| [Video Sharing Platforms](lists/video_sharing.md)     | Youtube          |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
