@@ -17,8 +17,8 @@
 | [Yandex Disk](https://disk.yandex.com/)             | yes            | no           | no          | no          |
 | [Cozy Drive](https://cozy.io/features/#synchronise) | yes            | yes          | no          | yes         |
 | [4shared](https://4shared.com/)                     | yes            | no           | no          | no          |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Crashplan](https://crashplan.com/)                 | yes            | yes          | no          | no          |
+| [iCloud](https://apple.com/icloud/)                 | yes            | no           | no          | no          |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
