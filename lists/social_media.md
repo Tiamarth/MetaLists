@@ -15,7 +15,7 @@
 | [ZeroMe](https://github.com/HelloZeroNet/ZeroMe) | yes           | yes         | microblogging |
 | [Disqus](https://disqus.com/)                    | no            | no          | aggregator    |
 | [Steemit](https://steemit.com/)                  | no            | yes         | aggregator    |
-| []() |  |  |  |
+| [MeWe](https://mewe.com/)                        | no            | no          | netrworking   |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
