@@ -35,3 +35,14 @@
 | [Dailymotion](https://www.dailymotion.com/)               | no            | no          |
 | [VideoSprout](https://www.videosprout.com/)               | no            | no          |
 | [FreeSpeechTube](https://www.freespeechtube.org/)         | no            | no          |
+
+## Data
+video sharing platforms: 34
+
+**License**  
+open source: 10  
+proprietary: 24
+
+**Decentralized**  
+decentralized: 9  
+centralized: 25
