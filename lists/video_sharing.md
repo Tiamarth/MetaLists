@@ -20,9 +20,9 @@
 | [Onlystream.tv](https://onlystream.tv/)                   | no            | yes         |
 | [Rumble](https://rumble.com/)                             | no            | no          |
 | [BitView](http://www.bitview.net/)                        | no            | no          |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+| [FreeSpeechTube](https://www.freespeechtube.org/)         | no            | no          |
+| [Viduro](https://viduro.net/)                             | no            | no          |
+| [DevTube](https://dev.tube/)                              | no            | yes         |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
