@@ -23,13 +23,12 @@
 | [FreeSpeechTube](https://www.freespeechtube.org/)         | no            | no          |
 | [Viduro](https://viduro.net/)                             | no            | no          |
 | [DevTube](https://dev.tube/)                              | no            | yes         |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
-| []() |  |  |
+| [Sendvid](https://sendvid.com/)                           | no            | no          |
+| [Verond](https://www.verond.com/)                         | no            | no          |
+| [DrakeTube](http://drakedragsaw.yooco.org/)               | no            | no          |
+| [VidlyTube](https://vidlytube.com/)                       | no            | no          |
+| [VideoSprout](https://www.videosprout.com/)               | no            | no          |
+| [Minoave](https://www.minoave.com/)                       | no            | no          |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
