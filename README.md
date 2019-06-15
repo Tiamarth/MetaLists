@@ -28,7 +28,7 @@ Generally, I will only list software that is still available for download from o
 | Name / Link                                           | Alternatives to  |
 | ----------------------------------------------------- | ---------------- |
 | [Cloud Storage Services](lists/clouds.md)             | Google Drive     |
-| [Music Tag Editors](lists/music_taggers.md)                 | MP3Tag           |
+| [Audio Metadata Editors](lists/audio_meta_editors.md) | MP3Tag           |
 | [Social Media](lists/social_media.md)                 | Facebook         |
 
 ## Planned Lists
