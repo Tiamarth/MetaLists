@@ -2,6 +2,12 @@
 
 These are all programs, apps, and servicess that I personally use and recommend. I may update this file in the future with information about why I use these in particular, but this will do for now.
 
+## Audio Metadata Editors
+| Name / Link                                                           | Linux | Open Source |
+| --------------------------------------------------------------------- | ----- | ----------- |
+| [MusicBrainz Picard](https://picard.musicbrainz.org/)                 | yes   | yes         |
+| [Mp3tag](https://www.mp3tag.de/)                                      | no    | no          |
+
 ## Dictionaries
 | Name / Link                                              | Web Client | Open Source |
 | -------------------------------------------------------- | ---------- | ----------- |
