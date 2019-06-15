@@ -10,7 +10,7 @@
 | [Puddledtag](http://docs.puddletag.net/)                | yes   | yes         |
 | [AudioShell](http://www.softpointer.com/AudioShell.htm) | no    | no          |
 | [TuneUp](http://www.tuneupmedia.com/)                   | no    | no          |
-| []() |  |  |
+| [MP3 Diags](http://mp3diags.sourceforge.net/)           | yes   | yes         |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
