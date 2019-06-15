@@ -19,14 +19,14 @@
 | [4shared](https://4shared.com/)                     | yes            | no           | no          | no          |
 | [Crashplan](https://crashplan.com/)                 | yes            | yes          | no          | no          |
 | [iCloud](https://apple.com/icloud/)                 | yes            | no           | no          | no          |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [Tresorit](https://tresorit.com/)                   | yes            | yes          | no          | no          |
+| [SugarSync](https://www2.sugarsync.com/)            | yes            | no           | no          | no          |
+| [SparkleShare](http://sparkleshare.org/)            | yes            | yes          | yes         | yes         |
+| [Amazon Drive](https://amazon.com/clouddrive)       | yes            | no           | no          | no          |
+| [Tonido](https://tonido.com/)                       | yes            | yes          | yes         | no          |
+| [Koofr](https://koofr.eu/)                          | yes            | yes          | no          | no          |
+| [Sia](https://sia.tech/)                            | no             | no           | no          | yes         |
+| [IDrive](https://www.idrive.com/)                   | yes            | no           | no          | no          |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
