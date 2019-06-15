@@ -1,4 +1,4 @@
-# Music Tag Editors
+# Audio Metadata Editors
 | Name / Link                                             | Linux | Open Source |
 | ------------------------------------------------------- | ----- | ----------- |
 | [Mp3tag](https://www.mp3tag.de/)                        | no    | no          |
@@ -11,8 +11,8 @@
 | [AudioShell](http://www.softpointer.com/AudioShell.htm) | no    | no          |
 | [TuneUp](http://www.tuneupmedia.com/)                   | no    | no          |
 | [MP3 Diags](http://mp3diags.sourceforge.net/)           | yes   | yes         |
-| []() |  |  |
-| []() |  |  |
+| [Metadatics](http://markvapps.com/metadatics)           | no    | no          |
+| [Meta](https://nightbirdsevolve.com/meta/)              | no    | no          |
 | []() |  |  |
 | []() |  |  |
 | []() |  |  |
