@@ -3,7 +3,7 @@
 | ---------------------------------------------------------------- | ----- | ----------- |
 | [JuK](https://juk.kde.org/)                                      | yes   | yes         |
 | [Roon](https://roonlabs.com/)                                    | yes   | no          |
-| [bliss](https://www.blisshq.com/)      `                         | yes   | yes         |
+| [bliss](https://www.blisshq.com/)                                | yes   | yes         |
 | [Elisa](https://community.kde.org/Elisa)                         | yes   | yes         |
 | [Jajuk](http://jajuk.info/)                                      | yes   | yes         |
 | [Noise](https://launchpad.net/noise)                             | yes   | yes         |
