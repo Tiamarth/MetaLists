@@ -27,9 +27,9 @@
 | [Koofr](https://koofr.eu/)                          | yes            | yes          | no          | no          |
 | [Sia](https://sia.tech/)                            | no             | no           | no          | yes         |
 | [IDrive](https://www.idrive.com/)                   | yes            | no           | no          | no          |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
-| []() |  |  |  |  |
+| [OpenDrive](https://opendrive.com/)                 | yes            | yes          | no          | no          |
+| [ASUS WebStorage](https://www.asuswebstorage.com/)  | yes            | yes          | no          | no          |
+| [Degoo](https://degoo.com/)                         | yes            | no           | no          | no          |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
 | []() |  |  |  |  |
