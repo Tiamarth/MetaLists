@@ -16,7 +16,7 @@
 | [Disqus](https://disqus.com/)                    | no            | no          | aggregator    |
 | [Steemit](https://steemit.com/)                  | no            | yes         | aggregator    |
 | [MeWe](https://mewe.com/)                        | no            | no          | netrworking   |
-| []() |  |  |  |
+| [twister](http://twister.net.co/)                | yes           | yes         | microblogging |
 | []() |  |  |  |
 | []() |  |  |  |
 | []() |  |  |  |
