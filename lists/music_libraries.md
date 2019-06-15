@@ -26,6 +26,7 @@
 | [Kitten Player](https://sourceforge.net/projects/kitten-player/) | no    | yes         |
 | [Media Jukebox](https://jriver.com/mj/)                          | no    | no          |
 | [Song Director](http://songdirector.com/)                        | no    | no          |
+| [The Godfather](http://www.jtclipper.eu/thegodfather/)           | no    | no          |
 | [Waf Music Manager](http://jbe2277.github.io/musicmanager/)      | no    | yes         |
 
 ## FAQ
