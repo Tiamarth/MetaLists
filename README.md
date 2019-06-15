@@ -8,6 +8,7 @@ Generally, I will only list software that is still available for download from o
 ## Current Lists
 | Name / Link                                           | Alternatives to  |
 | ----------------------------------------------------- | ---------------- |
+| [Audio Metadata Editors](lists/audio_meta_editors.md) | Mp3tag           |
 | [Dictionaries](lists/dictionaries.md)                 | Dictionary.com   |
 | [Email Clients](lists/email_clients.md)               | Thunderbird      |
 | [Game Distribution Platforms](lists/game_distribs.md) | Steam            |
@@ -28,7 +29,6 @@ Generally, I will only list software that is still available for download from o
 | Name / Link                                           | Alternatives to  |
 | ----------------------------------------------------- | ---------------- |
 | [Cloud Storage Services](lists/clouds.md)             | Google Drive     |
-| [Audio Metadata Editors](lists/audio_meta_editors.md) | MP3Tag           |
 | [Social Media](lists/social_media.md)                 | Facebook         |
 
 ## Planned Lists
