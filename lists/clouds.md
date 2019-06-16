@@ -7,7 +7,7 @@
 | [MEGA](https://mega.nz/)                            | active       | yes            | yes          | no          | yes         | 50 GB     |
 | [Syncthing](https://syncthing.net/)                 | active       | yes            | yes          | yes         | yes         | unlimited |
 | [ownCloud](https://owncloud.org/)                   | active       | yes            | yes          | yes         | yes         | unlimited |
-| [OneDrive](https://onedrive.live.com/)              | active       | yes            | no           | no          | no          | 5 GB      |
+| [Microsoft OneDrive](https://onedrive.live.com/)    | active       | yes            | no           | no          | no          | 5 GB      |
 | [Box Drive](https://www.box.com/drive)              | active       | yes            | no           | no          | no          | 10 GB     |
 | [Resilio](https://resilio.com/)                     | active       | yes            | yes          | yes         | no          | unlimited |
 | [SpiderOak One](https://spideroak.com/one/)         | dormant      | yes            | yes          | no          | no          | unclear   |
@@ -37,54 +37,54 @@
 | [Mail.Ru Cloud](https://cloud.mail.ru/)             | unclear      | yes            | no           | no          | no          | 0 GB      |
 | [FileCloud](https://getfilecloud.com/)              | active       | yes            | yes          | no          | no          | 0 GB      |
 | [HRCloud2](https://github.com/zelon88/HRCloud2)     | active       | yes            | yes          | yes         | yes         | unlimited |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
-| []() |  |  |  |  |  |  |
+| [Synqion TeamDrive](https://synqion.com/)           | active       | yes            | yes          | no          | no          | 0 GB      |
+| [Canon Irista](https://www.irista.com/)             | active       | no             | no           | no          | no          | 15 GB     |
+| [Livedrive](https://www2.livedrive.com/)            | active       | yes            | no           | no          | no          | 0 GB      |
+| [4Sync](https://4sync.com/)                         | active       | yes            | yes          | no          | no          | 0 GB      |
+| [LinShare](https://linshare.org/)                   | active       | no             | no           | yes         | yes         | unlimited |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
+| []() |              |                |              |             |             |           |
