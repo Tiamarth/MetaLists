@@ -46,6 +46,9 @@
 | [MyWorkDrive](https://myworkdrive.com/)             | active       | yes            | no           | yes         | no          | 0 GB      |
 | [Tarsnap](https://tarsnap.com/)                     | discontinued | yes            | yes          | no          | yes         | 0 GB      |
 | [FileRun](https://filerun.com/)                     | active       | yes            | yes          | yes         | no          | unlimited |
+| [JustCloud](https://justcloud.com/)                 | unclear      | yes            | no           | no          | no          | 0 GB      |
+| [Qabel](https://qabel.de/qabelnow)                  | discontinued | yes            | no           | no          | yes         | 2 GB      |
+| [Nubo](https://github.com/PascalLG/nubo-hs)         | dormant      | no             | no           | yes         | yes         | unlimited |
 | []() |              |                |              |             |             |           |
 | []() |              |                |              |             |             |           |
 | []() |              |                |              |             |             |           |
@@ -85,6 +88,10 @@
 | []() |              |                |              |             |             |           |
 | []() |              |                |              |             |             |           |
 | []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
+
+
+## FAQ
+preemptive responses to likely FAQ:
+
+**What is a cloud storage service?**  
+*A cloud storage service allows users to upload and store data privately on a remote server.* This does not include services which allow users to upload data temporarily for the purpose of sharing it with other users. This also does not include services which allow users to upload exclusively extremely specific data such as images, music, or documents. For example, imgur is not a cloud storage service, neither is WeTransfer.
