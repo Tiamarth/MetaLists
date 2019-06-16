@@ -42,10 +42,10 @@
 | [Livedrive](https://www2.livedrive.com/)            | active       | yes            | no           | no          | no          | 0 GB      |
 | [4Sync](https://4sync.com/)                         | active       | yes            | yes          | no          | no          | 0 GB      |
 | [LinShare](https://linshare.org/)                   | active       | no             | no           | yes         | yes         | unlimited |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
+| [Strato HiDrive](https://free-hidrive.com/)         | unclear      | no             | no           | no          | no          | 5 GB      |
+| [MyWorkDrive](https://myworkdrive.com/)             | active       | yes            | no           | yes         | no          | 0 GB      |
+| [Tarsnap](https://tarsnap.com/)                     | discontinued | yes            | yes          | no          | yes         | 0 GB      |
+| [FileRun](https://filerun.com/)                     | active       | yes            | yes          | yes         | no          | unlimited |
 | []() |              |                |              |             |             |           |
 | []() |              |                |              |             |             |           |
 | []() |              |                |              |             |             |           |
