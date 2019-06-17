@@ -20,12 +20,12 @@
 | [Openbook](https://openbook.social/)               | no            | yes         | networking    |
 | [Plurk](https://plurk.com/)                        | no            | no          | microblogging |
 | [Idka](https://idka.com/)                          | no            | no          | networking    |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
+| [Chttr](https://chttr.co/)                         | no            | no          | microblogging |
+| [Golos](https://golos.io/)                         | no            | yes         | aggregator    |
+| [Chaino](https://chaino.com/)                      | no            | no          | networking    |
+| [Human Connection](https://human-connection.org/)  | no            | yes         | blogging      |
+| [Cygo](https://cygo.network/)                      | no            | yes         | networking    |
+| [Woddal](https://woddal.com/)                      | no            | no          | networking    |
 | []() |               |             |               |
 | []() |               |             |               |
 | []() |               |             |               |
@@ -79,10 +79,10 @@
 preemptive responses to likely faq:
 
 **What's the difference between the different types of social media?**  
-- *aggregator:* these services aggregate links and provide a platform of discussion to users
-- *blogging:* these services tend to emphasize individual users and provide a platform for them to post longform, substantive information about their daily lives
-- *microblogging:* these services tend to emphasize individual users, but posts on these services are typically limited to small character counts
-- *networking:* these services tend to emphasize relationships between users
+- *aggregator:* these services aggregate links and provide a platform of discussion to users. Reddit is a well known aggregator.
+- *blogging:* these services tend to emphasize individual users and provide a platform for them to post longform, substantive information about their daily lives. Tumblr is a well known blogging platform.
+- *microblogging:* these services tend to emphasize individual users, but posts on these services are typically limited to small character counts. Twitter is a well known microblogging platform.
+- *networking:* these services tend to emphasize relationships between users. Facebook is a well known networking platform.
 
 **Does it matter if a social network is decentralized?**  
 *Only if you care about not having to rely on one individual company.* Decentralized social media are hosted in a network of servers that aren't all dependent on the continued operation of the parent company. Generally decentralized platforms are also open source so that independent developers and tech-savvy users can host their own instances of the platform to keep the service running indefinitely, regardless of the state of the parent company. Current mainstream social media, such as Facebook and Twitter, will go offline permanently if the parent company goes out of business, and all of your data on those platforms will be rendered inaccessible.
