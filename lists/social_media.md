@@ -26,6 +26,25 @@
 | [VK](https://vk.com/)                               | no            | no          | networking          |
 | [Woddal](https://woddal.com/)                       | no            | no          | networking          |
 | [XING](https://xing.com/)                           | no            | no          | networking          |
+| [Across The Globe](https://atg.world/)              | no            | no          | business networking |
+| [Dev Community](https://dev.to/)                    | no            | no          | business networking |
+| [Hoverboard](http://hoverboard.io/)                 | no            | no          | business networking |
+| [LinkedIn](https://linkedin.com/)                   | no            | no          | business networking |
+| [vutuv](https://vutuv.de/)                          | no            | yes         | business networking |
+| [Blogger](https://blogger.com/)                     | no            | no          | blogging            |
+| [Ghost](https://ghost.org/)                         | no            | yes         | blogging            |
+| [Human Connection](https://human-connection.org/)   | no            | yes         | blogging            |
+| [Known](https://withknown.com/)                     | yes           | yes         | blogging            |
+| [LiveJournal](https://www.livejournal.com/)         | no            | no          | blogging            |
+| [Pillowfort](https://pillowfort.social/)            | no            | no          | blogging            |
+| [Plume](https://joinplu.me/)                        | yes           | yes         | blogging            |
+| [Postach.io](https://postach.io/)                   | no            | no          | blogging            |
+| [Qwerby](https://qwerby.com/)                       | no            | no          | blogging            |
+| [Skyrock](https://skyrock.com/)                     | no            | no          | blogging            |
+| [Tumblr](https://tumblr.com/)                       | no            | no          | blogging            |
+| [WordPress](https://wordpress.com/)                 | no            | yes         | blogging            |
+| [Write.as](https://write.as/)                       | no            | yes         | blogging            |
+| [WriteFreely](https://writefreely.org/)             | yes           | yes         | blogging            |
 | [Chttr](https://chttr.co/)                          | no            | no          | microblogging       |
 | [DumDarac](https://dumdarac.com/)                   | no            | yes         | microblogging       |
 | [Gab](https://gab.com/)                             | no            | no          | microblogging       |
@@ -36,6 +55,11 @@
 | [twister](http://twister.net.co/)                   | yes           | yes         | microblogging       |
 | [Twitter](https://twitter.com/)                     | no            | no          | microblogging       |
 | [ZeroMe](https://github.com/HelloZeroNet/ZeroMe)    | yes           | yes         | microblogging       |
+| [Are.na](https://are.na/)                           | no            | no          | art blogging        |
+| [ArtWeen](https://artween.com/)                     | no            | no          | art blogging        |
+| [DeviantArt](https://deviantart.com/)               | no            | no          | art blogging        |
+| [Ello](https://ello.co/)                            | no            | no          | art blogging        |
+| [Logamp](https://logamp.com/)                       | no            | no          | art blogging        |
 | [Golos](https://golos.io/)                          | no            | yes         | aggregator          |
 | [Hubski](http://hubski.com/)                        | no            | no          | aggregator          |
 | [Narrative](https://narrative.org/)                 | no            | no          | aggregator          |
@@ -44,53 +68,29 @@
 | [Reddit](https://reddit.com/)                       | no            | no          | aggregator          |
 | [Saidit.net](https://saidit.net/)                   | no            | yes         | aggregator          |
 | [Steemit](https://steemit.com/)                     | no            | yes         | aggregator          |
+| [Voat](https://voat.co/)                            | no            | yes         | aggregator          |
 | [WEKU](https://main.weku.io/)                       | no            | no          | aggregator          |
-| [Human Connection](https://human-connection.org/)   | no            | yes         | blogging            |
-| [Qwerby](https://qwerby.com/)                       | no            | no          | blogging            |
-| [Tumblr](https://tumblr.com/)                       | no            | no          | blogging            |
+| [4chan](https://4chan.org/)                         | no            | no          | forum               |
 | [Disqus](https://disqus.com/)                       | no            | no          | forum               |
+| [Heimo](https://heimo.co/)                          | no            | no          | forum               |
 | [Similar Worlds](https://similarworlds.com/)        | no            | no          | forum               |
 | [Badoo](https://badoo.com/)                         | no            | no          | dating              |
 | [BlackPeopleMeet.com](https://blackpeoplemeet.com/) | no            | no          | dating              |
+| [Bristlr](http://bristlr.com/)                      | no            | no          | dating              |
 | [Coffee Meets Bagel](https://coffeemeetsbagel.com/) | no            | no          | dating              |
 | [eHarmony](https://eharmony.com/)                   | no            | no          | dating              |
+| [Findmate](https://findmate.app/)                   | no            | no          | dating              |
 | [Fling.me](https://fling.me/)                       | no            | no          | dating              |
+| [Flirt](https://flirt.com/)                         | no            | no          | dating              |
+| [Lavalife.com](http://lavalife.com/)                | no            | no          | dating              |
 | [LuvFree](https://luvfree.com/)                     | no            | no          | dating              |
+| [Match](https://match.com/)                         | no            | no          | dating              |
 | [MeetMe](https://meetme.com/)                       | no            | no          | dating              |
 | [OkCupid](https://okcupid.com/)                     | no            | no          | dating              |
-| [Zoosk](https://zoosk.com/)                         | no            | no          | dating              |
-| [4chan](https://4chan.org/)                         | no            | no          | forum               |
-| [Bristlr](http://bristlr.com/)                      | no            | no          | dating              |
-| [Findmate](https://findmate.app/)                   | no            | no          | dating              |
-| [Lavalife.com](http://lavalife.com/)                | no            | no          | dating              |
-| [Skyrock](https://skyrock.com/)                     | no            | no          | blogging            |
-| [WordPress](https://wordpress.com/)                 | no            | yes         | blogging            |
-| [Ghost](https://ghost.org/)                         | no            | yes         | blogging            |
-| [Blogger](https://blogger.com/)                     | no            | no          | blogging            |
-| [Write.as](https://write.as/)                       | no            | yes         | blogging            |
-| [Known](https://withknown.com/)                     | yes           | yes         | blogging            |
-| [Postach.io](https://postach.io/)                   | no            | no          | blogging            |
-| [Dev Community](https://dev.to/)                    | no            | no          | business networking |
-| [Plume](https://joinplu.me/)                        | yes           | yes         | blogging            |
-| [WriteFreely](https://writefreely.org/)             | yes           | yes         | blogging            |
-| [LiveJournal](https://www.livejournal.com/)         | no            | no          | blogging            |
-| [Match](https://match.com/)                         | no            | no          | dating              |
-| [UberFaces](https://uberfaces.com/)                 | no            | no          | dating              |
-| [DeviantArt](https://deviantart.com/)               | no            | no          | art blogging        |
-| [Are.na](https://are.na/)                           | no            | no          | art blogging        |
-| [Flirt](https://flirt.com/)                         | no            | no          | dating              |
-| [Ello](https://ello.co/)                            | no            | no          | art blogging        |
-| [ArtWeen](https://artween.com/)                     | no            | no          | art blogging        |
 | [Plenty of Fish](https://pof.com/)                  | no            | no          | dating              |
-| [LinkedIn](https://linkedin.com/)                   | no            | no          | business networking |
+| [UberFaces](https://uberfaces.com/)                 | no            | no          | dating              |
 | [Zodiac-Date](https://zodiac-date.com/)             | no            | no          | dating              |
-| [Heimo](https://heimo.co/)                          | no            | no          | forum               |
-| [Voat](https://voat.co/)                            | no            | yes         | aggregator          |
-| [Pillowfort](https://pillowfort.social/)            | no            | no          | blogging            |
-| [Logamp](https://logamp.com/)                       | no            | no          | art blogging        |
-| [Across The Globe](https://atg.world/)              | no            | no          | business networking |
-| [Hoverboard](http://hoverboard.io/)                 | no            | no          | business networking |
-| [vutuv](https://vutuv.de/)                          | no            | yes         | business networking |
+| [Zoosk](https://zoosk.com/)                         | no            | no          | dating              |
 | []() |               |             |                     |
 | []() |               |             |                     |
 | []() |               |             |                     |
