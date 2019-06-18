@@ -75,12 +75,12 @@
 | [WriteFreely](https://writefreely.org/)             | yes           | yes         | blogging      |
 | [LiveJournal](https://www.livejournal.com/)         | no            | no          | blogging      |
 | [Match](https://match.com/)                         | no            | no          | dating        |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
+| [UberFaces](https://uberfaces.com/)                 | no            | no          | dating        |
+| [DeviantArt](https://deviantart.com/)               | no            | no          | art blogging  |
+| [Are.na](https://are.na/)                           | no            | no          | art blogging  |
+| [Flirt](https://flirt.com/)                         | no            | no          | dating        |
+| [Ello](https://ello.co/)                            | no            | no          | art blogging  |
+| [ArtWeen](https://artween.com/)                     | no            | no          | art blogging  |
 | []() |               |             |               |
 | []() |               |             |               |
 | []() |               |             |               |
@@ -165,7 +165,7 @@ preemptive responses to likely faq:
 - *forums:* often similar to aggregators, forums emphasize topics which are organized into boards and provide a platform of discussion to users. Forums can be thought of as more specialized aggregators. Forums which restrict discussion to a very specific topic, such as forums for a particular community or product, will not be listed here. Disqus is a well known forum.
 - *blogging:* these services tend to emphasize individual users and provide a platform for them to post longform, substantive information about their daily lives. Tumblr is a well known blogging platform.
 - *microblogging:* these services tend to emphasize individual users, but posts are typically limited to small character counts. Twitter is a well known microblogging platform.
-- *art blogging:* these services tend to emphasize individual users, but posts are limited to artistic work. deviantArt is a well known art blogging platform.
+- *art blogging:* these services tend to emphasize individual users, but posts are limited to artistic work. DeviantArt is a well known art blogging platform.
 - *networking:* these services tend to emphasize relationships between users. Facebook is a well known networking platform.
 - *dating:* a subset of networking platforms, online dating services emphasize romantic or sexual relationships between users. eHarmony is a well known dating service.
 - *business networking:* these platforms are targeted at people looking to build professional relationships to help them find and maintain work. LinkedIn is a well known business social network.
