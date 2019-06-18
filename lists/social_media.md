@@ -31,14 +31,14 @@
 | [Saidit.net](https://saidit.net/)                  | no            | yes         | aggregator    |
 | [Prismo](https://prismo.xyz/)                      | no            | yes         | aggregator    |
 | [Raddle](https://raddle.me/)                       | no            | yes         | aggregator    |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
+| [DumDarac](https://dumdarac.com/)                  | no            | yes         | microblogging |
+| [Bookme.win](https://bookme.win/)                  | no            | yes         | networking    |
+| [Friendio](https://friend.io/)                     | no            | no          | networking    |
+| [Tribyo](https://tribyo.com/)                      | no            | no          | networking    |
+| [Sphere Social](https://sphere.social/)            | no            | no          | networking    |
+| [Tumblr](https://tumblr.com/)                      | no            | no          | blogging      |
+| [Osada](http://zotlabs.com/osada/)                 | yes           | yes         | networking    |
+| [Narrative](https://narrative.org/)                | no            | no          | aggregator    |
 | []() |               |             |               |
 | []() |               |             |               |
 | []() |               |             |               |
