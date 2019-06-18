@@ -26,11 +26,11 @@
 | [Human Connection](https://human-connection.org/)  | no            | yes         | blogging      |
 | [Cygo](https://cygo.network/)                      | no            | yes         | networking    |
 | [Woddal](https://woddal.com/)                      | no            | no          | networking    |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
+| [alloblak](https://alloblak.com/)                  | no            | yes         | networking    |
+| [Hubski](http://hubski.com/)                       | no            | no          | aggregator    |
+| [Saidit.net](https://saidit.net/)                  | no            | yes         | aggregator    |
+| [Prismo](https://prismo.xyz/)                      | no            | yes         | aggregator    |
+| [Raddle](https://raddle.me/)                       | no            | yes         | aggregator    |
 | []() |               |             |               |
 | []() |               |             |               |
 | []() |               |             |               |
