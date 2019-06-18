@@ -39,6 +39,7 @@ Generally, I will only list software that is still available for download from o
 | Music Sharing Platforms   | Soundcloud            |
 | Online Stores             | Amazon                |
 | Podcast Sharing Platforms | iTunes/Apple Podcasts |
+| Wallpaper Hosts           | WallHaven             |
 
 ## Definitions of dev status terms
 - **unclear** : last release was not dated
