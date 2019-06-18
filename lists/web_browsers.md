@@ -45,6 +45,7 @@
 | [Colibri](https://colibri.opqr.co/)                                                           | dormant              | no          | yes    | Blink         |
 | [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)                    | active               | no          | no     | Blink         |
 | [CryptoTab Browser](https://cryptobrowser.site/cryptotab/)                                    | active               | no          | no     | Blink         |
+| [Dissenter](https://dissenter.com/)                                                           | active               | yes         | yes    | Blink         |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink         |
 | [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
 | [Ghost](https://ghostbrowser.com/)                                                            | unclear              | no          | no     | Blink         |
@@ -152,14 +153,14 @@ Preemptive responses to likely FAQs:
 *Not here.* This list is currently being maintained by hand, as are all the other lists in this repo, and there's already a pretty daunting amount of browsers available for desktop PCs. Including all the mobile browsers would at least double the length of this list and the primary point of MetaLists is to help Linux users find alternative software that runs on Linux. So including mobile browsers here seems unnecessary. That being said, I'm not strictly against including them (there are, after all, already some browsers on this list that do not run on desktop PCs at all) so if you have the time and want to do it, feel free to make the list and pull request.  
 
 ## Data
-browsers: 119
+browsers: 120
 
 **License**  
-open source: 56  
+open source: 57  
 proprietary: 63
 
 **Linux support**  
-linux support: 64  
+linux support: 65  
 no linux support: 54  
 will eventually have linux support: 1
 
@@ -169,7 +170,7 @@ dormant: 3
 ongoing: 6  
 unclear: 10  
 discontinued: 31  
-active: 66
+active: 67
 
 **Engines**  
 KHTML: 1  
@@ -189,4 +190,4 @@ Various: 6
 Unspecified: 12  
 WebKit: 17  
 Gecko: 18  
-Blink: 42
+Blink: 43
