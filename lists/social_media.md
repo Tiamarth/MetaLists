@@ -1,49 +1,77 @@
 # Social Media
-| Name / Link                                        | Decentralized | Open Source | Type          |
-| -------------------------------------------------- | ------------- | ----------- | ------------- |
-| [Diaspora](https://diasporafoundation.org/)        | yes           | yes         | networking    |
-| [Facebook](https://www.facebook.com/)              | no            | no          | networking    |
-| [Minds](https://www.minds.com/)                    | yes           | yes         | networking    |
-| [VK](https://vk.com/)                              | no            | no          | networking    |
-| [HumHub](https://www.humhub.org/en)                | yes           | yes         | networking    |
-| [Friendica](https://friendi.ca/)                   | yes           | yes         | networking    |
-| [Movim](https://movim.eu/)                         | yes           | yes         | networking    |
-| [Gab](https://gab.com/)                            | no            | no          | microblogging |
-| [Mastodon](https://joinmastodon.org/)              | yes           | yes         | microblogging |
-| [Twitter](https://twitter.com/)                    | no            | no          | microblogging |
-| [GNU Social](https://gnu.io/social/)               | yes           | yes         | microblogging |
-| [ZeroMe](https://github.com/HelloZeroNet/ZeroMe)   | yes           | yes         | microblogging |
-| [Disqus](https://disqus.com/)                      | no            | no          | aggregator    |
-| [Steemit](https://steemit.com/)                    | no            | yes         | aggregator    |
-| [MeWe](https://mewe.com/)                          | no            | no          | netrworking   |
-| [twister](http://twister.net.co/)                  | yes           | yes         | microblogging |
-| [Openbook](https://openbook.social/)               | no            | yes         | networking    |
-| [Plurk](https://plurk.com/)                        | no            | no          | microblogging |
-| [Idka](https://idka.com/)                          | no            | no          | networking    |
-| [Chttr](https://chttr.co/)                         | no            | no          | microblogging |
-| [Golos](https://golos.io/)                         | no            | yes         | aggregator    |
-| [Chaino](https://chaino.com/)                      | no            | no          | networking    |
-| [Human Connection](https://human-connection.org/)  | no            | yes         | blogging      |
-| [Cygo](https://cygo.network/)                      | no            | yes         | networking    |
-| [Woddal](https://woddal.com/)                      | no            | no          | networking    |
-| [alloblak](https://alloblak.com/)                  | no            | yes         | networking    |
-| [Hubski](http://hubski.com/)                       | no            | no          | aggregator    |
-| [Saidit.net](https://saidit.net/)                  | no            | yes         | aggregator    |
-| [Prismo](https://prismo.xyz/)                      | no            | yes         | aggregator    |
-| [Raddle](https://raddle.me/)                       | no            | yes         | aggregator    |
-| [DumDarac](https://dumdarac.com/)                  | no            | yes         | microblogging |
-| [Bookme.win](https://bookme.win/)                  | no            | yes         | networking    |
-| [Friendio](https://friend.io/)                     | no            | no          | networking    |
-| [Tribyo](https://tribyo.com/)                      | no            | no          | networking    |
-| [Sphere Social](https://sphere.social/)            | no            | no          | networking    |
-| [Tumblr](https://tumblr.com/)                      | no            | no          | blogging      |
-| [Osada](http://zotlabs.com/osada/)                 | yes           | yes         | networking    |
-| [Narrative](https://narrative.org/)                | no            | no          | aggregator    |
-| [Viadeo](http://us.viadeo.com/)                    | no            | no          | networking    |
-| [FineFriends](https://finefriends.nl/)             | no            | no          | networking    |
-| [XING](https://xing.com/)                          | no            | no          | networking    |
-| [WEKU](https://main.weku.io/)                      | no            | no          | aggregator    |
-| [Qwerby](https://qwerby.com/)                      | no            | no          | blogging      |
+| Name / Link                                         | Decentralized | Open Source | Type          |
+| --------------------------------------------------- | ------------- | ----------- | ------------- |
+| [alloblak](https://alloblak.com/)                   | no            | yes         | networking    |
+| [Bookme.win](https://bookme.win/)                   | no            | yes         | networking    |
+| [Chaino](https://chaino.com/)                       | no            | no          | networking    |
+| [Cygo](https://cygo.network/)                       | no            | yes         | networking    |
+| [Diaspora](https://diasporafoundation.org/)         | yes           | yes         | networking    |
+| [e-Sathi](https://www.e-sathi.com/)                 | no            | no          | networking    |
+| [Facebook](https://www.facebook.com/)               | no            | no          | networking    |
+| [FineFriends](https://finefriends.nl/)              | no            | no          | networking    |
+| [Friend Xone](https://friendxone.com/)              | no            | no          | networking    |
+| [Friendica](https://friendi.ca/)                    | yes           | yes         | networking    |
+| [Friendio](https://friend.io/)                      | no            | no          | networking    |
+| [HumHub](https://www.humhub.org/en)                 | yes           | yes         | networking    |
+| [Idka](https://idka.com/)                           | no            | no          | networking    |
+| [MeWe](https://mewe.com/)                           | no            | no          | networking    |
+| [Minds](https://www.minds.com/)                     | yes           | yes         | networking    |
+| [Movim](https://movim.eu/)                          | yes           | yes         | networking    |
+| [Openbook](https://openbook.social/)                | no            | yes         | networking    |
+| [Osada](http://zotlabs.com/osada/)                  | yes           | yes         | networking    |
+| [Quup](http://quup.com/)                            | no            | no          | networking    |
+| [Sphere Social](https://sphere.social/)             | no            | no          | networking    |
+| [Tribyo](https://tribyo.com/)                       | no            | no          | networking    |
+| [Viadeo](http://us.viadeo.com/)                     | no            | no          | networking    |
+| [VK](https://vk.com/)                               | no            | no          | networking    |
+| [Woddal](https://woddal.com/)                       | no            | no          | networking    |
+| [XING](https://xing.com/)                           | no            | no          | networking    |
+| [Chttr](https://chttr.co/)                          | no            | no          | microblogging |
+| [DumDarac](https://dumdarac.com/)                   | no            | yes         | microblogging |
+| [Gab](https://gab.com/)                             | no            | no          | microblogging |
+| [GNU Social](https://gnu.io/social/)                | yes           | yes         | microblogging |
+| [Mastodon](https://joinmastodon.org/)               | yes           | yes         | microblogging |
+| [Plurk](https://plurk.com/)                         | no            | no          | microblogging |
+| [Toko](https://toko.tech/)                          | no            | no          | microblogging |
+| [twister](http://twister.net.co/)                   | yes           | yes         | microblogging |
+| [Twitter](https://twitter.com/)                     | no            | no          | microblogging |
+| [ZeroMe](https://github.com/HelloZeroNet/ZeroMe)    | yes           | yes         | microblogging |
+| [Golos](https://golos.io/)                          | no            | yes         | aggregator    |
+| [Hubski](http://hubski.com/)                        | no            | no          | aggregator    |
+| [Narrative](https://narrative.org/)                 | no            | no          | aggregator    |
+| [Prismo](https://prismo.xyz/)                       | no            | yes         | aggregator    |
+| [Raddle](https://raddle.me/)                        | no            | yes         | aggregator    |
+| [Reddit](https://reddit.com/)                       | no            | no          | aggregator    |
+| [Saidit.net](https://saidit.net/)                   | no            | yes         | aggregator    |
+| [Steemit](https://steemit.com/)                     | no            | yes         | aggregator    |
+| [WEKU](https://main.weku.io/)                       | no            | no          | aggregator    |
+| [Human Connection](https://human-connection.org/)   | no            | yes         | blogging      |
+| [Qwerby](https://qwerby.com/)                       | no            | no          | blogging      |
+| [Tumblr](https://tumblr.com/)                       | no            | no          | blogging      |
+| [Disqus](https://disqus.com/)                       | no            | no          | forum         |
+| [Similar Worlds](https://similarworlds.com/)        | no            | no          | forum         |
+| [Badoo](https://badoo.com/)                         | no            | no          | dating        |
+| [BlackPeopleMeet.com](https://blackpeoplemeet.com/) | no            | no          | dating        |
+| [Coffee Meets Bagel](https://coffeemeetsbagel.com/) | no            | no          | dating        |
+| [eHarmony](https://eharmony.com/)                   | no            | no          | dating        |
+| [Fling.me](https://fling.me/)                       | no            | no          | dating        |
+| [LuvFree](https://luvfree.com/)                     | no            | no          | dating        |
+| [MeetMe](https://meetme.com/)                       | no            | no          | dating        |
+| [OkCupid](https://okcupid.com/)                     | no            | no          | dating        |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
+| []() |               |             |               |
 | []() |               |             |               |
 | []() |               |             |               |
 | []() |               |             |               |
@@ -80,9 +108,11 @@ preemptive responses to likely faq:
 
 **What's the difference between the different types of social media?**  
 - *aggregator:* these services aggregate links and provide a platform of discussion to users. Reddit is a well known aggregator.
+- *forums:* often similar to aggregators, forums emphasize topics which are organized into boards and provide a platform of discussion to users. Forums can be thought of as more specialized aggregators. Forums which restrict discussion to a very specific topic, such as forums for a particular community or product, will not be listed here. Disqus is a well known forum.
 - *blogging:* these services tend to emphasize individual users and provide a platform for them to post longform, substantive information about their daily lives. Tumblr is a well known blogging platform.
 - *microblogging:* these services tend to emphasize individual users, but posts on these services are typically limited to small character counts. Twitter is a well known microblogging platform.
 - *networking:* these services tend to emphasize relationships between users. Facebook is a well known networking platform.
+- *dating:* a subset of networking platforms, online dating services emphasize romantic or sexual relationships between users. eHarmony is a well known dating service.
 
 **Does it matter if a social network is decentralized?**  
 *Only if you care about not having to rely on one individual company.* Decentralized social media are hosted in a network of servers that aren't all dependent on the continued operation of the parent company. Generally decentralized platforms are also open source so that independent developers and tech-savvy users can host their own instances of the platform to keep the service running indefinitely, regardless of the state of the parent company. Current mainstream social media, such as Facebook and Twitter, will go offline permanently if the parent company goes out of business, and all of your data on those platforms will be rendered inaccessible.
