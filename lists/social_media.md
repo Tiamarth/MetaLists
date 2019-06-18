@@ -88,9 +88,9 @@
 | [Voat](https://voat.co/)                            | no            | yes         | aggregator          |
 | [Pillowfort](https://pillowfort.social/)            | no            | no          | blogging            |
 | [Logamp](https://logamp.com/)                       | no            | no          | art blogging        |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
+| [Across The Globe](https://atg.world/)              | no            | no          | business networking |
+| [Hoverboard](http://hoverboard.io/)                 | no            | no          | business networking |
+| [vutuv](https://vutuv.de/)                          | no            | yes         | business networking |
 | []() |               |             |                     |
 | []() |               |             |                     |
 | []() |               |             |                     |
@@ -169,7 +169,7 @@ preemptive responses to likely faq:
 - *networking:* these services tend to emphasize relationships between users. Facebook is a well known networking platform.
 - *dating:* a subset of networking platforms, online dating services emphasize romantic or sexual relationships between users. eHarmony is a well known dating service.
 - *business networking:* these platforms are targeted at people looking to build professional relationships to help them find and maintain work. LinkedIn is a well known business social network.
-- *game networking:* these platforms are targeted at gamers. Steam is a well known gaming social network.
+- *gamer networking:* these platforms are targeted at gamers. Steam is a well known gaming social network.
 
 **Does it matter if a social network is decentralized?**  
 *Only if you care about not having to rely on one individual company.* Decentralized social media are hosted in a network of servers that aren't all dependent on the continued operation of the parent company. Generally decentralized platforms are also open source so that independent developers and tech-savvy users can host their own instances of the platform to keep the service running indefinitely, regardless of the state of the parent company. Current mainstream social media, such as Facebook and Twitter, will go offline permanently if the parent company goes out of business, and all of your data on those platforms will be rendered inaccessible.
