@@ -39,11 +39,11 @@
 | [Tumblr](https://tumblr.com/)                      | no            | no          | blogging      |
 | [Osada](http://zotlabs.com/osada/)                 | yes           | yes         | networking    |
 | [Narrative](https://narrative.org/)                | no            | no          | aggregator    |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
-| []() |               |             |               |
+| [Viadeo](http://us.viadeo.com/)                    | no            | no          | networking    |
+| [FineFriends](https://finefriends.nl/)             | no            | no          | networking    |
+| [XING](https://xing.com/)                          | no            | no          | networking    |
+| [WEKU](https://main.weku.io/)                      | no            | no          | aggregator    |
+| [Qwerby](https://qwerby.com/)                      | no            | no          | blogging      |
 | []() |               |             |               |
 | []() |               |             |               |
 | []() |               |             |               |
