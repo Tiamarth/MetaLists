@@ -5,6 +5,8 @@ It is both possible and likely that I've made some mistakes in the details of th
 
 Generally, I will only list software that is still available for download from official sources. The point of this is to reduce linking to potential malware or adware. If there is software listed for which you cannot find a download, it is probably only still available via the repos of a Linux distribution. I'm on Manjaro. Some of these lists are not for software downloads, but primarily for online services you use in your web browser, these lists will not include whether or not the services support Linux.
 
+I have not tested every piece of software and every service listed here. If you find malware, adware, or any other form of malicious software or service listed here, please remove it and submit a pull request, create an issue, or otherwise get in touch with me so that I can remove it.
+
 ## Current Lists
 | Name / Link                                           | Alternatives to  |
 | ----------------------------------------------------- | ---------------- |
