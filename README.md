@@ -41,6 +41,7 @@ I have not tested every piece of software and every service listed here. If you 
 | Music Sharing Platforms   | Soundcloud            |
 | Online Stores             | Amazon                |
 | Podcast Sharing Platforms | iTunes/Apple Podcasts |
+| VPNs                      | NordVPN               |
 | Wallpaper Hosts           | WallHaven             |
 
 ## Definitions of dev status terms
