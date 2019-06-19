@@ -19,6 +19,7 @@ I have not tested every piece of software and every service listed here. If you 
 | [Music Players](lists/music_players.md)               | Groove           |
 | [Office Suites](lists/office_suites.md)               | Microsoft Office |
 | [Search Engines](lists/search_engines.md)             | Google           |
+| [Social Media](lists/social_media.md)                 | Facebook         |
 | [Software Lists](lists/software_lists.md)             | AlternativeTo    |
 | [Sound Generators](lists/sound_gens.md)               | myNoise          |
 | [Text Editors](lists/text_editors.md)                 | Notepad          |
@@ -31,13 +32,14 @@ I have not tested every piece of software and every service listed here. If you 
 | Name / Link                                           | Alternatives to  |
 | ----------------------------------------------------- | ---------------- |
 | [Cloud Storage Services](lists/clouds.md)             | Google Drive     |
-| [Social Media](lists/social_media.md)                 | Facebook         |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
 | ------------------------- | --------------------- |
 | Audio Editors             | Audacity              |
+| GitHub Desktop Clients    | GitHub Desktop        |
 | Image Editors             | Photoshop             |
+| Image Hosting Platforms   | Imgur                 |
 | Media Players             | Windows Media Player  |
 | Music Sharing Platforms   | Soundcloud            |
 | Online Stores             | Amazon                |
@@ -45,6 +47,7 @@ I have not tested every piece of software and every service listed here. If you 
 | Streaming Platforms       | Twitch                |
 | VPNs                      | NordVPN               |
 | Wallpaper Hosts           | WallHaven             |
+| Word Processors           | Microsoft Word        |
 
 ## Definitions of dev status terms
 - **unclear** : last release was not dated
