@@ -22,10 +22,10 @@
 | [Quup](http://quup.com/)                            | no            | no          | networking          |
 | [Sphere Social](https://sphere.social/)             | no            | no          | networking          |
 | [Tribyo](https://tribyo.com/)                       | no            | no          | networking          |
-| [Viadeo](http://us.viadeo.com/)                     | no            | no          | networking          |
 | [VK](https://vk.com/)                               | no            | no          | networking          |
 | [Woddal](https://woddal.com/)                       | no            | no          | networking          |
 | [XING](https://xing.com/)                           | no            | no          | networking          |
+| [Viadeo](http://us.viadeo.com/)                     | no            | no          | business networking |
 | [Across The Globe](https://atg.world/)              | no            | no          | business networking |
 | [Dev Community](https://dev.to/)                    | no            | no          | business networking |
 | [Hoverboard](http://hoverboard.io/)                 | no            | no          | business networking |
@@ -98,10 +98,10 @@
 | [Phuks](https://phuks.co/)                          | no            | no          | aggregator          |
 | [NewTimeBox](http://newtimebox.com/)                | no            | no          | networking          |
 | [NetProReferral](https://netproreferral.com/)       | no            | no          | business networking |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
+| [SpringBoardr](http://springboardr.com/)            | no            | no          | business networking |
+| [Doodle Addicts](https://doodleaddicts.com/)        | no            | no          | art blogging        |
+| [inploi](https://inploi.com/)                       | no            | no          | business networking |
+| [BEAM](https://beam.biz/)                           | no            | no          | business networking |
 | []() |               |             |                     |
 | []() |               |             |                     |
 | []() |               |             |                     |
