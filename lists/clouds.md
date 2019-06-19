@@ -57,38 +57,17 @@
 | [CloudBerry Box](https://cloudberrylab.com/products/box.aspx) | discontinued | yes            | no           | no          | no          | unclear   |
 | [MountRed](https://mount.red/)                                | unclear      | no             | no           | no          | no          | 15 GB     |
 | [E2EE Cloud](https://e2ee-cloud.com/)                         | active       | no             | no           | yes         | yes         | unlimited |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-| []() |              |                |              |             |             |           |
-
+| [LaciCloud](https://lacicloud.net/)                           | unclear      | no             | no           | no          | yes         | 5 GB      |
+| [FileVista](https://www.gleamtech.com/filevista)              | active       | yes            | no           | yes         | no          | unlimited |
+| [Dataprius](https://dataprius.com/en/home-dataprius.html)     | active       | yes            | no           | no          | no          | 0 GB      |
+| [FileAgo](https://www.fileago.com/)                           | active       | no             | no           | yes         | no          | unlimited |
+| [PowerFolder](https://www.powerfolder.com/)                   | unclear      | yes            | yes          | no          | no          | 0 GB      |
+| [Nimbox](https://www.nimbox.co.uk/)                           | active       | yes            | no           | no          | no          | 0 GB      |
+| [ElephantDrive](https://home.elephantdrive.com/)              | dormant      | yes            | no           | no          | no          | 0 GB      |
+| [Hornetdrive](https://www.hornetdrive.com/en/)                | unclear      | yes            | yes          | no          | no          | 0 GB      |
+| [DollyDrive](https://www.dollydrive.com/)                     | unclear      | yes            | no           | no          | no          | 0 GB      |
+| [Wasabi](https://wasabi.com/)                                 | active       | no             | no           | no          | no          | 0 GB      |
+| [Storro](https://storro.com/en/)                              | active       | yes            | yes          | no          | no          | 0 GB      |
 
 ## FAQ
 preemptive responses to likely FAQ:
