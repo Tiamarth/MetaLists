@@ -80,3 +80,39 @@ preemptive responses to likely FAQ:
 
 **Does it matter if a cloud is self-hosted?**  
 *Yes.* If a service is self-hosted that means you need to host it yourself, they're hosted on your own personal server. So you need to have your own storage space and maintain your own server to use those services. I'd generally recommend you use a self-hosted solution if you are able to, simply because it gives you significantly more control over your data.
+
+## Data
+cloud storage services: 67
+
+**Development Status**  
+dormant: 5  
+discontinued: 5  
+unclear: 11  
+active: 46
+
+**Desktop Client**  
+has desktop client: 55  
+desktop client supports linux: 29  
+desktop client does not support linux: 26  
+does not have desktop client: 12
+
+**Self-hosted**  
+self-hosted: 14  
+not self-hosted: 53
+
+**License**  
+open source: 15  
+proprietary: 52
+
+**Free Size**  
+unclear: 4  
+3 GB: 1  
+20 GB: 1  
+100 GB: 1  
+2 GB: 2  
+50 GB: 2  
+10 GB: 4  
+15 GB: 4  
+5 GB: 12  
+unlimited: 13  
+none: 23
