@@ -1,6 +1,6 @@
 # Recommendations
 
-These are all programs, apps, and servicess that I personally use and recommend. I may update this file in the future with information about why I use these in particular, but this will do for now.
+These are all programs, apps, and services that I personally use, have used in the past, or plan to use in the future. I may update this file in the future with information about why I use these in particular, but this will do for now.
 
 ## Audio Metadata Editors
 | Name / Link                                                           | Linux | Open Source |
@@ -68,6 +68,23 @@ These are all programs, apps, and servicess that I personally use and recommend.
 | --------------------------------------- |
 | [DuckDuckGo](https://duckduckgo.com/)   |
 | [startpage](https://www.startpage.com/) |
+
+## Social Media
+| Name / Link                                         | Decentralized | Open Source | Type                |
+| --------------------------------------------------- | ------------- | ----------- | ------------------- |
+| [Minds](https://www.minds.com/)                     | yes           | yes         | networking          |
+| [Diaspora](https://diasporafoundation.org/)         | yes           | yes         | networking          |
+| [Steam](https://steamcommunity.com/)                | no            | no          | gamer networking    |
+| [Mastodon](https://joinmastodon.org/)               | yes           | yes         | microblogging       |
+| [GNU Social](https://gnu.io/social/)                | yes           | yes         | microblogging       |
+| [Gab](https://gab.com/)                             | no            | no          | microblogging       |
+| [Imgur](https://imgur.com/)                         | no            | no          | art blogging        |
+| [ArtStation](https://artstation.com/)               | no            | no          | art blogging        |
+| [DeviantArt](https://deviantart.com/)               | no            | no          | art blogging        |
+| [Voat](https://voat.co/)                            | no            | yes         | aggregator          |
+| [Steemit](https://steemit.com/)                     | no            | yes         | aggregator          |
+| [Reddit](https://reddit.com/)                       | no            | no          | aggregator          |
+| [Disqus](https://disqus.com/)                       | no            | no          | forum               |
 
 ## Software Lists
 | Name / Link                                                                |
