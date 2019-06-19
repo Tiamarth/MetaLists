@@ -11,6 +11,7 @@ I have not tested every piece of software and every service listed here. If you 
 | Name / Link                                           | Alternatives to  |
 | ----------------------------------------------------- | ---------------- |
 | [Audio Metadata Editors](lists/audio_meta_editors.md) | Mp3tag           |
+| [Cloud Storage Services](lists/clouds.md)             | Google Drive     |
 | [Dictionaries](lists/dictionaries.md)                 | Dictionary.com   |
 | [Email Clients](lists/email_clients.md)               | Thunderbird      |
 | [Game Distribution Platforms](lists/game_distribs.md) | Steam            |
@@ -27,11 +28,6 @@ I have not tested every piece of software and every service listed here. If you 
 | [Video Sharing Platforms](lists/video_sharing.md)     | Youtube          |
 | [VoIPs](lists/voips.md)                               | Skype            |
 | [Web Browsers](lists/web_browsers.md)                 | Google Chrome    |
-
-## In-Progress Lists
-| Name / Link                                           | Alternatives to  |
-| ----------------------------------------------------- | ---------------- |
-| [Cloud Storage Services](lists/clouds.md)             | Google Drive     |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
