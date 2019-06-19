@@ -1,127 +1,127 @@
 # Social Media
 | Name / Link                                         | Decentralized | Open Source | Type                |
 | --------------------------------------------------- | ------------- | ----------- | ------------------- |
-| [alloblak](https://alloblak.com/)                   | no            | yes         | networking          |
-| [Bookme.win](https://bookme.win/)                   | no            | yes         | networking          |
-| [Chaino](https://chaino.com/)                       | no            | no          | networking          |
-| [Cygo](https://cygo.network/)                       | no            | yes         | networking          |
-| [Diaspora](https://diasporafoundation.org/)         | yes           | yes         | networking          |
-| [e-Sathi](https://www.e-sathi.com/)                 | no            | no          | networking          |
-| [Facebook](https://www.facebook.com/)               | no            | no          | networking          |
-| [FineFriends](https://finefriends.nl/)              | no            | no          | networking          |
-| [Friend Xone](https://friendxone.com/)              | no            | no          | networking          |
-| [Friendica](https://friendi.ca/)                    | yes           | yes         | networking          |
-| [Friendio](https://friend.io/)                      | no            | no          | networking          |
-| [FutureNet](https://futurenet.club/)                | no            | no          | networking          |
-| [heypster](https://heypster.com/)                   | no            | no          | networking          |
-| [HumHub](https://www.humhub.org/en)                 | yes           | yes         | networking          |
-| [Idka](https://idka.com/)                           | no            | no          | networking          |
-| [Kweknet](https://kweknet.com/)                     | no            | no          | networking          |
-| [MeWe](https://mewe.com/)                           | no            | no          | networking          |
 | [Minds](https://www.minds.com/)                     | yes           | yes         | networking          |
 | [Movim](https://movim.eu/)                          | yes           | yes         | networking          |
-| [NewTimeBox](http://newtimebox.com/)                | no            | no          | networking          |
-| [Openbook](https://openbook.social/)                | no            | yes         | networking          |
 | [Osada](http://zotlabs.com/osada/)                  | yes           | yes         | networking          |
-| [Quup](http://quup.com/)                            | no            | no          | networking          |
-| [Sebangsa](https://sebangsa.com/)                   | no            | no          | networking          |
-| [Sphere Social](https://sphere.social/)             | no            | no          | networking          |
-| [Tastebuds](https://tastebuds.fm/)                  | no            | no          | networking          |
-| [Tribyo](https://tribyo.com/)                       | no            | no          | networking          |
+| [HumHub](https://www.humhub.org/en)                 | yes           | yes         | networking          |
+| [Diaspora](https://diasporafoundation.org/)         | yes           | yes         | networking          |
+| [Friendica](https://friendi.ca/)                    | yes           | yes         | networking          |
+| [Cygo](https://cygo.network/)                       | no            | yes         | networking          |
+| [alloblak](https://alloblak.com/)                   | no            | yes         | networking          |
+| [Openbook](https://openbook.social/)                | no            | yes         | networking          |
+| [Bookme.win](https://bookme.win/)                   | no            | yes         | networking          |
 | [VK](https://vk.com/)                               | no            | no          | networking          |
+| [Idka](https://idka.com/)                           | no            | no          | networking          |
+| [MeWe](https://mewe.com/)                           | no            | no          | networking          |
+| [Quup](http://quup.com/)                            | no            | no          | networking          |
+| [Chaino](https://chaino.com/)                       | no            | no          | networking          |
+| [Tribyo](https://tribyo.com/)                       | no            | no          | networking          |
 | [Woddal](https://woddal.com/)                       | no            | no          | networking          |
-| [Gamer World](http://gamerworld.co/)                | no            | no          | gamer networking    |
+| [e-Sathi](https://www.e-sathi.com/)                 | no            | no          | networking          |
+| [Kweknet](https://kweknet.com/)                     | no            | no          | networking          |
+| [Facebook](https://www.facebook.com/)               | no            | no          | networking          |
+| [Friendio](https://friend.io/)                      | no            | no          | networking          |
+| [heypster](https://heypster.com/)                   | no            | no          | networking          |
+| [Sebangsa](https://sebangsa.com/)                   | no            | no          | networking          |
+| [FutureNet](https://futurenet.club/)                | no            | no          | networking          |
+| [Tastebuds](https://tastebuds.fm/)                  | no            | no          | networking          |
+| [NewTimeBox](http://newtimebox.com/)                | no            | no          | networking          |
+| [FineFriends](https://finefriends.nl/)              | no            | no          | networking          |
+| [Friend Xone](https://friendxone.com/)              | no            | no          | networking          |
+| [Sphere Social](https://sphere.social/)             | no            | no          | networking          |
 | [Steam](https://steamcommunity.com/)                | no            | no          | gamer networking    |
-| [Across The Globe](https://atg.world/)              | no            | no          | business networking |
+| [Gamer World](http://gamerworld.co/)                | no            | no          | gamer networking    |
+| [vutuv](https://vutuv.de/)                          | no            | yes         | business networking |
 | [BEAM](https://beam.biz/)                           | no            | no          | business networking |
-| [Dev Community](https://dev.to/)                    | no            | no          | business networking |
-| [Good&Co](https://good.co/)                         | no            | no          | business networking |
-| [Hoverboard](http://hoverboard.io/)                 | no            | no          | business networking |
+| [XING](https://xing.com/)                           | no            | no          | business networking |
+| [Sumry](https://sumry.me/)                          | no            | no          | business networking |
 | [inploi](https://inploi.com/)                       | no            | no          | business networking |
+| [Viadeo](http://us.viadeo.com/)                     | no            | no          | business networking |
+| [Good&Co](https://good.co/)                         | no            | no          | business networking |
 | [LinkedIn](https://linkedin.com/)                   | no            | no          | business networking |
 | [Mentspot](https://mentspot.com/)                   | no            | no          | business networking |
-| [NetProReferral](https://netproreferral.com/)       | no            | no          | business networking |
+| [Hoverboard](http://hoverboard.io/)                 | no            | no          | business networking |
 | [SpringBoardr](http://springboardr.com/)            | no            | no          | business networking |
-| [Sumry](https://sumry.me/)                          | no            | no          | business networking |
+| [Dev Community](https://dev.to/)                    | no            | no          | business networking |
+| [NetProReferral](https://netproreferral.com/)       | no            | no          | business networking |
+| [Across The Globe](https://atg.world/)              | no            | no          | business networking |
 | [The Freelancer Club](https://freelancerclub.net/)  | no            | no          | business networking |
-| [Viadeo](http://us.viadeo.com/)                     | no            | no          | business networking |
-| [vutuv](https://vutuv.de/)                          | no            | yes         | business networking |
-| [XING](https://xing.com/)                           | no            | no          | business networking |
-| [Blogger](https://blogger.com/)                     | no            | no          | blogging            |
-| [Cent](https://beta.cent.co/)                       | no            | no          | blogging            |
-| [Diary Earth](http://diaryearth.com/)               | no            | no          | blogging            |
-| [Ghost](https://ghost.org/)                         | no            | yes         | blogging            |
-| [Human Connection](https://human-connection.org/)   | no            | yes         | blogging            |
 | [Known](https://withknown.com/)                     | yes           | yes         | blogging            |
-| [LiveJournal](https://www.livejournal.com/)         | no            | no          | blogging            |
-| [Pillowfort](https://pillowfort.social/)            | no            | no          | blogging            |
 | [Plume](https://joinplu.me/)                        | yes           | yes         | blogging            |
-| [Postach.io](https://postach.io/)                   | no            | no          | blogging            |
-| [Qwerby](https://qwerby.com/)                       | no            | no          | blogging            |
-| [Skyrock](https://skyrock.com/)                     | no            | no          | blogging            |
-| [Tumblr](https://tumblr.com/)                       | no            | no          | blogging            |
-| [WordPress](https://wordpress.com/)                 | no            | yes         | blogging            |
-| [Write.as](https://write.as/)                       | no            | yes         | blogging            |
 | [WriteFreely](https://writefreely.org/)             | yes           | yes         | blogging            |
-| [Chttr](https://chttr.co/)                          | no            | no          | microblogging       |
+| [Ghost](https://ghost.org/)                         | no            | yes         | blogging            |
+| [Write.as](https://write.as/)                       | no            | yes         | blogging            |
+| [WordPress](https://wordpress.com/)                 | no            | yes         | blogging            |
+| [Human Connection](https://human-connection.org/)   | no            | yes         | blogging            |
+| [Cent](https://beta.cent.co/)                       | no            | no          | blogging            |
+| [Qwerby](https://qwerby.com/)                       | no            | no          | blogging            |
+| [Tumblr](https://tumblr.com/)                       | no            | no          | blogging            |
+| [Blogger](https://blogger.com/)                     | no            | no          | blogging            |
+| [Skyrock](https://skyrock.com/)                     | no            | no          | blogging            |
+| [Pillowfort](https://pillowfort.social/)            | no            | no          | blogging            |
+| [Postach.io](https://postach.io/)                   | no            | no          | blogging            |
+| [Diary Earth](http://diaryearth.com/)               | no            | no          | blogging            |
+| [LiveJournal](https://www.livejournal.com/)         | no            | no          | blogging            |
+| [ZeroMe](https://github.com/HelloZeroNet/ZeroMe)    | yes           | yes         | microblogging       |
+| [twister](http://twister.net.co/)                   | yes           | yes         | microblogging       |
+| [Mastodon](https://joinmastodon.org/)               | yes           | yes         | microblogging       |
+| [GNU Social](https://gnu.io/social/)                | yes           | yes         | microblogging       |
 | [DumDarac](https://dumdarac.com/)                   | no            | yes         | microblogging       |
 | [Gab](https://gab.com/)                             | no            | no          | microblogging       |
-| [GNU Social](https://gnu.io/social/)                | yes           | yes         | microblogging       |
-| [Mastodon](https://joinmastodon.org/)               | yes           | yes         | microblogging       |
+| [Toko](https://toko.tech/)                          | no            | no          | microblogging       |
+| [Chttr](https://chttr.co/)                          | no            | no          | microblogging       |
 | [Plurk](https://plurk.com/)                         | no            | no          | microblogging       |
 | [Subcafe](https://sub.cafe/)                        | no            | no          | microblogging       |
-| [Toko](https://toko.tech/)                          | no            | no          | microblogging       |
-| [twister](http://twister.net.co/)                   | yes           | yes         | microblogging       |
 | [Twitter](https://twitter.com/)                     | no            | no          | microblogging       |
-| [ZeroMe](https://github.com/HelloZeroNet/ZeroMe)    | yes           | yes         | microblogging       |
-| [Are.na](https://are.na/)                           | no            | no          | art blogging        |
-| [ArtWeen](https://artween.com/)                     | no            | no          | art blogging        |
-| [DeviantArt](https://deviantart.com/)               | no            | no          | art blogging        |
-| [Doodle Addicts](https://doodleaddicts.com/)        | no            | no          | art blogging        |
 | [Ello](https://ello.co/)                            | no            | no          | art blogging        |
-| [Logamp](https://logamp.com/)                       | no            | no          | art blogging        |
-| [PaintBerri](https://paintberri.com/)               | no            | no          | art blogging        |
+| [Wysp](https://www.wysp.ws/)                        | no            | no          | art blogging        |
+| [Imgur](https://imgur.com/)                         | no            | no          | art blogging        |
+| [pixiv](https://pixiv.net/)                         | no            | no          | art blogging        |
 | [Worka](https://worka.io/)                          | no            | no          | art blogging        |
+| [Are.na](https://are.na/)                           | no            | no          | art blogging        |
+| [Logamp](https://logamp.com/)                       | no            | no          | art blogging        |
 | [Zerply](https://zerply.com/)                       | no            | no          | art blogging        |
+| [ArtWeen](https://artween.com/)                     | no            | no          | art blogging        |
+| [Behance](https://behance.net/)                     | no            | no          | art blogging        |
+| [ArtStation](https://artstation.com/)               | no            | no          | art blogging        |
+| [DeviantArt](https://deviantart.com/)               | no            | no          | art blogging        |
+| [PaintBerri](https://paintberri.com/)               | no            | no          | art blogging        |
+| [Doodle Addicts](https://doodleaddicts.com/)        | no            | no          | art blogging        |
+| [Voat](https://voat.co/)                            | no            | yes         | aggregator          |
 | [Golos](https://golos.io/)                          | no            | yes         | aggregator          |
-| [Hacker News](https://news.ycombinator.com/)        | no            | no          | aggregator          |
-| [Hubski](http://hubski.com/)                        | no            | no          | aggregator          |
-| [Narrative](https://narrative.org/)                 | no            | no          | aggregator          |
-| [Phuks](https://phuks.co/)                          | no            | no          | aggregator          |
 | [Prismo](https://prismo.xyz/)                       | no            | yes         | aggregator          |
 | [Raddle](https://raddle.me/)                        | no            | yes         | aggregator          |
-| [Reddit](https://reddit.com/)                       | no            | no          | aggregator          |
-| [Saidit.net](https://saidit.net/)                   | no            | yes         | aggregator          |
 | [Steemit](https://steemit.com/)                     | no            | yes         | aggregator          |
-| [Voat](https://voat.co/)                            | no            | yes         | aggregator          |
+| [Saidit.net](https://saidit.net/)                   | no            | yes         | aggregator          |
 | [WEKU](https://main.weku.io/)                       | no            | no          | aggregator          |
+| [Phuks](https://phuks.co/)                          | no            | no          | aggregator          |
+| [Hubski](http://hubski.com/)                        | no            | no          | aggregator          |
+| [Reddit](https://reddit.com/)                       | no            | no          | aggregator          |
+| [Narrative](https://narrative.org/)                 | no            | no          | aggregator          |
+| [Hacker News](https://news.ycombinator.com/)        | no            | no          | aggregator          |
 | [4chan](https://4chan.org/)                         | no            | no          | forum               |
-| [Disqus](https://disqus.com/)                       | no            | no          | forum               |
 | [Heimo](https://heimo.co/)                          | no            | no          | forum               |
+| [Disqus](https://disqus.com/)                       | no            | no          | forum               |
 | [Similar Worlds](https://similarworlds.com/)        | no            | no          | forum               |
 | [Badoo](https://badoo.com/)                         | no            | no          | dating              |
-| [BlackPeopleMeet.com](https://blackpeoplemeet.com/) | no            | no          | dating              |
+| [Flirt](https://flirt.com/)                         | no            | no          | dating              |
+| [Match](https://match.com/)                         | no            | no          | dating              |
+| [Zoosk](https://zoosk.com/)                         | no            | no          | dating              |
+| [MeetMe](https://meetme.com/)                       | no            | no          | dating              |
 | [Bristlr](http://bristlr.com/)                      | no            | no          | dating              |
-| [Coffee Meets Bagel](https://coffeemeetsbagel.com/) | no            | no          | dating              |
+| [LuvFree](https://luvfree.com/)                     | no            | no          | dating              |
+| [OkCupid](https://okcupid.com/)                     | no            | no          | dating              |
 | [eHarmony](https://eharmony.com/)                   | no            | no          | dating              |
 | [Findmate](https://findmate.app/)                   | no            | no          | dating              |
 | [Fling.me](https://fling.me/)                       | no            | no          | dating              |
-| [Flirt](https://flirt.com/)                         | no            | no          | dating              |
-| [Lavalife.com](http://lavalife.com/)                | no            | no          | dating              |
-| [LuvFree](https://luvfree.com/)                     | no            | no          | dating              |
-| [Match](https://match.com/)                         | no            | no          | dating              |
-| [MeetMe](https://meetme.com/)                       | no            | no          | dating              |
-| [Oasis Active](https://www.oasisactive.com/)        | no            | no          | dating              |
-| [OkCupid](https://okcupid.com/)                     | no            | no          | dating              |
-| [Plenty of Fish](https://pof.com/)                  | no            | no          | dating              |
 | [UberFaces](https://uberfaces.com/)                 | no            | no          | dating              |
 | [Zodiac-Date](https://zodiac-date.com/)             | no            | no          | dating              |
-| [Zoosk](https://zoosk.com/)                         | no            | no          | dating              |
-| [ArtStation](https://artstation.com/)               | no            | no          | art blogging        |
-| [Behance](https://behance.net/)                     | no            | no          | art blogging        |
-| [pixiv](https://pixiv.net/)                         | no            | no          | art blogging        |
-| [Wysp](https://www.wysp.ws/)                        | no            | no          | art blogging        |
-| [Imgur](https://imgur.com/)                         | no            | no          | art blogging        |
+| [Lavalife.com](http://lavalife.com/)                | no            | no          | dating              |
+| [Oasis Active](https://www.oasisactive.com/)        | no            | no          | dating              |
+| [Plenty of Fish](https://pof.com/)                  | no            | no          | dating              |
+| [Coffee Meets Bagel](https://coffeemeetsbagel.com/) | no            | no          | dating              |
+| [BlackPeopleMeet.com](https://blackpeoplemeet.com/) | no            | no          | dating              |
 
 ## FAQ
 preemptive responses to likely faq:
