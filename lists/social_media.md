@@ -91,13 +91,13 @@
 | [UberFaces](https://uberfaces.com/)                 | no            | no          | dating              |
 | [Zodiac-Date](https://zodiac-date.com/)             | no            | no          | dating              |
 | [Zoosk](https://zoosk.com/)                         | no            | no          | dating              |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
+| [Diary Earth](http://diaryearth.com/)               | no            | no          | blogging            |
+| [Mentspot](https://mentspot.com/)                   | no            | no          | business networking |
+| [Worka](https://worka.io/)                          | no            | no          | art blogging        |
+| [PaintBerri](https://paintberri.com/)               | no            | no          | art blogging        |
+| [Phuks](https://phuks.co/)                          | no            | no          | aggregator          |
+| [NewTimeBox](http://newtimebox.com/)                | no            | no          | networking          |
+| [NetProReferral](https://netproreferral.com/)       | no            | no          | business networking |
 | []() |               |             |                     |
 | []() |               |             |                     |
 | []() |               |             |                     |
