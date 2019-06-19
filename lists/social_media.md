@@ -117,45 +117,11 @@
 | [UberFaces](https://uberfaces.com/)                 | no            | no          | dating              |
 | [Zodiac-Date](https://zodiac-date.com/)             | no            | no          | dating              |
 | [Zoosk](https://zoosk.com/)                         | no            | no          | dating              |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
+| [ArtStation](https://artstation.com/)               | no            | no          | art blogging        |
+| [Behance](https://behance.net/)                     | no            | no          | art blogging        |
+| [pixiv](https://pixiv.net/)                         | no            | no          | art blogging        |
+| [Wysp](https://www.wysp.ws/)                        | no            | no          | art blogging        |
+| [Imgur](https://imgur.com/)                         | no            | no          | art blogging        |
 
 ## FAQ
 preemptive responses to likely faq:
