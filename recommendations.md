@@ -8,6 +8,17 @@ These are all programs, apps, and services that I personally use, have used in t
 | [MusicBrainz Picard](https://picard.musicbrainz.org/)                 | yes   | yes         |
 | [Mp3tag](https://www.mp3tag.de/)                                      | no    | no          |
 
+## Cloud Storage Servcices
+| Name / Link                                                   | Dev Status   | Desktop Client | Linux client | Self-hosted | Open Source | Free Size |
+| ------------------------------------------------------------- | ------------ | -------------- | ------------ | ----------- | ----------- | --------- |
+| [MEGA](https://mega.nz/)                                      | active       | yes            | yes          | no          | yes         | 50 GB     |
+| [Dropbox](https://dropbox.com/)                               | active       | yes            | yes          | no          | no          | 2 GB      |
+| [MediaFire](https://mediafire.com/)                           | active       | no             | no           | no          | no          | 50 GB     |
+| [Google Drive](https://drive.google.com)                      | active       | yes            | no           | no          | no          | 15 GB     |
+| [Yandex Disk](https://disk.yandex.com/)                       | active       | yes            | no           | no          | no          | 10 GB     |
+| [Amazon Drive](https://amazon.com/clouddrive)                 | active       | yes            | no           | no          | no          | 5 GB      |
+| [Microsoft OneDrive](https://onedrive.live.com/)              | active       | yes            | no           | no          | no          | 5 GB      |
+
 ## Dictionaries
 | Name / Link                                              | Web Client | Open Source |
 | -------------------------------------------------------- | ---------- | ----------- |
