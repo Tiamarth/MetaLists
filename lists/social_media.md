@@ -24,7 +24,7 @@
 | [Tribyo](https://tribyo.com/)                       | no            | no          | networking          |
 | [VK](https://vk.com/)                               | no            | no          | networking          |
 | [Woddal](https://woddal.com/)                       | no            | no          | networking          |
-| [XING](https://xing.com/)                           | no            | no          | networking          |
+| [XING](https://xing.com/)                           | no            | no          | business networking |
 | [Viadeo](http://us.viadeo.com/)                     | no            | no          | business networking |
 | [Across The Globe](https://atg.world/)              | no            | no          | business networking |
 | [Dev Community](https://dev.to/)                    | no            | no          | business networking |
@@ -102,21 +102,21 @@
 | [Doodle Addicts](https://doodleaddicts.com/)        | no            | no          | art blogging        |
 | [inploi](https://inploi.com/)                       | no            | no          | business networking |
 | [BEAM](https://beam.biz/)                           | no            | no          | business networking |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
-| []() |               |             |                     |
+| [Good&Co](https://good.co/)                         | no            | no          | business networking |
+| [Sumry](https://sumry.me/)                          | no            | no          | business networking |
+| [Zerply](https://zerply.com/)                       | no            | no          | art blogging        |
+| [The Freelancer Club](https://freelancerclub.net/)  | no            | no          | business networking |
+| [Kweknet](https://kweknet.com/)                     | no            | no          | networking          |
+| [FutureNet](https://futurenet.club/)                | no            | no          | networking          |
+| [Sebangsa](https://sebangsa.com/)                   | no            | no          | networking          |
+| [Subcafe](https://sub.cafe/)                        | no            | no          | microblogging       |
+| [heypster](https://heypster.com/)                   | no            | no          | networking          |
+| [Cent](https://beta.cent.co/)                       | no            | no          | blogging            |
+| [Hacker News](https://news.ycombinator.com/)        | no            | no          | aggregator          |
+| [Tastebuds](https://tastebuds.fm/)                  | no            | no          | networking          |
+| [Oasis Active](https://www.oasisactive.com/)        | no            | no          | dating              |
+| [Steam](https://steamcommunity.com/)                | no            | no          | gamer networking    |
+| [Gamer World](http://gamerworld.co/)                | no            | no          | gamer networking    |
 | []() |               |             |                     |
 | []() |               |             |                     |
 | []() |               |             |                     |
