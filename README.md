@@ -37,6 +37,7 @@ I have not tested every piece of software and every service listed here. If you 
 | Name / Link               | Alternatives to       |
 | ------------------------- | --------------------- |
 | Audio Editors             | Audacity              |
+| Image Editors             | Photoshop             |
 | Media Players             | Windows Media Player  |
 | Music Sharing Platforms   | Soundcloud            |
 | Online Stores             | Amazon                |
