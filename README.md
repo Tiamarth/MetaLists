@@ -8,31 +8,31 @@ Generally, I will only list software that is still available for download from o
 I have not tested every piece of software and every service listed here. If you find malware, adware, or any other form of malicious software or service listed here, please remove it and submit a pull request, create an issue, or otherwise get in touch with me so that I can remove it.
 
 ## Current Lists
-| Name / Link                                           | Alternatives to  |
-| ----------------------------------------------------- | ---------------- |
-| [Audio Metadata Editors](lists/audio_meta_editors.md) | Mp3tag           |
-| [Cloud Storage Services](lists/clouds.md)             | Google Drive     |
-| [Dictionaries](lists/dictionaries.md)                 | Dictionary.com   |
-| [Email Clients](lists/email_clients.md)               | Thunderbird      |
-| [Game Distribution Platforms](lists/game_distribs.md) | Steam            |
-| [Game Library Managers](lists/game_libraries.md)      | Steam            |
-| [Music Library Managers](lists/music_libraries.md)    | MediaMonkey      |
-| [Music Players](lists/music_players.md)               | Groove           |
-| [Office Suites](lists/office_suites.md)               | Microsoft Office |
-| [Search Engines](lists/search_engines.md)             | Google           |
-| [Social Media](lists/social_media.md)                 | Facebook         |
-| [Software Lists](lists/software_lists.md)             | AlternativeTo    |
-| [Sound Generators](lists/sound_gens.md)               | myNoise          |
-| [Text Editors](lists/text_editors.md)                 | Notepad          |
-| [Video Editors](lists/video_editors.md)               | Adobe Premiere   |
-| [Video Sharing Platforms](lists/video_sharing.md)     | Youtube          |
-| [VoIPs](lists/voips.md)                               | Skype            |
-| [Web Browsers](lists/web_browsers.md)                 | Google Chrome    |
+| Name / Link                                                         | Alternatives to                  |
+| ------------------------------------------------------------------- | -------------------------------- |
+| [Audio Metadata Editors](lists/audio_meta_editors.md)               | Mp3tag                           |
+| [Cloud Storage Services](lists/clouds.md)                           | Google Drive and Dropbox         |
+| [Dictionaries](lists/dictionaries.md)                               | Dictionary.com                   |
+| [Email Clients](lists/email_clients.md)                             | Thunderbird                      |
+| [Game Distribution Platforms](lists/game_distribs.md)               | Steam, Epic, and GOG             |
+| [Game Library Managers](lists/game_libraries.md)                    | Steam                            |
+| [Music Library Managers](lists/music_libraries.md)                  | MediaMonkey                      |
+| [Music Players](lists/music_players.md)                             | Groove                           |
+| [Office Suites](lists/office_suites.md)                             | Microsoft Office and LibreOffice |
+| [Search Engines](lists/search_engines.md)                           | Google                           |
+| [Social Media](lists/social_media.md)                               | Facebook and Twitter             |
+| [Software Lists](lists/software_lists.md)                           | AlternativeTo                    |
+| [Sound Generators](lists/sound_gens.md)                             | myNoise                          |
+| [Text Editors](lists/text_editors.md)                               | Notepad                          |
+| [Video Editors](lists/video_editors.md)                             | Adobe Premiere                   |
+| [Video Sharing Platforms](lists/video_sharing.md)                   | Youtube                          |
+| [VoIPs](lists/voips.md)                                             | Skype and Discord                |
+| [Web Browsers](lists/web_browsers.md)                               | Google Chrome and Firefox        |
 
 ## In-progress lists
-| Name / Link                                           | Alternatives to  |
-| ----------------------------------------------------- | ---------------- |
-| [Audio Editors](lists/audio_editors.md)                     | Audacity         |
+| Name / Link                                                         | Alternatives to                  |
+| ------------------------------------------------------------------- | -------------------------------- |
+| [Audio Editors and Music Production Suites](lists/audio_editors.md) | Audacity and FruityLoops         |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
