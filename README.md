@@ -29,10 +29,14 @@ I have not tested every piece of software and every service listed here. If you 
 | [VoIPs](lists/voips.md)                               | Skype            |
 | [Web Browsers](lists/web_browsers.md)                 | Google Chrome    |
 
+## In-progress lists
+| Name / Link                                           | Alternatives to  |
+| ----------------------------------------------------- | ---------------- |
+| [Audio Editors](audio_editors.md)                     | Audacity         |
+
 ## Planned Lists
 | Name / Link               | Alternatives to       |
 | ------------------------- | --------------------- |
-| Audio Editors             | Audacity              |
 | GitHub Desktop Clients    | GitHub Desktop        |
 | Image Editors             | Photoshop             |
 | Image Hosting Platforms   | Imgur                 |
