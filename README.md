@@ -32,7 +32,7 @@ I have not tested every piece of software and every service listed here. If you 
 ## In-progress lists
 | Name / Link                                           | Alternatives to  |
 | ----------------------------------------------------- | ---------------- |
-| [Audio Editors](audio_editors.md)                     | Audacity         |
+| [Audio Editors](lists/audio_editors.md)                     | Audacity         |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
