@@ -45,12 +45,13 @@
 | [cmus](https://cmus.github.io/)                                                                          | active             | yes         | yes                                                    | no    | cli             |
 | [Herrie](https://github.com/EdSchouten/herrie)                                                           | dormant            | yes         | yes                                                    | no    | cli             |
 | [npshell](https://github.com/joelpurra/npshell)                                                          | active             | yes         | yes                                                    | no    | cli             |
-| [1by1](http://mpesch3.de1.cc/1by1.html)                                                                  | unclear            | no          | no                                                     | no    | gui             |
 | [whistle](https://github.com/ap0calypse/whistle)                                                         | discontinued       | yes         | yes                                                    | no    | cli             |
 | [pianobar](https://6xq.net/pianobar/)                                                                    | active             | yes         | yes                                                    | no    | cli             |
 | [Cog](http://cogx.org/)                                                                                  | discontinued       | yes         | no                                                     | no    | gui             |
+| [1by1](http://mpesch3.de1.cc/1by1.html)                                                                  | unclear            | no          | no                                                     | no    | gui             |
 | [AIMP](http://www.aimp.ru/)                                                                              | active             | yes         | no                                                     | no    | gui             |
 | [Winyl](https://github.com/winyl-player/winyl)                                                           | active             | yes         | no                                                     | no    | gui             |
+| [Bluejay](http://bluejay.site/)                                                                          | unclear            | no          | no                                                     | no    | gui             |
 | [Stellio](http://stellio.ru/en/)                                                                         | active             | no          | no                                                     | no    | gui             |
 | [5KPlayer](https://www.5kplayer.com/)                                                                    | active             | no          | no                                                     | no    | gui             |
 | [Dopamine](http://www.digimezzo.com/software/dopamine/)                                                  | active             | yes         | no                                                     | no    | gui             |
@@ -84,3 +85,29 @@ Preemptive responses to likely FAQs:
 
 **Why aren't VLC, WMP, or (insert some other popular media player) on this list?**  
 *This is a list of music players,* and those are media players. Media players are capable of playing video files as well as audio files. Music players are strictly capable of playing audio files. There will be a list for media players in this repo at some point in the future.
+
+## Data
+music players: 66
+
+**Development status**  
+deprecated: 1  
+dormant: 1  
+unclear: 3  
+discontinued: 17  
+active: 44
+
+**License**  
+open source: 46  
+proprietary: 20
+
+**Linux support**  
+supports linux: 47  
+does not support linux: 19
+
+**mpris support**  
+has mpris support: 22  
+does not have mpris support: 44
+
+**Interface style**  
+gui: 60  
+cli: 6
