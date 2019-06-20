@@ -1,4 +1,4 @@
-# Audio Editors
+# Audio Editors and Music Production Suites
 | Name / Link                                                           | Open Source | Linux | Web Client |
 | --------------------------------------------------------------------- | ----------- | ----- | ---------- |
 | [Audacity](https://www.audacityteam.org/)                             | yes         | yes   | no         |
@@ -27,15 +27,15 @@
 | [Acoustica](https://acondigital.com/products/acoustica-audio-editor/) | no          | no    | no         |
 | [Sodaphonic](https://sodaphonic.com/)                                 | no          | no    | yes        |
 | [Leapic](http://www.leapic.com/audio-editor.htm)                      | no          | no    | no         |
-| []() |             |       |            |
-| []() |             |       |            |
-| []() |             |       |            |
-| []() |             |       |            |
-| []() |             |       |            |
-| []() |             |       |            |
-| []() |             |       |            |
-| []() |             |       |            |
-| []() |             |       |            |
+| [WaveShop](http://waveshop.sourceforge.net/)                          | yes         | no    | no         |
+| [Wavosaur](https://www.wavosaur.com/)                                 | no          | no    | no         |
+| [GoldWave](http://www.goldwave.com/)                                  | no          | no    | no         |
+| [Cakewalk](https://www.bandlab.com/products/cakewalk)                 | no          | no    | no         |
+| [Radium](http://users.notam02.no/~kjetism/radium/)                    | yes         | yes   | no         |
+| [LMMS](https://lmms.io/)                                              | yes         | yes   | no         |
+| [Traverso-DAW](https://traverso-daw.org/)                             | yes         | yes   | no         |
+| [Frinika](http://www.frinika.com/)                                    | yes         | yes   | no         |
+| [AudioDope](http://www.audiodope.org/)                                | no          | no    | no         |
 | []() |             |       |            |
 | []() |             |       |            |
 | []() |             |       |            |
