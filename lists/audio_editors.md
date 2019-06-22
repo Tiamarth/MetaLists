@@ -50,3 +50,18 @@
 | [Dexster Audio Editor](https://www.softdivshareware.com/audioeditor.html)             | no          | no    | no         |
 | [felt tip Sound Studio](http://www.felttip.com/ss/)                                   | no          | no    | no         |
 | [MOTU Digital Performer](http://motu.com/products/software/dp/)                       | no          | no    | no         |
+
+## Data
+audio editors and music production suites: 49
+
+**License**  
+open source: 11  
+proprietary: 38
+
+**Linux Support**  
+has linux support: 10  
+does not have linux support: 39
+
+**Web Client**  
+has a web client: 3  
+does not have a web client: 46
