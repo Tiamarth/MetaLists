@@ -26,3 +26,18 @@ Alexa is available on Windows [from the Windows store](https://www.microsoft.com
 Cortana is Microsoft's digital assistant and is shipped with their latest operating system, Windows 10. In addition to the other platforms listed above, she's also available in Microsoft's flagship Cortana devices, [Invoke.](https://www.microsoft.com/en-us/p/harman-kardon-invoke-with-cortana-by-microsoft/8rl7xlnwn95v)
 
 Google Assistant is Google's digital assistant and is shipped with their phones and tablets. She's also available on iOS and in Lenovo's [Smart Clock](https://www.lenovo.com/us/en/smart-clock) and Google's [Nest Cam IQ.](https://store.google.com/us/product/nest_cam_iq?hl=en-US&GoogleNest&gclid=EAIaIQobChMIy6Lz3afa3gIViKDsCh1bjQPEEAAYASAAEgJhTvD_BwE&gclsrc=aw.ds)
+
+## Data  
+digital assistants: 10
+
+**License**  
+open source: 2  
+proprietary: 8
+
+**Platform support**  
+mac support: 1  
+linux support: 3  
+windows support: 4  
+will eventually have windows support: 1  
+ios support: 5  
+android support: 8
