@@ -1,0 +1,13 @@
+# Digital Assistants
+| Name / Link                                                                           | Open Source | Linux | Windows | Mac | Android | iOS |
+| ------------------------------------------------------------------------------------- | ----------- | ----- | ------- | --- | ------- | --- |
+| [Cortana](https://www.microsoft.com/en-us/cortana)                                    | no          | no    | yes     | no  | yes     | yes |
+| [Siri](https://www.apple.com/siri/)                                                   | no          | no    | no      | yes | no      | yes |
+| [Google Assistant](https://assistant.google.com/)                                     | no          | no    | no      | no  | yes     | yes |
+| [Mycroft AI](https://mycroft.ai/)                                                     | yes         | yes   | yes     | no  | yes     | no  |
+| [Braina](https://www.brainasoft.com/braina/)                                          | no          | no    | yes     | no  | yes     | yes |
+| [Hound](https://www.soundhound.com/hound)                                             | no          | no    | no      | no  | yes     | yes |
+| [Bixby](https://samsung.com/global/galaxy/apps/bixby/)                                | no          | no    | no      | no  | yes     | no  |
+| [Alexa](https://www.amazon.com/dp/B00P03D4D2/ref=cm_sw_em_r_mt_dp_U_wgUjDbKKF58ET)    | no          | no    | yes     | no  | yes     | no  |
+| [Dragonfire](http://dragon.computer/#dragonfire)                                      | yes         | yes   | no      | no  | yes     | no  |
+| [Alice](https://alice.yandex.ru/)                                                     | no          | yes^1 | yes     | no  | no      | no  |
