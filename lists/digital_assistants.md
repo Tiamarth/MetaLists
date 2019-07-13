@@ -1,41 +1,41 @@
 # Digital Assistants
-| Name / Link                                                                        | Dev Status | Open Source | Self-hosted | Linux | Windows | Mac | Android | iOS |
-| ---------------------------------------------------------------------------------- | ---------- | ----------- | ----------- | ----- | ------- | --- | ------- | --- |
-| [Dragonfire](http://dragon.computer/#dragonfire)                                   | active     | yes         | no          | yes   | no      | no  | yes     | no  |
-| [Mycroft AI](https://mycroft.ai/)                                                  | active     | yes         | optionally  | yes   | soon    | no  | yes     | no  |
-| [Alice](https://alice.yandex.ru/)                                                  | active     | no          | no          | yes   | yes     | no  | no      | no  |
-| [Siri](https://www.apple.com/siri/)                                                | active     | no          | no          | no    | no      | yes | no      | yes |
-| [Alexa](https://www.amazon.com/dp/B00P03D4D2/ref=cm_sw_em_r_mt_dp_U_wgUjDbKKF58ET) | active     | no          | no          | no    | yes     | no  | yes     | no  |
-| [Bixby](https://samsung.com/global/galaxy/apps/bixby/)                             | active     | no          | no          | no    | no      | no  | yes     | yes |
-| [Hound](https://www.soundhound.com/hound)                                          | active     | no          | no          | no    | no      | no  | yes     | yes |
-| [Braina](https://www.brainasoft.com/braina/)                                       | unclear    | no          | no          | no    | yes     | no  | yes     | yes |
-| [Cortana](https://www.microsoft.com/en-us/cortana)                                 | active     | no          | no          | no    | yes     | no  | yes     | yes |
-| [Google Assistant](https://assistant.google.com/)                                  | active     | no          | no          | no    | no      | no  | yes     | yes |
-| [Robin](https://play.google.com/store/apps/details?id=com.magnifis.parking)        | active     | no          | no          | no    | no      | no  | yes     | no  |
-| [Lyra](https://www.heylyra.com/)                                                   | active     | no          | no          | no    | no      | no  | yes     | yes |
-| [Snips](https://snips.ai/)                                                         | unclear    | no          | yes         | yes   | yes     | yes | yes     | yes |
-| [Bestee](https://heybestee.com/)                                                   | active     | no          | no          | no    | no      | no  | yes     | no  |
-| [Vokul](http://vokulnation.com/)                                                   | unclear    | no          | no          | no    | no      | no  | no      | yes |
-| [SYN](https://vaframework.com/)                                                    | unclear    | no          | unclear     | no    | yes     | no  | no      | no  |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
-| []() |            |             |             |       |         |     |         |     |
+| Name / Link                                                                        | Dev Status   | Open Source | Self-hosted | Linux | Windows | Mac | Android | iOS |
+| ---------------------------------------------------------------------------------- | ------------ | ----------- | ----------- | ----- | ------- | --- | ------- | --- |
+| [Dragonfire](http://dragon.computer/#dragonfire)                                   | active       | yes         | no          | yes   | no      | no  | yes     | no  |
+| [Mycroft AI](https://mycroft.ai/)                                                  | active       | yes         | optionally  | yes   | soon    | no  | yes     | no  |
+| [Alice](https://alice.yandex.ru/)                                                  | active       | no          | no          | yes   | yes     | no  | no      | no  |
+| [Siri](https://www.apple.com/siri/)                                                | active       | no          | no          | no    | no      | yes | no      | yes |
+| [Alexa](https://www.amazon.com/dp/B00P03D4D2/ref=cm_sw_em_r_mt_dp_U_wgUjDbKKF58ET) | active       | no          | no          | no    | yes     | no  | yes     | no  |
+| [Bixby](https://samsung.com/global/galaxy/apps/bixby/)                             | active       | no          | no          | no    | no      | no  | yes     | yes |
+| [Hound](https://www.soundhound.com/hound)                                          | active       | no          | no          | no    | no      | no  | yes     | yes |
+| [Braina](https://www.brainasoft.com/braina/)                                       | unclear      | no          | no          | no    | yes     | no  | yes     | yes |
+| [Cortana](https://www.microsoft.com/en-us/cortana)                                 | active       | no          | no          | no    | yes     | no  | yes     | yes |
+| [Google Assistant](https://assistant.google.com/)                                  | active       | no          | no          | no    | no      | no  | yes     | yes |
+| [Robin](https://play.google.com/store/apps/details?id=com.magnifis.parking)        | active       | no          | no          | no    | no      | no  | yes     | no  |
+| [Lyra](https://www.heylyra.com/)                                                   | active       | no          | no          | no    | no      | no  | yes     | yes |
+| [Snips](https://snips.ai/)                                                         | unclear      | no          | yes         | yes   | yes     | yes | yes     | yes |
+| [Bestee](https://heybestee.com/)                                                   | active       | no          | no          | no    | no      | no  | yes     | no  |
+| [Vokul](http://vokulnation.com/)                                                   | unclear      | no          | no          | no    | no      | no  | no      | yes |
+| [SYN](https://vaframework.com/)                                                    | unclear      | no          | unclear     | no    | yes     | no  | no      | no  |
+| [Saiy](https://github.com/brandall76/Saiy-PS)                                      | discontinued |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
+| []() |              |             |             |       |         |     |         |     |
 
 ## Note  
 This list is slightly different from the others here, in that it takes non-Linux platforms into account. This is because there aren't currently very many digital assistants out there, but they're a pretty cool technology, so I was interested in which platforms they're all available for. I find it very interesting, for instance, that the majority of these products are only available on mobile systems. I wonder why that might be. Perhaps because Siri was so popular, and only available on iPhone?
