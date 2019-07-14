@@ -33,7 +33,7 @@ I have not tested every piece of software and every service listed here. If you 
 ## In Progress Lists
 | Name / Link                                                         | Alternatives to                     |
 | ------------------------------------------------------------------- | ----------------------------------- |
-| [Digital Assistants](lists/digital_assistants.md)                   | Cortana, Siri, and Google Assistant |
+| [Virtual Assistants](lists/virtual_assistants.md)                   | Cortana, Siri, and Google Assistant |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |

@@ -1,4 +1,4 @@
-# Digital Assistants
+# Virtual Assistants
 | Name / Link                                                                        | Dev Status   | Open Source | Self-hosted | Linux | Windows | Mac | Android | iOS |
 | ---------------------------------------------------------------------------------- | ------------ | ----------- | ----------- | ----- | ------- | --- | ------- | --- |
 | [Dragonfire](http://dragon.computer/#dragonfire)                                   | active       | yes         | no          | yes   | no      | no  | yes     | no  |
@@ -21,8 +21,8 @@
 | [SEPIA](https://sepia-framework.github.io/)                                        | active       | yes         | yes         | yes   | yes     | yes | yes     | yes |
 | [Digital Assistant](https://www.adenin.com/digital-assistant/)                     | unclear      | no          | yes         | no    | yes     | no  | yes     | yes |
 | [Lucida](https://github.com/claritylab/lucida)                                     | discontinued | yes         | yes         | yes   | no      | no  | no      | no  |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
+| [Hey Athena](https://github.com/rcbyron/hey-athena-client)                         | discontinued | yes         | no          | yes   | yes     | yes | no      | no  |
+| [Kalliope](https://kalliope-project.github.io/)                                    | active       | yes         | yes         | yes   | no      | no  | no      | no  |
 | []() |              |             |             |       |         |     |         |     |
 | []() |              |             |             |       |         |     |         |     |
 | []() |              |             |             |       |         |     |         |     |
@@ -38,28 +38,26 @@
 | []() |              |             |             |       |         |     |         |     |
 
 ## Note  
-This list is slightly different from the others here, in that it takes non-Linux platforms into account. This is because there aren't currently very many digital assistants out there, but they're a pretty cool technology, so I was interested in which platforms they're all available for. I find it very interesting, for instance, that the majority of these products are only available on mobile systems. I wonder why that might be. Perhaps because Siri is so popular, and used to only be available on iPhone? SEPIA appears to be the only digital assistant that is "fully" cross-platform, with support for all of the major systems - and even with official support for ChromeOS.
+This list is slightly different from the others here, in that it takes non-Linux platforms into account. This is because there aren't currently very many virtual assistants out there, but they're a pretty cool technology, so I was interested in which platforms they're all available for. I find it very interesting, for instance, that the majority of these products are only available on mobile systems. I wonder why that might be. Perhaps because Siri is so popular, and used to only be available on iPhone? SEPIA appears to be the only virtual assistant that is "fully" cross-platform, with support for all of the major systems - and even with official support for ChromeOS.
 
-I am considering a digital assistant to be a virtual persona which can perform helpful tasks for you on command, such as, but not limited to: checking the weather, setting and giving alarms and reminders, taking notes, and searching the internet. The line can occasionally get a little fuzzy in some cases as this list includes software which is marketed as, and intended to function as, chat bots rather than as digital assistants. The chat bots listed here can do all of the above requirements and more, which means they are technically functionally no different from digital assistants and thus earn a place on this list.
+I am considering a virtual assistant to be a virtual persona which can perform helpful tasks for you on command, such as, but not limited to: checking the weather, setting and giving alarms and reminders, taking notes, and searching the internet. The line can occasionally get a little fuzzy in some cases as this list includes software which is marketed as, and intended to function as, chat bots rather than as virtual assistants. The chat bots listed here can do all of the above requirements and more, which means they are technically functionally no different from virtual assistants and thus earn a place on this list.
 
 Some of these, such as Cortana, Alexa, and Google Assistant, are also available on standalone devices made by their respective companies.
 
 Dragonfire is a part of a bigger project called [Dragon Helmet](http://dragon.computer/) which aims to provide an augmented reality experience which is very Iron Man-esque. Based on promotional material on their website, it seems like an open source Google Glass with a bigger display in a helmet. But Dragonfire is available independently of the helmet for Ubuntu and other Debian-based distros. They also plan to ship her with their own custom Linux distro, called DragonOS, which has not yet been released. Dragonfire is also available in the form of a [Twitter bot.](https://twitter.com/DragonfireAI)
 
-Mycroft is an open source and customizable digital assistant which comes with various optional voices.
-
-Alice is [Yandex's](https://yandex.com/) digital assistant. She's only available in Russian, and as far as I know is only available as an integrated feature in the [Yandex Browser.](https://browser.yandex.com/) I'm not positive that's true, but I don't speak Russian. The Yandex Browser is available on Windows and Linux, thus so is Alice.
+Alice is [Yandex's](https://yandex.com/) virtual assistant. She's only available in Russian, and as far as I know is only available as an integrated feature in the [Yandex Browser.](https://browser.yandex.com/) I'm not positive that's true, but I don't speak Russian. The Yandex Browser is available on Windows and Linux, thus so is Alice.
 
 Alexa is available on Windows [from the Windows store](https://www.microsoft.com/en-us/p/alexa/9n12z3cctcnz), but not on Linux or Mac. She's also available on Android [via the Google Play store,](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_US) and she's also available in Amazon's flagship Alexa devices, [Echo.](https://www.amazon.com/dp/B07456BG8N)
 
-Cortana is Microsoft's digital assistant and is shipped with their latest operating system, Windows 10. In addition to the other platforms listed above, she's also available in Microsoft's flagship Cortana devices, [Invoke.](https://www.microsoft.com/en-us/p/harman-kardon-invoke-with-cortana-by-microsoft/8rl7xlnwn95v)
+Cortana is Microsoft's virtual assistant and is shipped with their latest operating system, Windows 10. In addition to the other platforms listed above, she's also available in Microsoft's flagship Cortana devices, [Invoke.](https://www.microsoft.com/en-us/p/harman-kardon-invoke-with-cortana-by-microsoft/8rl7xlnwn95v)
 
-Google Assistant is Google's digital assistant and is shipped with their phones and tablets. She's also available on iOS and in Lenovo's [Smart Clock](https://www.lenovo.com/us/en/smart-clock) and Google's [Nest Cam IQ.](https://store.google.com/us/product/nest_cam_iq?hl=en-US&GoogleNest&gclid=EAIaIQobChMIy6Lz3afa3gIViKDsCh1bjQPEEAAYASAAEgJhTvD_BwE&gclsrc=aw.ds)
+Google Assistant is Google's virtual assistant and is shipped with their phones and tablets. She's also available on iOS and in Lenovo's [Smart Clock](https://www.lenovo.com/us/en/smart-clock) and Google's [Nest Cam IQ.](https://store.google.com/us/product/nest_cam_iq?hl=en-US&GoogleNest&gclid=EAIaIQobChMIy6Lz3afa3gIViKDsCh1bjQPEEAAYASAAEgJhTvD_BwE&gclsrc=aw.ds)
 
 Now let's have a moment of silence to remember the ancestors of these technologies - Clippy, Rover, and Bonzi Buddy. RIP, fellas.
 
 ## Data  
-digital assistants: 10
+virtual assistants: 10
 
 **License**  
 open source: 2  
