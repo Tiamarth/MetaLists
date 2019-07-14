@@ -1,31 +1,31 @@
 # Virtual Assistants
 | Name / Link                                                                        | Dev Status   | Open Source | Self-hosted | Linux | Windows | Mac | Android | iOS |
 | ---------------------------------------------------------------------------------- | ------------ | ----------- | ----------- | ----- | ------- | --- | ------- | --- |
+| [SEPIA](https://sepia-framework.github.io/)                                        | active       | yes         | yes         | yes   | yes     | yes | yes     | yes |
+| [Jasper](https://jasperproject.github.io/)                                         | discontinued | yes         | yes         | yes   | no      | no  | no      | no  |
+| [Lucida](https://github.com/claritylab/lucida)                                     | discontinued | yes         | yes         | yes   | no      | no  | no      | no  |
+| [Kalliope](https://kalliope-project.github.io/)                                    | active       | yes         | yes         | yes   | no      | no  | no      | no  |
 | [Dragonfire](http://dragon.computer/#dragonfire)                                   | active       | yes         | no          | yes   | no      | no  | yes     | no  |
+| [Hey Athena](https://github.com/rcbyron/hey-athena-client)                         | discontinued | yes         | no          | yes   | yes     | yes | no      | no  |
 | [Mycroft AI](https://mycroft.ai/)                                                  | active       | yes         | optionally  | yes   | soon    | no  | yes     | no  |
 | [Alice](https://alice.yandex.ru/)                                                  | active       | no          | no          | yes   | yes     | no  | no      | no  |
+| [Saiy](https://github.com/brandall76/Saiy-PS)                                      | discontinued | yes         | no          | no    | no      | no  | yes     | no  |
+| [SYN](https://vaframework.com/)                                                    | unclear      | no          | unclear     | no    | yes     | no  | no      | no  |
+| [Lyra](https://www.heylyra.com/)                                                   | active       | no          | no          | no    | no      | no  | yes     | yes |
 | [Siri](https://www.apple.com/siri/)                                                | active       | no          | no          | no    | no      | yes | no      | yes |
 | [Alexa](https://www.amazon.com/dp/B00P03D4D2/ref=cm_sw_em_r_mt_dp_U_wgUjDbKKF58ET) | active       | no          | no          | no    | yes     | no  | yes     | no  |
 | [Bixby](https://samsung.com/global/galaxy/apps/bixby/)                             | active       | no          | no          | no    | no      | no  | yes     | yes |
 | [Hound](https://www.soundhound.com/hound)                                          | active       | no          | no          | no    | no      | no  | yes     | yes |
+| [Robin](https://play.google.com/store/apps/details?id=com.magnifis.parking)        | active       | no          | no          | no    | no      | no  | yes     | no  |
+| [Snips](https://snips.ai/)                                                         | unclear      | no          | yes         | yes   | yes     | yes | yes     | yes |
+| [Vokul](http://vokulnation.com/)                                                   | unclear      | no          | no          | no    | no      | no  | no      | yes |
+| [Bestee](https://heybestee.com/)                                                   | active       | no          | no          | no    | no      | no  | yes     | no  |
 | [Braina](https://www.brainasoft.com/braina/)                                       | unclear      | no          | no          | no    | yes     | no  | yes     | yes |
 | [Cortana](https://www.microsoft.com/en-us/cortana)                                 | active       | no          | no          | no    | yes     | no  | yes     | yes |
-| [Google Assistant](https://assistant.google.com/)                                  | active       | no          | no          | no    | no      | no  | yes     | yes |
-| [Robin](https://play.google.com/store/apps/details?id=com.magnifis.parking)        | active       | no          | no          | no    | no      | no  | yes     | no  |
-| [Lyra](https://www.heylyra.com/)                                                   | active       | no          | no          | no    | no      | no  | yes     | yes |
-| [Snips](https://snips.ai/)                                                         | unclear      | no          | yes         | yes   | yes     | yes | yes     | yes |
-| [Bestee](https://heybestee.com/)                                                   | active       | no          | no          | no    | no      | no  | yes     | no  |
-| [Vokul](http://vokulnation.com/)                                                   | unclear      | no          | no          | no    | no      | no  | no      | yes |
-| [SYN](https://vaframework.com/)                                                    | unclear      | no          | unclear     | no    | yes     | no  | no      | no  |
-| [Saiy](https://github.com/brandall76/Saiy-PS)                                      | discontinued | yes         | no          | no    | no      | no  | yes     | no  |
-| [SEPIA](https://sepia-framework.github.io/)                                        | active       | yes         | yes         | yes   | yes     | yes | yes     | yes |
-| [Digital Assistant](https://www.adenin.com/digital-assistant/)                     | unclear      | no          | yes         | no    | yes     | no  | yes     | yes |
-| [Lucida](https://github.com/claritylab/lucida)                                     | discontinued | yes         | yes         | yes   | no      | no  | no      | no  |
-| [Hey Athena](https://github.com/rcbyron/hey-athena-client)                         | discontinued | yes         | no          | yes   | yes     | yes | no      | no  |
-| [Kalliope](https://kalliope-project.github.io/)                                    | active       | yes         | yes         | yes   | no      | no  | no      | no  |
-| [Jasper](https://jasperproject.github.io/)                                         | discontinued | yes         | yes         | yes   | no      | no  | no      | no  |
 | [Ultra Hal](https://www.zabaware.com/ultrahal/#page=/ultrahal/;)                   | discontinued | no          | no          | no    | yes     | no  | no      | no  |
 | [Jarvis Lite](https://acwtechnologies.co.uk/software/jarvis-lite)                  | unclear      | no          | no          | no    | yes     | no  | no      | no  |
+| [Google Assistant](https://assistant.google.com/)                                  | active       | no          | no          | no    | no      | no  | yes     | yes |
+| [Digital Assistant](https://www.adenin.com/digital-assistant/)                     | unclear      | no          | yes         | no    | yes     | no  | yes     | yes |
 
 ## Note  
 This list is slightly different from the others here, in that it takes non-Linux platforms into account. This is because there aren't currently very many virtual assistants out there, but they're a pretty cool technology, so I was interested in which platforms they're all available for. I find it very interesting, for instance, that the majority of these products are only available on mobile systems. I wonder why that might be. Perhaps because Siri is so popular, and used to only be available on iPhone? SEPIA appears to be the only virtual assistant that is "fully" cross-platform, with support for all of the major systems - and even with official support for ChromeOS.
