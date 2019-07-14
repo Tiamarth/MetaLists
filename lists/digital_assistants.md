@@ -17,10 +17,10 @@
 | [Bestee](https://heybestee.com/)                                                   | active       | no          | no          | no    | no      | no  | yes     | no  |
 | [Vokul](http://vokulnation.com/)                                                   | unclear      | no          | no          | no    | no      | no  | no      | yes |
 | [SYN](https://vaframework.com/)                                                    | unclear      | no          | unclear     | no    | yes     | no  | no      | no  |
-| [Saiy](https://github.com/brandall76/Saiy-PS)                                      | discontinued |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
+| [Saiy](https://github.com/brandall76/Saiy-PS)                                      | discontinued | yes         | no          | no    | no      | no  | yes     | no  |
+| [SEPIA](https://sepia-framework.github.io/)                                        | active       | yes         | yes         | yes   | yes     | yes | yes     | yes |
+| [Digital Assistant](https://www.adenin.com/digital-assistant/)                     | unclear      | no          | yes         | no    | yes     | no  | yes     | yes |
+| [Lucida](https://github.com/claritylab/lucida)                                     | discontinued | yes         | yes         | yes   | no      | no  | no      | no  |
 | []() |              |             |             |       |         |     |         |     |
 | []() |              |             |             |       |         |     |         |     |
 | []() |              |             |             |       |         |     |         |     |
@@ -38,7 +38,7 @@
 | []() |              |             |             |       |         |     |         |     |
 
 ## Note  
-This list is slightly different from the others here, in that it takes non-Linux platforms into account. This is because there aren't currently very many digital assistants out there, but they're a pretty cool technology, so I was interested in which platforms they're all available for. I find it very interesting, for instance, that the majority of these products are only available on mobile systems. I wonder why that might be. Perhaps because Siri was so popular, and only available on iPhone?
+This list is slightly different from the others here, in that it takes non-Linux platforms into account. This is because there aren't currently very many digital assistants out there, but they're a pretty cool technology, so I was interested in which platforms they're all available for. I find it very interesting, for instance, that the majority of these products are only available on mobile systems. I wonder why that might be. Perhaps because Siri is so popular, and used to only be available on iPhone? SEPIA appears to be the only digital assistant that is "fully" cross-platform, with support for all of the major systems - and even with official support for ChromeOS.
 
 I am considering a digital assistant to be a virtual persona which can perform helpful tasks for you on command, such as, but not limited to: checking the weather, setting and giving alarms and reminders, taking notes, and searching the internet. The line can occasionally get a little fuzzy in some cases as this list includes software which is marketed as, and intended to function as, chat bots rather than as digital assistants. The chat bots listed here can do all of the above requirements and more, which means they are technically functionally no different from digital assistants and thus earn a place on this list.
 
