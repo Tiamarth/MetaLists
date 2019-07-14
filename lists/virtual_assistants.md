@@ -23,19 +23,9 @@
 | [Lucida](https://github.com/claritylab/lucida)                                     | discontinued | yes         | yes         | yes   | no      | no  | no      | no  |
 | [Hey Athena](https://github.com/rcbyron/hey-athena-client)                         | discontinued | yes         | no          | yes   | yes     | yes | no      | no  |
 | [Kalliope](https://kalliope-project.github.io/)                                    | active       | yes         | yes         | yes   | no      | no  | no      | no  |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
-| []() |              |             |             |       |         |     |         |     |
+| [Jasper](https://jasperproject.github.io/)                                         | discontinued | yes         | yes         | yes   | no      | no  | no      | no  |
+| [Ultra Hal](https://www.zabaware.com/ultrahal/#page=/ultrahal/;)                   | discontinued | no          | no          | no    | yes     | no  | no      | no  |
+| [Jarvis Lite](https://acwtechnologies.co.uk/software/jarvis-lite)                  | unclear      | no          | no          | no    | yes     | no  | no      | no  |
 
 ## Note  
 This list is slightly different from the others here, in that it takes non-Linux platforms into account. This is because there aren't currently very many virtual assistants out there, but they're a pretty cool technology, so I was interested in which platforms they're all available for. I find it very interesting, for instance, that the majority of these products are only available on mobile systems. I wonder why that might be. Perhaps because Siri is so popular, and used to only be available on iPhone? SEPIA appears to be the only virtual assistant that is "fully" cross-platform, with support for all of the major systems - and even with official support for ChromeOS.
