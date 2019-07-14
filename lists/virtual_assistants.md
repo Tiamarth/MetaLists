@@ -46,6 +46,12 @@ Google Assistant is Google's virtual assistant and is shipped with their phones 
 
 Now let's have a moment of silence to remember the ancestors of these technologies - Clippy, Rover, and Bonzi Buddy. RIP, fellas.
 
+## FAQ
+Preemptive responses to likely FAQs:
+
+**What does it mean for a virtual assistant to be self-hosted?**  
+*Any data they need is stored and served on a local, personal server and not sent to any corporation's servers.*
+
 ## Data  
 virtual assistants: 10
 
