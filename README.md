@@ -27,13 +27,9 @@ I have not tested every piece of software and every service listed here. If you 
 | [Text Editors](lists/text_editors.md)                               | Notepad                             |
 | [Video Editors](lists/video_editors.md)                             | Adobe Premiere                      |
 | [Video Sharing Platforms](lists/video_sharing.md)                   | Youtube                             |
+| [Virtual Assistants](lists/virtual_assistants.md)                   | Cortana, Siri, and Google Assistant |
 | [VoIPs](lists/voips.md)                                             | Skype and Discord                   |
 | [Web Browsers](lists/web_browsers.md)                               | Google Chrome and Firefox           |
-
-## In Progress Lists
-| Name / Link                                                         | Alternatives to                     |
-| ------------------------------------------------------------------- | ----------------------------------- |
-| [Virtual Assistants](lists/virtual_assistants.md)                   | Cortana, Siri, and Google Assistant |
 
 ## Planned Lists
 | Name / Link               | Alternatives to       |
