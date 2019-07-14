@@ -53,16 +53,27 @@ Preemptive responses to likely FAQs:
 *Any data they need is stored and served on a local, personal server and not sent to any corporation's servers.*
 
 ## Data  
-virtual assistants: 10
+virtual assistants: 25
 
 **License**  
-open source: 2  
-proprietary: 8
+open source: 7  
+proprietary: 17
+
+**Self-hosted**  
+unclear: 1  
+optionally self-hosted: 1  
+self-hosted: 6  
+not self-hosted: 17
+
+**Dev status**  
+discontinued: 5  
+unclear: 6  
+active: 14
 
 **Platform support**  
-mac support: 1  
-linux support: 3  
-windows support: 4  
+mac support: 4  
+linux support: 9  
+windows support: 11  
 will eventually have windows support: 1  
-ios support: 5  
-android support: 8
+ios support: 11  
+android support: 15
