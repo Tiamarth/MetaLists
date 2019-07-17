@@ -44,7 +44,7 @@ Cortana is Microsoft's virtual assistant and is shipped with their latest operat
 
 Google Assistant is Google's virtual assistant and is shipped with their phones and tablets. She's also available on iOS and in Lenovo's [Smart Clock](https://www.lenovo.com/us/en/smart-clock) and Google's [Nest Cam IQ.](https://store.google.com/us/product/nest_cam_iq?hl=en-US&GoogleNest&gclid=EAIaIQobChMIy6Lz3afa3gIViKDsCh1bjQPEEAAYASAAEgJhTvD_BwE&gclsrc=aw.ds)
 
-Now let's have a moment of silence to remember the ancestors of these technologies - Clippy, Rover, and Bonzi Buddy. RIP, fellas.
+Now let's have a moment of silence to remember the ancestors of these technologies - Clippy, Rover, Paddy, and Bonzi. RIP, fellas.
 
 ## FAQ
 Preemptive responses to likely FAQs:
