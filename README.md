@@ -14,6 +14,7 @@ I have not tested every piece of software and every service listed here. If you 
 | [Audio Metadata Editors](lists/audio_meta_editors.md)               | Mp3tag                              |
 | [Cloud Storage Services](lists/clouds.md)                           | Google Drive and Dropbox            |
 | [Dictionaries](lists/dictionaries.md)                               | Dictionary.com                      |
+| [Digital Assistants](lists/digital_assistants.md)                   | Cortana, Siri, and Google Assistant |
 | [Email Clients](lists/email_clients.md)                             | Thunderbird                         |
 | [Game Distribution Platforms](lists/game_distribs.md)               | Steam, Epic, and GOG                |
 | [Game Library Managers](lists/game_libraries.md)                    | Steam                               |
@@ -27,7 +28,6 @@ I have not tested every piece of software and every service listed here. If you 
 | [Text Editors](lists/text_editors.md)                               | Notepad                             |
 | [Video Editors](lists/video_editors.md)                             | Adobe Premiere                      |
 | [Video Sharing Platforms](lists/video_sharing.md)                   | Youtube                             |
-| [Virtual Assistants](lists/virtual_assistants.md)                   | Cortana, Siri, and Google Assistant |
 | [VoIPs](lists/voips.md)                                             | Skype and Discord                   |
 | [Web Browsers](lists/web_browsers.md)                               | Google Chrome and Firefox           |
 
