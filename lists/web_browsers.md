@@ -61,7 +61,7 @@
 | [Opera Neon](https://www.opera.com/computer/neon)                                             | discontinued^2       | no          | yes    | Blink         |
 | [Polarity](http://polarityweb.weebly.com/)                                                    | unclear              | no          | no     | Blink         |
 | [Puffin](https://www.puffin.com/secure-browser/)                                              | active               | no          | no     | Blink         |
-| [Sleipnir](http://www.fenrir-inc.com/sleipnir/)                                               | unclear              | no          | no     | Blink         |
+| [Sleipnir 6](http://www.fenrir-inc.com/sleipnir/)                                             | active               | no          | no     | Blink         |
 | [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | discontinued         | no          | yes    | Blink         |
 | [Sushi](https://sushib.me/)                                                                   | active               | yes         | no     | Blink         |
 | [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
@@ -104,6 +104,7 @@
 | [Lunascape](http://www.lunascape.tv/)                                                         | ongoing              | no          | no     | Various       |
 | [Maxthon](http://www.maxthon.com/)                                                            | active               | no          | no^4   | Various       |
 | [qutebrowser](https://qutebrowser.org/)                                                       | active               | yes         | yes    | Various       |
+| [Sleipnir 4](https://www.fenrir-inc.com/jp/sleipnir/4/)                                       | active               | no          | no     | Various       |
 | [Tungsten](http://en.tungsten-start.net/)                                                     | ongoing              | no          | no     | Various       |
 | [UC Browser](http://www.ucweb.com/)                                                           | active               | no          | no     | Various       |
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | unclear              | no          | no     | Unspecified   |
@@ -112,7 +113,6 @@
 | [IBrowse](http://www.ibrowse-dev.net/)                                                        | ongoing              | no          | no     | Unspecified   |
 | [Links](http://links.twibright.com/)                                                          | unclear              | yes         | yes    | Unspecified   |
 | [Lynx](http://lynx.browser.org/)                                                              | unclear              | yes         | yes    | Unspecified   |
-| [OperAnk](http://operank-ankush.blogspot.com/)                                                | discontinued         | no          | no     | Unspecified   |
 | [Stratus](http://stratusbrowser.com/)                                                         | active               | yes         | no     | Unspecified   |
 | [Webby](https://launchpad.net/webby-browser)                                                  | discontinued         | yes         | yes    | Unspecified   |
 | [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Unspecified^5 |
