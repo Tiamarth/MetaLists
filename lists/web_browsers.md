@@ -156,12 +156,12 @@ Preemptive responses to likely FAQs:
 browsers: 120
 
 **License**  
-open source: 57  
-proprietary: 63
+open source: 58  
+proprietary: 62
 
 **Linux support**  
-linux support: 65  
-no linux support: 54  
+linux support: 67  
+no linux support: 52  
 will eventually have linux support: 1
 
 **Dev status**  
@@ -170,7 +170,7 @@ dormant: 3
 ongoing: 6  
 unclear: 10  
 discontinued: 31  
-active: 67
+active: 69
 
 **Engines**  
 KHTML: 1  
@@ -186,8 +186,8 @@ WebKitGTK+: 2
 Goanna: 3  
 QtWebEngine: 3  
 Trident: 5  
-Various: 6  
-Unspecified: 12  
+Various: 7  
+Unspecified: 11  
 WebKit: 17  
 Gecko: 18  
 Blink: 43
