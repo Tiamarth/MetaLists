@@ -38,6 +38,8 @@
 | [Brave Dev](https://brave.com/download-dev/)                                                  | active               | yes         | yes    | Blink         |
 | [Yandex](https://browser.yandex.com/desktop/main/)                                            | active               | no          | yes    | Blink         |
 | [Yandex Beta](https://browser.yandex.com/beta/)                                               | active               | no          | yes    | Blink         |
+| [Microsoft Edge Insider Dev](https://www.microsoftedgeinsider.com/en-us/download)             | active               | no          | soon   | Blink         |
+| [Microsoft Edge Insider Canary](https://www.microsoftedgeinsider.com/en-us/download)          | active               | no          | soon   | Blink         |
 | [Sielo](https://sielo.app/)                                                                   | active               | yes         | yes    | Blink         |
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Blisk](https://blisk.io/)                                                                    | active               | no          | soon   | Blink         |
