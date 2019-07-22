@@ -19,6 +19,7 @@
 | [Seamonkey](http://www.seamonkey-project.org/)                                                | active               | yes         | yes    | Gecko         |
 | [Tor](https://www.torproject.org/)                                                            | active               | yes         | yes    | Gecko         |
 | [Waterfox](https://www.waterfoxproject.org/)                                                  | active               | yes         | yes    | Gecko         |
+| [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Gecko         |
 | [Pale Moon](https://www.palemoon.org/)                                                        | active               | yes         | yes    | Goanna        |
 | [Pale Moon Unstable](https://www.palemoon.org/unstable/)                                      | active               | yes         | yes    | Goanna        |
 | [Basilisk](http://www.basilisk-browser.org/)                                                  | active               | yes         | yes    | Goanna        |
@@ -55,7 +56,6 @@
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | Blink         |
 | [Metacert](https://family-safety.metacert.com/)                                               | discontinued         | no          | no     | Blink         |
 | [Metalyfe](https://www.metalyfe.com/)                                                         | unclear              | no          | yes    | Blink         |
-| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | Blink         |
 | [Min](https://minbrowser.github.io/min/)                                                      | active               | yes         | yes    | Blink         |
 | [OmniWeb](https://www.omnigroup.com/more)                                                     | discontinued         | no          | no     | Blink         |
 | [Opera Neon](https://www.opera.com/computer/neon)                                             | discontinued^2       | no          | yes    | Blink         |
@@ -69,6 +69,8 @@
 | [Whale](https://whale.naver.com/en/)                                                          | active               | no          | yes    | Blink         |
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | active               | no          | no     | Blink         |
 | [360 Security Browser](https://browser.360.cn/se/en.html)                                     | active               | no          | no     | Blink         |
+| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | EdgeHTML      |
+| [Stratus](http://stratusbrowser.com/)                                                         | active               | yes         | no     | EdgeHTML      |
 | [Falkon](https://www.falkon.org/)                                                             | active               | yes         | yes    | QtWebEngine   |
 | [Liri](https://github.com/lirios/browser)                                                     | active^3             | yes         | yes    | QtWebEngine   |
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
@@ -113,32 +115,29 @@
 | [IBrowse](http://www.ibrowse-dev.net/)                                                        | ongoing              | no          | no     | Unspecified   |
 | [Links](http://links.twibright.com/)                                                          | unclear              | yes         | yes    | Unspecified   |
 | [Lynx](http://lynx.browser.org/)                                                              | unclear              | yes         | yes    | Unspecified   |
-| [Stratus](http://stratusbrowser.com/)                                                         | active               | yes         | no     | Unspecified   |
 | [Webby](https://launchpad.net/webby-browser)                                                  | discontinued         | yes         | yes    | Unspecified   |
-| [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Unspecified^5 |
 
 ## Software with embedded web browsers
 | Name                                          | Development Status | Open Source | Linux | Engine      |
 | --------------------------------------------- | ------------------ | ----------- | ----- | ----------- |
-| [Everquest II](https://www.everquest2.com/)^7 | active             | no          | no    | WebKit      |
+| [Everquest II](https://www.everquest2.com/)^5 | active             | no          | no    | WebKit      |
 | [Steam](http://store.steampowered.com/)       | active             | no          | yes   | WebKit      |
 | [Overwolf](http://www.overwolf.com/)          | active             | no          | no    | Unspecified |
 
 ## Software that can be modified to act like web browsers
 | Name                                                                                                                                                                                           | Development Status | Open Source | Linux | Engine      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------- | ----- | ----------- |
-| [Atom](https://atom.io/) - [(browserplus)](https://atom.io/packages/browser-plus)                                                                                                              | discontinued^8     | yes         | yes   | Unspecified |
-| [Minecraft](https://minecraft.net/) - [(WebDisplays)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2889765-webdisplays-1-0-browse-on-the-internet-in) | ongoing^6          | no          | yes   | Awesomium   |
+| [Atom](https://atom.io/) - [(browserplus)](https://atom.io/packages/browser-plus)                                                                                                              | discontinued^6     | yes         | yes   | Unspecified |
+| [Minecraft](https://minecraft.net/) - [(WebDisplays)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2889765-webdisplays-1-0-browse-on-the-internet-in) | ongoing^7          | no          | yes   | Awesomium   |
 
 ## Footnotes
 1. Vivaldi's changes to the Chromium code is open source under a BSD license, but the rest of the browser is proprietary.  
 2. Opera Neon was an experiment to illustrate a possible future for web browsing. It is not and never was receiving updates. It's a little buggy but still available for download.  
 3. The Liri browser is currently being rewritten. The devs are also now working on what appears to be a Linux distro. I recommend you keep an eye on this project.  
 4. The Maxthon client for Linux has been officially discontinued.  
-5. I couldn't find a source for Webian Shell's engine, but its developer works for Mozilla and iirc the project was originally being developed for Firefox OS, so it probably uses Gecko.  
-6. Minecraft development is active, but the WebDisplays mod is not.  
-7. Everquest II's embedded browser, as far as I know, is only accessible via an easter egg. It's not intended to be used as a dedicated browser, and since Everquest II is a game, there's no realistic use case where someone would want to use it as a dedicated browser, so don't. It's inteded to be used as an in-game help center, but the easter egg lets you open it to a Google search page, and therefore to browse the broader internet. To do this, type `/pizza` in chat.  
-8. Atom development is active, but the browserplus extension is not.  
+5. Everquest II's embedded browser, as far as I know, is only accessible via an easter egg. It's not intended to be used as a dedicated browser, and since Everquest II is a game, there's no realistic use case where someone would want to use it as a dedicated browser, so don't. It's inteded to be used as an in-game help center, but the easter egg lets you open it to a Google search page, and therefore to browse the broader internet. To do this, type `/pizza` in chat.  
+6. Atom development is active, but the browserplus extension is not.  
+7. Minecraft development is active, but the WebDisplays mod is not.  
 
 ## See also
 1. See how well your browser handles html5 [here.](http://html5test.com/) For more thorough benchmarking, see: [browserbench.org](http://browserbench.org/)
