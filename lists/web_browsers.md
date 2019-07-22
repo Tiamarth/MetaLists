@@ -67,6 +67,8 @@
 | [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
 | [Whale](https://whale.naver.com/en/)                                                          | active               | no          | yes    | Blink         |
+| [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | active               | no          | no     | Blink         |
+| [360 Security Browser](https://browser.360.cn/se/en.html)                                     | active               | no          | no     | Blink         |
 | [Falkon](https://www.falkon.org/)                                                             | active               | yes         | yes    | QtWebEngine   |
 | [Liri](https://github.com/lirios/browser)                                                     | active^3             | yes         | yes    | QtWebEngine   |
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
@@ -107,8 +109,6 @@
 | [Sleipnir 4](https://www.fenrir-inc.com/jp/sleipnir/4/)                                       | active               | no          | no     | Various       |
 | [Tungsten](http://en.tungsten-start.net/)                                                     | ongoing              | no          | no     | Various       |
 | [UC Browser](http://www.ucweb.com/)                                                           | active               | no          | no     | Various       |
-| [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | unclear              | no          | no     | Unspecified   |
-| [360 Security Browser](https://browser.360.cn/se/en.html)                                     | unclear              | no          | no     | Unspecified   |
 | [Alloy](http://alloy.simoncaminada.ch/)                                                       | discontinued         | no          | no     | Unspecified   |
 | [IBrowse](http://www.ibrowse-dev.net/)                                                        | ongoing              | no          | no     | Unspecified   |
 | [Links](http://links.twibright.com/)                                                          | unclear              | yes         | yes    | Unspecified   |
@@ -168,9 +168,9 @@ will eventually have linux support: 1
 deprecated: 1  
 dormant: 3  
 ongoing: 6  
-unclear: 10  
+unclear: 8  
 discontinued: 31  
-active: 69
+active: 71
 
 **Engines**  
 KHTML: 1  
@@ -187,7 +187,7 @@ Goanna: 3
 QtWebEngine: 3  
 Trident: 5  
 Various: 7  
-Unspecified: 11  
+Unspecified: 9  
 WebKit: 17  
 Gecko: 18  
-Blink: 43
+Blink: 45
