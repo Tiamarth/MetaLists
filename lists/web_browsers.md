@@ -1,28 +1,21 @@
 # Web Browsers
+## Major Linux Browsers
+| Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
+| --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
+| [Eolie](https://wiki.gnome.org/Apps/Eolie)                                                    | active               | yes         | yes    | WebKitGTK+    |
+| [Falkon](https://www.falkon.org/)                                                             | active               | yes         | yes    | QtWebEngine   |
+| [GNOME Web](https://wiki.gnome.org/Apps/Web/)                                                 | active               | yes         | yes    | Blink         |
+| [GNU IceCat](https://www.gnu.org/software/gnuzilla/)                                          | active               | yes         | yes    | Gecko         |
+| [Midori](http://midori-browser.org/)                                                          | active               | yes         | yes    | WebKit        |
+| [Rekonq](https://rekonq.kde.org/)                                                             | discontinued         | yes         | yes    | WebKit        |
+
+## Major Browsers
 | Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
 | --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
 | [Firefox](https://www.mozilla.org/en-US/firefox/)                                             | active               | yes         | yes    | Quantum       |
 | [Firefox Beta](https://beta.mozilla.org/)                                                     | active               | yes         | yes    | Quantum       |
 | [Firefox Nightly](https://nightly.mozilla.org/)                                               | active               | yes         | yes    | Quantum       |
 | [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/channel/desktop/#developer) | active               | yes         | yes    | Quantum       |
-| [Cliqz](https://cliqz.com/en/)                                                                | active               | yes         | yes    | Gecko         |
-| [CometBird](http://www.cometbird.com/)                                                        | discontinued         | yes         | no     | Gecko         |
-| [Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/icedragon-browser.php)       | active               | no          | no     | Gecko         |
-| [Cyberfox](https://sourceforge.net/projects/cyberfox/)                                        | discontinued         | yes         | yes    | Gecko         |
-| [Galeon](https://sourceforge.net/projects/galeon/)                                            | discontinued         | yes         | yes    | Gecko         |
-| [GNU IceCat](https://www.gnu.org/software/gnuzilla/)                                          | active               | yes         | yes    | Gecko         |
-| [Iceweasel](https://wiki.debian.org/Iceweasel)                                                | deprecated           | yes         | yes    | Gecko         |
-| [K-Meleon](http://kmeleonbrowser.org/)                                                        | dormant              | yes         | no     | Gecko         |
-| [Librefox](https://github.com/intika/Librefox)                                                | active               | yes         | yes    | Gecko         |
-| [Light](https://sourceforge.net/projects/lightfirefox/)                                       | discontinued         | yes         | no     | Gecko         |
-| [Sandcat](https://github.com/felipedaragon/sandcat)                                           | active               | yes         | no     | Gecko         |
-| [Seamonkey](http://www.seamonkey-project.org/)                                                | active               | yes         | yes    | Gecko         |
-| [Tor](https://www.torproject.org/)                                                            | active               | yes         | yes    | Gecko         |
-| [Waterfox](https://www.waterfoxproject.org/)                                                  | active               | yes         | yes    | Gecko         |
-| [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Gecko         |
-| [Pale Moon](https://www.palemoon.org/)                                                        | active               | yes         | yes    | Goanna        |
-| [Pale Moon Unstable](https://www.palemoon.org/unstable/)                                      | active               | yes         | yes    | Goanna        |
-| [Basilisk](http://www.basilisk-browser.org/)                                                  | active               | yes         | yes    | Goanna        |
 | [Chromium](https://www.chromium.org/Home)                                                     | active               | yes         | yes    | Blink         |
 | [Google Chrome](https://www.google.com/chrome/)                                               | active               | no          | yes    | Blink         |
 | [Google Chrome Beta](https://www.google.com/chrome/beta/)                                     | active               | no          | yes    | Blink         |
@@ -31,15 +24,49 @@
 | [Opera](http://www.opera.com/)                                                                | active               | no          | yes    | Blink         |
 | [Opera beta](http://www.opera.com/computer/beta)                                              | active               | no          | yes    | Blink         |
 | [Opera developer](http://www.opera.com/computer/beta)                                         | active               | no          | yes    | Blink         |
-| [Vivaldi](https://vivaldi.com/)                                                               | active               | no^1        | yes    | Blink         |
-| [Vivaldi snapshot](https://vivaldi.com/blog/snapshots/)                                       | active               | no          | yes    | Blink         |
+| [Opera legacy](https://ftp.opera.com/pub/opera/)                                              | discontinued         | no          | yes    | Presto        |
+| [Opera Neon](https://www.opera.com/computer/neon)                                             | discontinued^1       | no          | yes    | Blink         |
+| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | EdgeHTML      |
+| [Microsoft Edge Insider Dev](https://www.microsoftedgeinsider.com/en-us/download)             | active               | no          | soon   | Blink         |
+| [Microsoft Edge Insider Canary](https://www.microsoftedgeinsider.com/en-us/download)          | active               | no          | soon   | Blink         |
+| [Microsoft Internet Explorer](https://support.microsoft.com/en-us/products/internet-explorer) | active               | no          | no     | Trident       |
+
+## Slightly-Less-Major Browsers
+| Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
+| --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
 | [Brave](https://brave.com/download/)                                                          | active               | yes         | yes    | Blink         |
 | [Brave Beta](https://brave.com/download-beta/)                                                | active               | yes         | yes    | Blink         |
 | [Brave Dev](https://brave.com/download-dev/)                                                  | active               | yes         | yes    | Blink         |
+| [Vivaldi](https://vivaldi.com/)                                                               | active               | no^2        | yes    | Blink         |
+| [Vivaldi snapshot](https://vivaldi.com/blog/snapshots/)                                       | active               | no          | yes    | Blink         |
 | [Yandex](https://browser.yandex.com/desktop/main/)                                            | active               | no          | yes    | Blink         |
 | [Yandex Beta](https://browser.yandex.com/beta/)                                               | active               | no          | yes    | Blink         |
-| [Microsoft Edge Insider Dev](https://www.microsoftedgeinsider.com/en-us/download)             | active               | no          | soon   | Blink         |
-| [Microsoft Edge Insider Canary](https://www.microsoftedgeinsider.com/en-us/download)          | active               | no          | soon   | Blink         |
+
+## Pretty Unknown Browsers
+| Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
+| --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
+| [Basilisk](http://www.basilisk-browser.org/)                                                  | active               | yes         | yes    | Goanna        |
+| [Maxthon](http://www.maxthon.com/)                                                            | active               | no          | no^3   | Various       |
+| [Pale Moon](https://www.palemoon.org/)                                                        | active               | yes         | yes    | Goanna        |
+| [Pale Moon Unstable](https://www.palemoon.org/unstable/)                                      | active               | yes         | yes    | Goanna        |
+| [Waterfox](https://www.waterfoxproject.org/)                                                  | active               | yes         | yes    | Gecko         |
+
+## Virtually Unknown Browsers
+| Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
+| --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
+| [Cliqz](https://cliqz.com/en/)                                                                | active               | yes         | yes    | Gecko         |
+| [CometBird](http://www.cometbird.com/)                                                        | discontinued         | yes         | no     | Gecko         |
+| [Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/icedragon-browser.php)       | active               | no          | no     | Gecko         |
+| [Cyberfox](https://sourceforge.net/projects/cyberfox/)                                        | discontinued         | yes         | yes    | Gecko         |
+| [Galeon](https://sourceforge.net/projects/galeon/)                                            | discontinued         | yes         | yes    | Gecko         |
+| [Iceweasel](https://wiki.debian.org/Iceweasel)                                                | deprecated           | yes         | yes    | Gecko         |
+| [K-Meleon](http://kmeleonbrowser.org/)                                                        | dormant              | yes         | no     | Gecko         |
+| [Librefox](https://github.com/intika/Librefox)                                                | active               | yes         | yes    | Gecko         |
+| [Light](https://sourceforge.net/projects/lightfirefox/)                                       | discontinued         | yes         | no     | Gecko         |
+| [Sandcat](https://github.com/felipedaragon/sandcat)                                           | active               | yes         | no     | Gecko         |
+| [Seamonkey](http://www.seamonkey-project.org/)                                                | active               | yes         | yes    | Gecko         |
+| [Tor](https://www.torproject.org/)                                                            | active               | yes         | yes    | Gecko         |
+| [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Gecko         |
 | [Sielo](https://sielo.app/)                                                                   | active               | yes         | yes    | Blink         |
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Blisk](https://blisk.io/)                                                                    | active               | no          | soon   | Blink         |
@@ -52,7 +79,6 @@
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink         |
 | [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
 | [Ghost](https://ghostbrowser.com/)                                                            | unclear              | no          | no     | Blink         |
-| [GNOME Web](https://wiki.gnome.org/Apps/Web/)                                                 | active               | yes         | yes    | Blink         |
 | [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
 | [Kinza](https://www.kinza.jp/en/)                                                             | active               | no          | no     | Blink         |
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | Blink         |
@@ -60,7 +86,6 @@
 | [Metalyfe](https://www.metalyfe.com/)                                                         | unclear              | no          | yes    | Blink         |
 | [Min](https://minbrowser.github.io/min/)                                                      | active               | yes         | yes    | Blink         |
 | [OmniWeb](https://www.omnigroup.com/more)                                                     | discontinued         | no          | no     | Blink         |
-| [Opera Neon](https://www.opera.com/computer/neon)                                             | discontinued^2       | no          | yes    | Blink         |
 | [Polarity](http://polarityweb.weebly.com/)                                                    | unclear              | no          | no     | Blink         |
 | [Puffin](https://www.puffin.com/secure-browser/)                                              | active               | no          | no     | Blink         |
 | [Sleipnir 6](http://www.fenrir-inc.com/sleipnir/)                                             | active               | no          | no     | Blink         |
@@ -71,34 +96,27 @@
 | [Whale](https://whale.naver.com/en/)                                                          | active               | no          | yes    | Blink         |
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | active               | no          | no     | Blink         |
 | [360 Security Browser](https://browser.360.cn/se/en.html)                                     | active               | no          | no     | Blink         |
-| [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | EdgeHTML      |
 | [Stratus](http://stratusbrowser.com/)                                                         | active               | yes         | no     | EdgeHTML      |
-| [Falkon](https://www.falkon.org/)                                                             | active               | yes         | yes    | QtWebEngine   |
-| [Liri](https://github.com/lirios/browser)                                                     | active^3             | yes         | yes    | QtWebEngine   |
+| [Liri](https://github.com/lirios/browser)                                                     | active^4             | yes         | yes    | QtWebEngine   |
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
 | [AOL Desktop](https://discover.aol.com/products-and-services/aol-desktop-for-windows)         | unclear              | no          | no     | WebKit        |
 | [Arora](https://github.com/arora/arora)                                                       | discontinued         | yes         | yes    | WebKit        |
 | [Dooble](https://textbrowser.github.io/dooble/)                                               | active               | yes         | yes    | WebKit        |
 | [iCab](http://www.icab.de/dl.php)                                                             | active               | no          | no     | WebKit        |
 | [Internet Surfboard](http://inetsurfboard.sourceforge.net/)                                   | discontinued         | yes         | no     | WebKit        |
-| [Midori](http://midori-browser.org/)                                                          | active               | yes         | yes    | WebKit        |
 | [Odyssey](http://www.amigaos.net/software/78/odyssey)                                         | discontinued         | no          | no     | WebKit        |
 | [QtWeb](http://qtweb.net/)                                                                    | discontinued         | yes         | yes    | WebKit        |
-| [Rekonq](https://rekonq.kde.org/)                                                             | discontinued         | yes         | yes    | WebKit        |
 | [Roccat](http://runecats.com/roccat-browser-for-mac/)                                         | unclear              | no          | no     | WebKit        |
 | [Safari](https://www.apple.com/safari/)                                                       | active               | no          | no     | WebKit        |
 | [Stainless](https://github.com/mesadynamics/stainless)                                        | discontinued         | yes         | no     | WebKit        |
 | [uzbl](https://www.uzbl.org/)                                                                 | discontinued         | no          | no     | WebKit        |
 | [WebPositive](https://www.haiku-os.org/docs/userguide/en/applications/webpositive.html)       | discontinued         | yes         | no     | WebKit        |
 | [xombrero](https://github.com/conformal/xombrero)                                             | discontinued         | yes         | yes    | WebKit        |
-| [Eolie](https://wiki.gnome.org/Apps/Eolie)                                                    | active               | yes         | yes    | WebKitGTK+    |
 | [surf](http://surf.suckless.org/)                                                             | active               | no          | no     | WebKitGTK+    |
-| [Microsoft Internet Explorer](https://support.microsoft.com/en-us/products/internet-explorer) | active               | no          | no     | Trident       |
 | [Browzar](http://www.browzar.com/)                                                            | discontinued         | no          | no     | Trident       |
 | [S-Web](http://theswaggmaster.weebly.com/s-web.html)                                          | discontinued         | no          | no     | Trident       |
 | [Slim Browser](http://www.slimbrowser.net/)                                                   | dormant              | no          | no     | Trident       |
 | [TheWorld Browser](http://www.theworld.cn/twen/)                                              | discontinued         | no          | no     | Trident       |
-| [Opera legacy](https://ftp.opera.com/pub/opera/)                                              | discontinued         | no          | yes    | Presto        |
 | [Konqueror](https://konqueror.org/)                                                           | discontinued         | yes         | yes    | KHTML         |
 | [gngr](https://gngr.info/)                                                                    | active               | yes         | yes    | Cobra         |
 | [LoboBrowser](https://github.com/lobobrowser/LoboBrowser)                                     | discontinued         | yes         | yes    | Cobra         |
@@ -108,7 +126,6 @@
 | [NetSurf](http://www.netsurf-browser.org/)                                                    | ongoing              | yes         | yes    | Custom        |
 | [Avant](http://avantbrowser.com/)                                                             | active               | no          | no     | Various       |
 | [Lunascape](http://www.lunascape.tv/)                                                         | ongoing              | no          | no     | Various       |
-| [Maxthon](http://www.maxthon.com/)                                                            | active               | no          | no^4   | Various       |
 | [qutebrowser](https://qutebrowser.org/)                                                       | active               | yes         | yes    | Various       |
 | [Sleipnir 4](https://www.fenrir-inc.com/jp/sleipnir/4/)                                       | active               | no          | no     | Various       |
 | [Tungsten](http://en.tungsten-start.net/)                                                     | ongoing              | no          | no     | Various       |
@@ -133,10 +150,10 @@
 | [Minecraft](https://minecraft.net/) - [(WebDisplays)](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/2889765-webdisplays-1-0-browse-on-the-internet-in) | ongoing^7          | no          | yes   | Awesomium   |
 
 ## Footnotes
-1. Vivaldi's changes to the Chromium code is open source under a BSD license, but the rest of the browser is proprietary.  
-2. Opera Neon was an experiment to illustrate a possible future for web browsing. It is not and never was receiving updates. It's a little buggy but still available for download.  
-3. The Liri browser is currently being rewritten. The devs are also now working on what appears to be a Linux distro. I recommend you keep an eye on this project.  
-4. The Maxthon client for Linux has been officially discontinued.  
+1. Opera Neon was an experiment to illustrate a possible future for web browsing. It is not and never was receiving updates. It's a little buggy but still available for download.  
+2. Vivaldi's changes to the Chromium code is open source under a BSD license, but the rest of the browser is proprietary.  
+3. The Maxthon client for Linux has been officially discontinued.  
+4. The Liri browser is currently being rewritten. The devs are also now working on what appears to be a Linux distro. I recommend you keep an eye on this project.  
 5. Everquest II's embedded browser, as far as I know, is only accessible via an easter egg. It's not intended to be used as a dedicated browser, and since Everquest II is a game, there's no realistic use case where someone would want to use it as a dedicated browser, so don't. It's inteded to be used as an in-game help center, but the easter egg lets you open it to a Google search page, and therefore to browse the broader internet. To do this, type `/pizza` in chat.  
 6. Atom development is active, but the browserplus extension is not.  
 7. Minecraft development is active, but the WebDisplays mod is not.  
