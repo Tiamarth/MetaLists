@@ -171,6 +171,8 @@ Preemptive responses to likely FAQs:
 *Not here.* This list is currently being maintained by hand, as are all the other lists in this repo, and there's already a pretty daunting amount of browsers available for desktop PCs. Including all the mobile browsers would at least double the length of this list and the primary point of MetaLists is to help Linux users find alternative software that runs on Linux. So including mobile browsers here seems unnecessary. That being said, I'm not strictly against including them (there are, after all, already some browsers on this list that do not run on desktop PCs at all) so if you have the time and want to do it, feel free to make the list and pull request.  
 
 ## Data
+This data is currently slightly innacurate because this list is currently in the process of being updated.
+
 browsers: 120
 
 **License**  
