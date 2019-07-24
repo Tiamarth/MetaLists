@@ -21,7 +21,8 @@
 | [PickyWallpapers](https://pickywallpapers.com/)                                            |
 | [Five Wallpapers](https://fivewallpapers.tumblr.com/)                                      |
 | [Pixabay](https://pixabay.com/)                                                            |
-| []() |
+| [/r/wallpaper](https://www.reddit.com/r/wallpaper/)                                        |
+| [/r/wallpapers](https://www.reddit.com/r/wallpapers/)                                      |
 | []() |
 | []() |
 | []() |
