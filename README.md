@@ -29,9 +29,18 @@ I have not tested every piece of software and every service listed here. If you 
 | [Video Editors](lists/video_editors.md)                             | Adobe Premiere                      |
 | [Video Sharing Platforms](lists/video_sharing.md)                   | Youtube                             |
 | [VoIPs](lists/voips.md)                                             | Skype and Discord                   |
+
+## Being Updated
+| Name / Link                                                         | Alternatives to                     |
+| ------------------------------------------------------------------- | ----------------------------------- |
 | [Web Browsers](lists/web_browsers.md)                               | Google Chrome and Firefox           |
 
-## Planned Lists
+## In Progress
+| Name / Link                                                         | Alternatives to                     |
+| ------------------------------------------------------------------- | ----------------------------------- |
+| [Wallpaper Hosts](lists/wallpaper_hosts.md)                         | WallHaven                           |
+
+## Planned
 | Name / Link               | Alternatives to       |
 | ------------------------- | --------------------- |
 | GitHub Desktop Clients    | GitHub Desktop        |
@@ -44,7 +53,6 @@ I have not tested every piece of software and every service listed here. If you 
 | Podcast Sharing Platforms | iTunes/Apple Podcasts |
 | Streaming Platforms       | Twitch                |
 | VPNs                      | NordVPN               |
-| Wallpaper Hosts           | WallHaven             |
 | Word Processors           | Microsoft Word        |
 
 ## Definitions of dev status terms
