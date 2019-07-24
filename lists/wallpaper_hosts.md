@@ -16,6 +16,14 @@
 | [TheWallpapers](https://thewallpapers.org/)                                                |
 | [Microsoft Wallpapers](https://support.microsoft.com/en-us/help/17780/featured-wallpapers) |
 | [My Free Wallpapers](https://www.myfreewallpapers.com/)                                    |
+| [WallpaperUP](https://www.wallpaperup.com/) |
+| [Imageboard Scraper](https://nik.bot.nu/) |
+| [PickyWallpapers](https://pickywallpapers.com/) |
+| []() |
+| []() |
+| []() |
+| []() |
+| []() |
 | []() |
 | []() |
 | []() |
