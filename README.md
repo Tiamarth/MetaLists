@@ -39,6 +39,7 @@ I have not tested every piece of software and every service listed here. If you 
 | Image Hosting Platforms   | Imgur                 |
 | Media Players             | Windows Media Player  |
 | Music Sharing Platforms   | Soundcloud            |
+| Notepads                  | Notepad               |
 | Online Stores             | Amazon                |
 | Podcast Sharing Platforms | iTunes/Apple Podcasts |
 | Streaming Platforms       | Twitch                |
