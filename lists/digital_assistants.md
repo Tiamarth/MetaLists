@@ -38,7 +38,7 @@ Dragonfire is a part of a bigger project called [Dragon Helmet](http://dragon.co
 
 Alice is [Yandex's](https://yandex.com/) digital assistant. She's only available in Russian, and as far as I know is only available as an integrated feature in the [Yandex Browser.](https://browser.yandex.com/) I'm not positive that's true, but I don't speak Russian. The Yandex Browser is available on Windows and Linux, thus so is Alice.
 
-Alexa is available on Windows [from the Windows store](https://www.microsoft.com/en-us/p/alexa/9n12z3cctcnz), but not on Linux or Mac. She's also available on Android [via the Google Play store,](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_US) and she's also available in Amazon's flagship Alexa devices, [Echo.](https://www.amazon.com/dp/B07456BG8N)
+Alexa is available on Windows [from the Windows store](https://www.microsoft.com/en-us/p/alexa/9n12z3cctcnz), but not on Linux or Mac. She's also available on Android [via the Google Play store,](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en_US) and she's also available in Amazon's flagship Alexa devices, [Echo.](https://www.amazon.com/dp/B07456BG8N) She's also available in the form of a [Twitter bot.](https://twitter.com/alexa99)
 
 Cortana is Microsoft's digital assistant and is shipped with their latest operating system, Windows 10. In addition to the other platforms listed above, she's also available in Microsoft's flagship Cortana devices, [Invoke.](https://www.microsoft.com/en-us/p/harman-kardon-invoke-with-cortana-by-microsoft/8rl7xlnwn95v)
 
