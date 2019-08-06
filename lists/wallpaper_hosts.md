@@ -1,16 +1,16 @@
 # Wallpaper Hosts
 | Name / Link                                                                                |
 | ------------------------------------------------------------------------------------------ |
-| [UHD Wallpaper](https://www.uhdpaper.com/)                                                 |
+| [UHDWallpaper.com](https://www.uhdpaper.com/)                                              |
 | [Unsplash](https://unsplash.com/)                                                          |
 | [WallHaven](https://wallhaven.cc/)                                                         |
 | [WallpaperFusion](https://www.wallpaperfusion.com/)                                        |
-| [HD Wallpapers](https://www.hdwallpapers.net/)                                             |
+| [HDWallpapers.net](https://www.hdwallpapers.net/)                                          |
 | [Simple Desktops](http://simpledesktops.com/)                                              |
 | [Desktop Nexus](https://www.desktopnexus.com/)                                             |
 | [WallpaperCave](https://wallpapercave.com/)                                                |
 | [Wallpaper Abyss](https://wall.alphacoders.com/)                                           |
-| [UHD Wallpapers](https://uhdwallpapers.org/)                                               |
+| [UHDWallpapers.org](https://uhdwallpapers.org/)                                            |
 | [Wallpoper](http://wallpoper.com/)                                                         |
 | [Digital Blasphemy](http://www.digitalblasphemy.com/)                                      |
 | [TheWallpapers](https://thewallpapers.org/)                                                |
@@ -23,10 +23,10 @@
 | [Pixabay](https://pixabay.com/)                                                            |
 | [/r/wallpaper](https://www.reddit.com/r/wallpaper/)                                        |
 | [/r/wallpapers](https://www.reddit.com/r/wallpapers/)                                      |
-| []() |
-| []() |
-| []() |
-| []() |
+| [GetWallpapers](http://getwallpapers.com)                                                  |
+| [WallpapersWide](http://wallpaperswide.com)                                                |
+| [WallpaperSafari](https://wallpapersafari.com/)                                            |
+| [HDWallpapers.cc](https://hdwallpapers.cc/)                                                |
 | []() |
 | []() |
 | []() |
