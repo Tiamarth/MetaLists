@@ -29,7 +29,7 @@
 | [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)                      | active               | no          | no     | EdgeHTML      |
 | [Microsoft Edge Insider Dev](https://www.microsoftedgeinsider.com/en-us/download)             | active               | no          | soon   | Blink         |
 | [Microsoft Edge Insider Canary](https://www.microsoftedgeinsider.com/en-us/download)          | active               | no          | soon   | Blink         |
-| [Microsoft Internet Explorer](https://support.microsoft.com/en-us/products/internet-explorer) | active               | no          | no     | Trident       |
+| [Microsoft Internet Explorer](https://support.microsoft.com/en-us/products/internet-explorer) | deprecated           | no          | no     | Trident       |
 
 ## Slightly-Less-Major Browsers
 | Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
@@ -67,7 +67,6 @@
 | [Seamonkey](http://www.seamonkey-project.org/)                                                | active               | yes         | yes    | Gecko         |
 | [Tor](https://www.torproject.org/)                                                            | active               | yes         | yes    | Gecko         |
 | [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Gecko         |
-| [Sielo](https://sielo.app/)                                                                   | active               | yes         | yes    | Blink         |
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Blisk](https://blisk.io/)                                                                    | active               | no          | soon   | Blink         |
 | [CentBrowser](http://www.centbrowser.com/)                                                    | active               | no          | no     | Blink         |
@@ -88,6 +87,8 @@
 | [OmniWeb](https://www.omnigroup.com/more)                                                     | discontinued         | no          | no     | Blink         |
 | [Polarity](http://polarityweb.weebly.com/)                                                    | unclear              | no          | no     | Blink         |
 | [Puffin](https://www.puffin.com/secure-browser/)                                              | active               | no          | no     | Blink         |
+| [SalamWeb](https://salamweb.com/)                                                             | active               | no          | no     | Blink         |
+| [Sielo](https://sielo.app/)                                                                   | active               | yes         | yes    | Blink         |
 | [Sleipnir 6](http://www.fenrir-inc.com/sleipnir/)                                             | active               | no          | no     | Blink         |
 | [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | discontinued         | no          | yes    | Blink         |
 | [Sushi](https://sushib.me/)                                                                   | active               | yes         | no     | Blink         |
@@ -117,6 +118,7 @@
 | [S-Web](http://theswaggmaster.weebly.com/s-web.html)                                          | discontinued         | no          | no     | Trident       |
 | [Slim Browser](http://www.slimbrowser.net/)                                                   | dormant              | no          | no     | Trident       |
 | [TheWorld Browser](http://www.theworld.cn/twen/)                                              | discontinued         | no          | no     | Trident       |
+| [WebbIE](http://www.webbie.org.uk/webbrowser/index.htm/)                                      | ongoing              | yes         | no     | Trident       |
 | [Konqueror](https://konqueror.org/)                                                           | discontinued         | yes         | yes    | KHTML         |
 | [gngr](https://gngr.info/)                                                                    | active               | yes         | yes    | Cobra         |
 | [LoboBrowser](https://github.com/lobobrowser/LoboBrowser)                                     | discontinued         | yes         | yes    | Cobra         |
