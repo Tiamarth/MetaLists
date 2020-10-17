@@ -46,57 +46,57 @@
 | Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
 | --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
 | [Basilisk](http://www.basilisk-browser.org/)                                                  | active               | yes         | yes    | Goanna        |
+| [Maxthon](http://www.maxthon.com/)                                                            | active               | no          | no^3   | Various       |
 | [Pale Moon](https://www.palemoon.org/)                                                        | active               | yes         | yes    | Goanna        |
 | [Pale Moon Unstable](https://www.palemoon.org/unstable/)                                      | active               | yes         | yes    | Goanna        |
 | [Waterfox](https://www.waterfoxproject.org/)                                                  | active               | yes         | yes    | Gecko         |
-| [Maxthon](http://www.maxthon.com/)                                                            | active               | no          | no^3   | Various       |
 
 ## Virtually Unknown Browsers
 | Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
 | --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
 | [Cliqz](https://cliqz.com/en/)                                                                | active               | yes         | yes    | Gecko         |
+| [CometBird](http://www.cometbird.com/)                                                        | discontinued         | yes         | no     | Gecko         |
+| [Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/icedragon-browser.php)       | active               | no          | no     | Gecko         |
 | [Cyberfox](https://sourceforge.net/projects/cyberfox/)                                        | discontinued         | yes         | yes    | Gecko         |
 | [Galeon](https://sourceforge.net/projects/galeon/)                                            | discontinued         | yes         | yes    | Gecko         |
 | [Iceweasel](https://wiki.debian.org/Iceweasel)                                                | deprecated           | yes         | yes    | Gecko         |
+| [K-Meleon](http://kmeleonbrowser.org/)                                                        | dormant              | yes         | no     | Gecko         |
 | [Librefox](https://github.com/intika/Librefox)                                                | active               | yes         | yes    | Gecko         |
+| [Light](https://sourceforge.net/projects/lightfirefox/)                                       | discontinued         | yes         | no     | Gecko         |
+| [Sandcat](https://github.com/felipedaragon/sandcat)                                           | active               | yes         | no     | Gecko         |
 | [Seamonkey](http://www.seamonkey-project.org/)                                                | active               | yes         | yes    | Gecko         |
 | [Tor](https://www.torproject.org/)                                                            | active               | yes         | yes    | Gecko         |
 | [Webian Shell](http://webian.org/)                                                            | ongoing              | yes         | yes    | Gecko         |
-| [CometBird](http://www.cometbird.com/)                                                        | discontinued         | yes         | no     | Gecko         |
-| [Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/icedragon-browser.php)       | active               | no          | no     | Gecko         |
-| [K-Meleon](http://kmeleonbrowser.org/)                                                        | dormant              | yes         | no     | Gecko         |
-| [Light](https://sourceforge.net/projects/lightfirefox/)                                       | discontinued         | yes         | no     | Gecko         |
-| [Sandcat](https://github.com/felipedaragon/sandcat)                                           | active               | yes         | no     | Gecko         |
-| [Beaker](https://beakerbrowser.com/)                                                          | active               | no          | yes    | Blink         |
-| [Colibri](https://colibri.opqr.co/)                                                           | dormant              | no          | yes    | Blink         |
-| [Dissenter](https://dissenter.com/)                                                           | active               | yes         | yes    | Blink         |
-| [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
-| [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
-| [Metalyfe](https://www.metalyfe.com/)                                                         | unclear              | no          | yes    | Blink         |
-| [Min](https://minbrowser.github.io/min/)                                                      | active               | yes         | yes    | Blink         |
-| [Sielo](https://sielo.app/)                                                                   | active               | yes         | yes    | Blink         |
-| [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | discontinued         | no          | yes    | Blink         |
-| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
-| [Unstoppable](https://unstoppabledomains.com/browser)                                         | active               | no          | yes    | Blink         |
-| [Whale](https://whale.naver.com/en/)                                                          | active               | no          | yes    | Blink         |
-| [Blisk](https://blisk.io/)                                                                    | active               | no          | soon   | Blink         |
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
+| [Beaker](https://beakerbrowser.com/)                                                          | active               | yes         | yes    | Blink         |
+| [Blisk](https://blisk.io/)                                                                    | active               | no          | soon   | Blink         |
 | [CentBrowser](http://www.centbrowser.com/)                                                    | active               | no          | no     | Blink         |
 | [Citrio](http://citrio.com/)                                                                  | discontinued         | no          | no     | Blink         |
+| [Colibri](https://colibri.opqr.co/)                                                           | dormant              | no          | yes    | Blink         |
 | [Comodo Dragon](https://www.comodo.com/home/browsers-toolbars/browser.php)                    | active               | no          | no     | Blink         |
 | [CryptoTab Browser](https://cryptobrowser.site/cryptotab/)                                    | active               | no          | no     | Blink         |
+| [Dissenter](https://dissenter.com/)                                                           | active               | yes         | yes    | Blink         |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink         |
+| [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
 | [Ghost](https://ghostbrowser.com/)                                                            | unclear              | no          | no     | Blink         |
+| [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
 | [Kinza](https://www.kinza.jp/en/)                                                             | active               | no          | no     | Blink         |
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | Blink         |
 | [Metacert](https://family-safety.metacert.com/)                                               | discontinued         | no          | no     | Blink         |
+| [Metalyfe](https://www.metalyfe.com/)                                                         | unclear              | no          | yes    | Blink         |
+| [Min](https://minbrowser.github.io/min/)                                                      | active               | yes         | yes    | Blink         |
 | [OmniWeb](https://www.omnigroup.com/more)                                                     | discontinued         | no          | no     | Blink         |
 | [Polarity](http://polarityweb.weebly.com/)                                                    | unclear              | no          | no     | Blink         |
 | [Puffin](https://www.puffin.com/secure-browser/)                                              | active               | no          | no     | Blink         |
 | [SalamWeb](https://salamweb.com/)                                                             | active               | no          | no     | Blink         |
+| [Sielo](https://sielo.app/)                                                                   | active               | yes         | yes    | Blink         |
 | [Sleipnir 6](http://www.fenrir-inc.com/sleipnir/)                                             | active               | no          | no     | Blink         |
+| [SRWare Iron](https://www.srware.net/en/software_srware_iron.php)                             | discontinued         | no          | yes    | Blink         |
 | [Sushi](https://sushib.me/)                                                                   | active               | yes         | no     | Blink         |
 | [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
+| [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
+| [Unstoppable](https://unstoppabledomains.com/browser)                                         | active               | yes         | no     | Blink         |
+| [Whale](https://whale.naver.com/en/)                                                          | active               | no          | yes    | Blink         |
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | active               | no          | no     | Blink         |
 | [360 Security Browser](https://browser.360.cn/se/en.html)                                     | active               | no          | no     | Blink         |
 | [Stratus](http://stratusbrowser.com/)                                                         | active               | yes         | no     | EdgeHTML      |
@@ -105,16 +105,16 @@
 | [AOL Desktop](https://discover.aol.com/products-and-services/aol-desktop-for-windows)         | unclear              | no          | no     | WebKit        |
 | [Arora](https://github.com/arora/arora)                                                       | discontinued         | yes         | yes    | WebKit        |
 | [Dooble](https://textbrowser.github.io/dooble/)                                               | active               | yes         | yes    | WebKit        |
-| [QtWeb](http://qtweb.net/)                                                                    | discontinued         | yes         | yes    | WebKit        |
-| [xombrero](https://github.com/conformal/xombrero)                                             | discontinued         | yes         | yes    | WebKit        |
 | [iCab](http://www.icab.de/dl.php)                                                             | active               | no          | no     | WebKit        |
 | [Internet Surfboard](http://inetsurfboard.sourceforge.net/)                                   | discontinued         | yes         | no     | WebKit        |
 | [Odyssey](http://www.amigaos.net/software/78/odyssey)                                         | discontinued         | no          | no     | WebKit        |
+| [QtWeb](http://qtweb.net/)                                                                    | discontinued         | yes         | yes    | WebKit        |
 | [Roccat](http://runecats.com/roccat-browser-for-mac/)                                         | unclear              | no          | no     | WebKit        |
 | [Safari](https://www.apple.com/safari/)                                                       | active               | no          | no     | WebKit        |
 | [Stainless](https://github.com/mesadynamics/stainless)                                        | discontinued         | yes         | no     | WebKit        |
 | [uzbl](https://www.uzbl.org/)                                                                 | discontinued         | no          | no     | WebKit        |
 | [WebPositive](https://www.haiku-os.org/docs/userguide/en/applications/webpositive.html)       | discontinued         | yes         | no     | WebKit        |
+| [xombrero](https://github.com/conformal/xombrero)                                             | discontinued         | yes         | yes    | WebKit        |
 | [surf](http://surf.suckless.org/)                                                             | active               | no          | no     | WebKitGTK+    |
 | [Browzar](http://www.browzar.com/)                                                            | discontinued         | no          | no     | Trident       |
 | [S-Web](http://theswaggmaster.weebly.com/s-web.html)                                          | discontinued         | no          | no     | Trident       |
@@ -128,23 +128,23 @@
 | [Google Ultron](http://ultronbrowser.io/)                                                     | active               | yes         | no     | Adobe Reader  |
 | [ELinks](http://elinks.cz/)                                                                   | discontinued         | yes         | yes    | Custom        |
 | [NetSurf](http://www.netsurf-browser.org/)                                                    | ongoing              | yes         | yes    | Custom        |
-| [qutebrowser](https://qutebrowser.org/)                                                       | active               | yes         | yes    | Various       |
 | [Avant](http://avantbrowser.com/)                                                             | active               | no          | no     | Various       |
 | [Lunascape](http://www.lunascape.tv/)                                                         | ongoing              | no          | no     | Various       |
+| [qutebrowser](https://qutebrowser.org/)                                                       | active               | yes         | yes    | Various       |
 | [Sleipnir 4](https://www.fenrir-inc.com/jp/sleipnir/4/)                                       | active               | no          | no     | Various       |
 | [Tungsten](http://en.tungsten-start.net/)                                                     | ongoing              | no          | no     | Various       |
 | [UC Browser](http://www.ucweb.com/)                                                           | active               | no          | no     | Various       |
+| [Alloy](http://alloy.simoncaminada.ch/)                                                       | discontinued         | no          | no     | Unspecified   |
+| [IBrowse](http://www.ibrowse-dev.net/)                                                        | ongoing              | no          | no     | Unspecified   |
 | [Links](http://links.twibright.com/)                                                          | unclear              | yes         | yes    | Unspecified   |
 | [Lynx](http://lynx.browser.org/)                                                              | unclear              | yes         | yes    | Unspecified   |
 | [Webby](https://launchpad.net/webby-browser)                                                  | discontinued         | yes         | yes    | Unspecified   |
-| [Alloy](http://alloy.simoncaminada.ch/)                                                       | discontinued         | no          | no     | Unspecified   |
-| [IBrowse](http://www.ibrowse-dev.net/)                                                        | ongoing              | no          | no     | Unspecified   |
 
 ## Software with embedded web browsers
 | Name                                          | Development Status | Open Source | Linux | Engine      |
 | --------------------------------------------- | ------------------ | ----------- | ----- | ----------- |
-| [Steam](http://store.steampowered.com/)       | active             | no          | yes   | WebKit      |
 | [Everquest II](https://www.everquest2.com/)^5 | active             | no          | no    | WebKit      |
+| [Steam](http://store.steampowered.com/)       | active             | no          | yes   | WebKit      |
 | [Overwolf](http://www.overwolf.com/)          | active             | no          | no    | Unspecified |
 
 ## Software that can be modified to act like web browsers
