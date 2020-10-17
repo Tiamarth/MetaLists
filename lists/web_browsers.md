@@ -96,10 +96,11 @@
 | [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
 | [Unstoppable](https://unstoppabledomains.com/browser)                                         | active               | yes         | no     | Blink         |
+| [UR](https://www.ur-browser.com/)                                                             | active               | no          | no     | Blink         |
 | [Whale](https://whale.naver.com/en/)                                                          | active               | no          | yes    | Blink         |
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | active               | no          | no     | Blink         |
 | [360 Security Browser](https://browser.360.cn/se/en.html)                                     | active               | no          | no     | Blink         |
-| [Stratus](http://stratusbrowser.com/)                                                         | active               | yes         | no     | EdgeHTML      |
+| [Stratus](https://github.com/chrisg32/Stratus)                                                | discontinued         | yes         | no     | EdgeHTML      |
 | [Liri](https://github.com/lirios/browser)                                                     | active^4             | yes         | yes    | QtWebEngine   |
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
 | [AOL Desktop](https://discover.aol.com/products-and-services/aol-desktop-for-windows)         | unclear              | no          | no     | WebKit        |
