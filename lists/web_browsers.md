@@ -70,6 +70,7 @@
 | [AOL Shield Pro](https://discover.aol.com/products-and-services/aol-shield-browser)           | unclear              | no          | no     | Blink         |
 | [Beaker](https://beakerbrowser.com/)                                                          | active               | yes         | yes    | Blink         |
 | [Blisk](https://blisk.io/)                                                                    | active               | no          | soon   | Blink         |
+| [Bright](https://www.brightbrowser.com/)                                                      | active               | no          | no     | Blink         |
 | [CentBrowser](http://www.centbrowser.com/)                                                    | active               | no          | no     | Blink         |
 | [Citrio](http://citrio.com/)                                                                  | discontinued         | no          | no     | Blink         |
 | [Colibri](https://colibri.opqr.co/)                                                           | dormant              | no          | yes    | Blink         |
@@ -103,8 +104,9 @@
 | [Stratus](https://github.com/chrisg32/Stratus)                                                | discontinued         | yes         | no     | EdgeHTML      |
 | [Liri](https://github.com/lirios/browser)                                                     | active^4             | yes         | yes    | QtWebEngine   |
 | [Otter](https://otter-browser.org/)                                                           | active               | yes         | yes    | QtWebEngine   |
-| [AOL Desktop](https://discover.aol.com/products-and-services/aol-desktop-for-windows)         | unclear              | no          | no     | WebKit        |
+| [AOL Desktop](https://discover.aol.com/products-and-services/aol-desktop-for-windows)         | discontinued         | no          | no     | WebKit        |
 | [Arora](https://github.com/arora/arora)                                                       | discontinued         | yes         | yes    | WebKit        |
+| [Cruz](https://apps.apple.com/us/app/cruz/id402357089?mt=12)                                  | discontinued         | no          | no     | Webkit        |
 | [Dooble](https://textbrowser.github.io/dooble/)                                               | active               | yes         | yes    | WebKit        |
 | [iCab](http://www.icab.de/dl.php)                                                             | active               | no          | no     | WebKit        |
 | [Internet Surfboard](http://inetsurfboard.sourceforge.net/)                                   | discontinued         | yes         | no     | WebKit        |
@@ -136,7 +138,7 @@
 | [Tungsten](http://en.tungsten-start.net/)                                                     | ongoing              | no          | no     | Various       |
 | [UC Browser](http://www.ucweb.com/)                                                           | active               | no          | no     | Various       |
 | [Alloy](http://alloy.simoncaminada.ch/)                                                       | discontinued         | no          | no     | Unspecified   |
-| [IBrowse](http://www.ibrowse-dev.net/)                                                        | ongoing              | no          | no     | Unspecified   |
+| [IBrowse](http://www.ibrowse-dev.net/)                                                        | active               | no          | no     | Unspecified   |
 | [Links](http://links.twibright.com/)                                                          | unclear              | yes         | yes    | Unspecified   |
 | [Lynx](http://lynx.browser.org/)                                                              | unclear              | yes         | yes    | Unspecified   |
 | [Webby](https://launchpad.net/webby-browser)                                                  | discontinued         | yes         | yes    | Unspecified   |
@@ -159,7 +161,7 @@
 2. Vivaldi's changes to the Chromium code is open source under a BSD license, but the rest of the browser is proprietary.  
 3. The Maxthon client for Linux has been officially discontinued.  
 4. The Liri browser is currently being rewritten. The devs are also now working on what appears to be a Linux distro. I recommend you keep an eye on this project.  
-5. Everquest II's embedded browser, as far as I know, is only accessible via an easter egg. It's not intended to be used as a dedicated browser, and since Everquest II is a game, there's no realistic use case where someone would want to use it as a dedicated browser, so don't. It's inteded to be used as an in-game help center, but the easter egg lets you open it to a Google search page, and therefore to browse the broader internet. To do this, type `/pizza` in chat.  
+5. Everquest II's embedded browser, as far as I know, is only accessible via an easter egg. It's not intended to be used as a dedicated browser, and since Everquest II is a game, there's no realistic use case where someone would want to use it as a dedicated browser, so don't. It's intended to be used as an in-game help center, but the easter egg lets you open it to a Google search page, and therefore to browse the broader internet. To do this, type `/pizza` in chat.  
 6. Atom development is active, but the browserplus extension is not.  
 7. Minecraft development is active, but the WebDisplays mod is not.  
 
@@ -176,7 +178,7 @@ Preemptive responses to likely FAQs:
 *Not here.* This list is currently being maintained by hand, as are all the other lists in this repo, and there's already a pretty daunting amount of browsers available for desktop PCs. Including all the mobile browsers would at least double the length of this list and the primary point of MetaLists is to help Linux users find alternative software that runs on Linux. So including mobile browsers here seems unnecessary. That being said, I'm not strictly against including them (there are, after all, already some browsers on this list that do not run on desktop PCs at all) so if you have the time and want to do it, feel free to make the list and pull request.  
 
 ## Data
-This data is currently slightly innacurate because this list is currently in the process of being updated.
+This data is currently slightly inaccurate because this list is currently in the process of being updated.
 
 browsers: 120
 
