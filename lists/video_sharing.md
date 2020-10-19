@@ -9,7 +9,7 @@
 | [YouPHPTube](https://www.youphptube.com/)                 | yes           | yes         |
 | [MediaGoblin](https://mediagoblin.org/)                   | yes           | yes         |
 | [CumulusClips](http://cumulusclips.org/)                  | yes           | yes         |
-| [BitCute](https://www.bitchute.com/)                      | yes           | no          |
+| [BitChute](https://www.bitchute.com/)                     | yes           | no          |
 | [DevTube](https://dev.tube/)                              | no            | yes         |
 | [Onlystream.tv](https://onlystream.tv/)                   | no            | yes         |
 | [Veto](https://www.veto.social/)                          | no            | no          |
@@ -29,7 +29,6 @@
 | [PlayTube](https://playtubescript.com/)                   | no            | no          |
 | [DrakeTube](http://drakedragsaw.yooco.org/)               | no            | no          |
 | [VidlyTube](https://vidlytube.com/)                       | no            | no          |
-| [GorillaVid](https://gorillavid.in/)                      | no            | no          |
 | [Streamable](https://streamable.com/)                     | no            | no          |
 | [Verystream](https://verystream.com/)                     | no            | no          |
 | [Dailymotion](https://www.dailymotion.com/)               | no            | no          |
@@ -37,12 +36,12 @@
 | [FreeSpeechTube](https://www.freespeechtube.org/)         | no            | no          |
 
 ## Data
-video sharing platforms: 34
+video sharing platforms: 33
 
 **License**  
-open source: 10  
-proprietary: 24
+open source: 10
+proprietary: 23
 
 **Decentralized**  
 decentralized: 9  
-centralized: 25
+centralized: 24
