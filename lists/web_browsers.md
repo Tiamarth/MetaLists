@@ -97,7 +97,7 @@
 | [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
 | [Unstoppable](https://unstoppabledomains.com/browser)                                         | active               | yes         | no     | Blink         |
-| [UR](https://www.ur-browser.com/)                                                             | active               | no          | no     | Blink         |
+| [UR Browser](https://www.ur-browser.com/)                                                             | active               | no          | no     | Blink         |
 | [Whale](https://whale.naver.com/en/)                                                          | active               | no          | yes    | Blink         |
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | active               | no          | no     | Blink         |
 | [360 Security Browser](https://browser.360.cn/se/en.html)                                     | active               | no          | no     | Blink         |
