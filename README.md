@@ -41,19 +41,20 @@ I have not tested every piece of software and every service listed here. If you 
 | [Wallpaper Hosts](lists/wallpaper_hosts.md)                         | WallHaven                           |
 
 ## Planned
-| Name / Link               | Alternatives to       |
-| ------------------------- | --------------------- |
-| GitHub Desktop Clients    | GitHub Desktop        |
-| Image Editors             | Photoshop             |
-| Image Hosting Platforms   | Imgur                 |
-| Media Players             | Windows Media Player  |
-| Music Sharing Platforms   | Soundcloud            |
-| Notepads                  | Notepad               |
-| Online Stores             | Amazon                |
-| Podcast Sharing Platforms | iTunes/Apple Podcasts |
-| Streaming Platforms       | Twitch                |
-| VPNs                      | NordVPN               |
-| Word Processors           | Microsoft Word        |
+| Name / Link                     | Alternatives to       |
+| ------------------------------- | --------------------- |
+| GitHub Desktop Clients          | GitHub Desktop        |
+| Image Editors                   | Photoshop             |
+| Image Hosting Platforms         | Imgur                 |
+| Media Players                   | Windows Media Player  |
+| Music Sharing Platforms         | Soundcloud            |
+| Notepads                        | Notepad               |
+| Online Stores                   | Amazon                |
+| Podcast Sharing Platforms       | iTunes/Apple Podcasts |
+| Streaming Platforms             | Twitch                |
+| VPNs                            | NordVPN               |
+| Word Processors                 | Microsoft Word        |
+| Note Taking and Journaling Apps | OneNote and Evernote |
 
 ## Definitions of dev status terms
 - **unclear** : last release was not dated
