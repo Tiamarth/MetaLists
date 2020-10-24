@@ -54,9 +54,12 @@
 ## Virtually Unknown Browsers
 | Name / Link                                                                                   | Development Status   | Open Source | Linux  | Engine        |
 | --------------------------------------------------------------------------------------------- | -------------------- | ----------- | ------ | ------------- |
+| [Camino](http://caminobrowser.org/)                                                           | discontinued         | yes         | no     | Gecko         |
+| [Classilla](http://www.floodgap.com/software/classilla/)                                      | discontinued         | yes         | no     | Gecko         |
 | [Cliqz](https://cliqz.com/en/)                                                                | active               | yes         | yes    | Gecko         |
 | [CometBird](http://www.cometbird.com/)                                                        | discontinued         | yes         | no     | Gecko         |
 | [Comodo IceDragon](https://www.comodo.com/home/browsers-toolbars/icedragon-browser.php)       | active               | no          | no     | Gecko         |
+| [Conkeror](http://conkeror.org/)                                                              | unclear              | yes         | yes    | Gecko         |
 | [Cyberfox](https://sourceforge.net/projects/cyberfox/)                                        | discontinued         | yes         | yes    | Gecko         |
 | [Galeon](https://sourceforge.net/projects/galeon/)                                            | discontinued         | yes         | yes    | Gecko         |
 | [Iceweasel](https://wiki.debian.org/Iceweasel)                                                | deprecated           | yes         | yes    | Gecko         |
@@ -79,7 +82,7 @@
 | [Dissenter](https://dissenter.com/)                                                           | active               | yes         | yes    | Blink         |
 | [Epic Privacy Browser](https://www.epicbrowser.com/)                                          | active               | no          | no     | Blink         |
 | [FlashPeak Slimjet](http://www.slimjet.com/)                                                  | active               | no          | yes    | Blink         |
-| [Ghost](https://ghostbrowser.com/)                                                            | unclear              | no          | no     | Blink         |
+| [Ghost](https://ghostbrowser.com/)                                                            | active               | no          | no     | Blink         |
 | [Iridium](https://iridiumbrowser.de/)                                                         | active               | yes         | yes    | Blink         |
 | [Kinza](https://www.kinza.jp/en/)                                                             | active               | no          | no     | Blink         |
 | [Maxthon Nitro](http://www.maxthon.com/nitro/static.html)                                     | discontinued         | no          | no     | Blink         |
@@ -97,7 +100,7 @@
 | [Torch](http://torchbrowser.com/)                                                             | discontinued         | no          | no     | Blink         |
 | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                           | active               | yes         | yes    | Blink         |
 | [Unstoppable](https://unstoppabledomains.com/browser)                                         | active               | yes         | no     | Blink         |
-| [UR Browser](https://www.ur-browser.com/)                                                             | active               | no          | no     | Blink         |
+| [UR Browser](https://www.ur-browser.com/)                                                     | active               | no          | no     | Blink         |
 | [Whale](https://whale.naver.com/en/)                                                          | active               | no          | yes    | Blink         |
 | [360 Extreme Browser](https://browser.360.cn/ee/en.html)                                      | active               | no          | no     | Blink         |
 | [360 Security Browser](https://browser.360.cn/se/en.html)                                     | active               | no          | no     | Blink         |
@@ -138,6 +141,7 @@
 | [Tungsten](http://en.tungsten-start.net/)                                                     | ongoing              | no          | no     | Various       |
 | [UC Browser](http://www.ucweb.com/)                                                           | active               | no          | no     | Various       |
 | [Alloy](http://alloy.simoncaminada.ch/)                                                       | discontinued         | no          | no     | Unspecified   |
+| [BitTube](https://bittube.app/browser/)                                                       | active               | yes         | yes    | Unspecified   |
 | [IBrowse](http://www.ibrowse-dev.net/)                                                        | active               | no          | no     | Unspecified   |
 | [Links](http://links.twibright.com/)                                                          | unclear              | yes         | yes    | Unspecified   |
 | [Lynx](http://lynx.browser.org/)                                                              | unclear              | yes         | yes    | Unspecified   |
